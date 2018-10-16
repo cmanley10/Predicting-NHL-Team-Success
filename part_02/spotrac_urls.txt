@@ -1,0 +1,2058 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]--><!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]--><!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]--><!--[if IE 9]>    <html class="no-js ie9 oldie" lang="en"> <![endif]--><!--[if gt IE 8]><!--><html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<!-- start:global -->
+<meta charset="utf-8"/>
+<!-- end:global -->
+<!-- start:page title -->
+<title>NHL Player Contracts, Salaries, Team Salary Caps, and Transactions</title>
+<meta content="NHL Homepage,contract, salary, transaction,player salaries, payrolls, team salary cap, player contracts" name="keywords"/>
+<meta content="NHL player transactions, contracts and yearly salaries all in one place!" name="description"/>
+<meta content="NHL" property="og:title"/>
+<meta content="Spotrac.com" property="og:site_name"/>
+<meta content="https://www.spotrac.com/assets/images/thumb/nhl.png" property="og:image"/>
+<!-- end:page title -->
+<!-- start:responsive web design -->
+<meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport"/>
+<!-- end:responsive web design -->
+<!-- start:responsive web design -->
+<meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport"/>
+<!-- end:responsive web design -->
+<!-- start:web fonts -->
+<link href="//fonts.googleapis.com/css?family=Roboto:400,500,500italic,400italic,700,700italic%7CRoboto+Condensed:400,700%7CRoboto+Slab" rel="stylesheet" type="text/css"/>
+<link href="//fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet"/>
+<!-- end:web fonts -->
+<link href="https://www.spotrac.com/resources/css/bootstrap.min.css" rel="stylesheet"/>
+<link href="https://www.spotrac.com/resources/css/font-awesome.min.css" rel="stylesheet"/>
+<link href="https://www.spotrac.com/resources/css/jquery.sidr.dark.css" rel="stylesheet"/>
+<link href="https://www.spotrac.com/resources/css/team.css" rel="stylesheet"/>
+<link href="https://www.spotrac.com/resources/css/colors.css" rel="stylesheet"/>
+<link href="https://www.spotrac.com/resources/css/option-colors.css" rel="stylesheet"/>
+<link href="https://www.spotrac.com/resources/CreativeButtons/css/component.css" rel="stylesheet"/>
+<link href="//www.spotrac.com/resources/css/responsive-tables.css" media="screen" rel="stylesheet" type="text/css"/>
+<link href="https://www.spotrac.com/resources/css/style.css" rel="stylesheet"/>
+<link href="https://www.spotrac.com/resources/css/premium.css" rel="stylesheet"/>
+<script src="https://www.spotrac.com/resources/CreativeButtons/js/modernizr.custom.js"></script>
+<script type="text/javascript">
+    window._mNHandle = window._mNHandle || {};
+    window._mNHandle.queue = window._mNHandle.queue || [];
+    medianet_versionId = "3121199"; 
+</script>
+<script async="async" src="//contextual.media.net/dmedianet.js?cid=8CU2U5KL3"></script>
+</head><body><div class="optanon-alert-box-wrapper" style="bottom: 0px;">
+<div class="optanon-alert-box-bottom-top">
+<div class="optanon-alert-box-corner-close"><a class="optanon-alert-box-close" href="#" onclick="Optanon.TriggerGoogleAnalyticsEvent('OneTrust Cookie Consent', 'Banner Close Button');" title="Close Banner"></a>
+</div>
+</div>
+<div class="optanon-alert-box-bg">
+<div class="optanon-alert-box-button-container">
+<div class="optanon-alert-box-button optanon-button-more">
+<div class="optanon-alert-box-button-middle"><a class="optanon-toggle-display cookie-alert-settings" href="#">Cookie Settings</a>
+</div>
+</div>
+<div class="optanon-alert-box-button optanon-button-allow">
+<div class="optanon-alert-box-button-middle"><a class="optanon-allow-all cookie-alert-accept" href="#">Accept Cookies</a>
+</div>
+</div>
+<div class="optanon-alert-box-button optanon-button-close">
+<div class="optanon-alert-box-button-middle"><a class="optanon-alert-box-close cookie-alert-close" href="#">Close</a></div>
+</div>
+</div>
+<div class="optanon-clearfix optanon-alert-box-bottom-padding"></div>
+<div class="optanon-alert-box-logo"> </div>
+<div class="optanon-alert-box-body"><p>We use cookies to offer you a better browsing experience, analyse site traffic, and serve targeted ads. Read how we use cookies and how you can control them in our “Cookie Settings”. By using our site, you consent to our use of cookies.</p></div>
+<div class="optanon-clearfix"></div>
+</div>
+</div>
+<!--[if lte IE 8]>
+<script src="https://www.spotrac.com/resources/js/respond.js"></script>
+<![endif]-->
+<!--[if lt IE 9]>
+<link rel="stylesheet" href="https://www.spotrac.com/resources/css/photobox.ie.css">
+<script src="https://www.spotrac.com/resources/js/html5shiv.js"></script>
+<![endif]-->
+<!-- start:page outer wrap -->
+<div id="page-outer-wrap">
+<!-- start:page inner wrap -->
+<div id="page-inner-wrap">
+<meta content="on" name="twitter:widgets:csp"/>
+<!--MOBILE MENU-->
+<header class="visible-xs" id="page-header-mobile">
+<div class="row">
+<!-- start:col -->
+<div class="col-xs-8">
+<!-- start:logo -->
+<a href="https://www.spotrac.com/"><img alt="Spotrac" class="mobile-logo" src="https://www.spotrac.com/resources/images/mark.png"/><h1>spotrac</h1></a>
+<!-- end:logo -->
+</div>
+<div class="col-xs-4 text-right">
+<a href="#" id="nav-expander" onclick="return false;"><span class="fa fa-bars" style="z-index:1000000;position:relative;"></span></a>
+</div>
+<!-- end:col -->
+</div>
+<!-- end:row -->
+<!-- start:sidr -->
+<div id="sidr">
+<form action="https://www.spotrac.com/redirect/search/" id="search-form-mobile" method="post">
+<input name="search" placeholder="Search a Player or Team" type="text"/>
+</form>
+<ul>
+<li class="cat-nfl">
+<a class="more" href="#"><i class="fa fa-angle-down"></i></a>
+<a href="https://www.spotrac.com/nfl/">NFL</a>
+<ul class="subnav-menu">
+<li><a href="https://www.spotrac.com/nfl/cap/">Team Salary Caps</a></li>
+<li><a href="https://www.spotrac.com/nfl/positional/">Positional Spending</a></li>
+<li><a href="https://www.spotrac.com/nfl/contracts/">Contracts</a></li>
+<li><a href="https://www.spotrac.com/nfl/rankings/">Salary Rankings</a></li>
+<li><a href="https://www.spotrac.com/nfl/free-agents/">Free Agents</a></li>
+<li>
+<a class="moremore" href="#"><i class="fa fa-angle-down"></i></a>
+<a href="#">Trackers &amp; Tools</a>
+<ul class="subsubnav">
+<li><a href="https://www.spotrac.com/nfl/market-value/">» Market Values</a></li>
+<li><a href="https://www.spotrac.com/nfl/fines-suspensions/">» Fines/Suspensions</a></li>
+<li><a href="https://www.spotrac.com/nfl/injured-reserve/">» IR Tracker</a></li>
+<li><a href="https://www.spotrac.com/nfl/depth-charts/">» Depth Charts Tracker</a></li>
+<li><a href="https://www.spotrac.com/nfl/draft/">» Draft Tracker</a></li>
+<li><a href="https://www.spotrac.com/nfl/option/">» Options</a></li>
+<li><a href="https://www.spotrac.com/nfl/college/">» College Tracker</a></li>
+</ul>
+</li>
+<li><a href="https://www.spotrac.com/nfl/valuation/">Best Values</a></li>
+<li><a href="https://www.spotrac.com/nfl/transactions/">Transactions</a></li>
+</ul>
+</li>
+<li class="cat-nba">
+<a class="more" href="#"><i class="fa fa-angle-down"></i></a>
+<a href="https://www.spotrac.com/nba/">NBA</a>
+<ul class="subnav-menu">
+<li><a href="https://www.spotrac.com/nba/cap/">Team Cap Tracker</a></li>
+<li><a href="https://www.spotrac.com/nba/positional/">Positional Payrolls</a></li>
+<li><a href="https://www.spotrac.com/nba/contracts/">Contracts</a></li>
+<li><a href="https://www.spotrac.com/nba/rankings/">Salary Rankings</a></li>
+<li><a href="https://www.spotrac.com/nba/free-agents/">Free Agents</a></li>
+<li>
+<a class="moremore" href="#"><i class="fa fa-angle-down"></i></a>
+<a href="https://www.spotrac.com/nba/free-agents/">Trackers &amp; Tools</a>
+<ul class="subsubnav">
+<li><a href="https://www.spotrac.com/nba/depth-charts/">» Depth Charts</a></li>
+<li><a href="https://www.spotrac.com/nba/option/">» Options</a></li>
+<li><a href="https://www.spotrac.com/nba/fines-suspensions/">» Fines/Suspensions</a></li>
+<li><a href="https://www.spotrac.com/nba/draft/">» Draft Tracker</a></li>
+<li><a href="https://www.spotrac.com/nba/college/">» College Tracker</a></li>
+<li><a href="https://www.spotrac.com/nba/transactions/trade/">» Trade Tracker</a></li>
+<li><a href="https://www.spotrac.com/nba/country/">» Country Tracker</a></li>
+</ul>
+</li>
+<li><a href="https://www.spotrac.com/nba/valuation/">Best Values</a></li>
+<li><a href="https://www.spotrac.com/nba/transactions/">Transactions</a></li>
+</ul>
+</li>
+<li class="cat-mlb">
+<a class="more" href="#"><i class="fa fa-angle-down"></i></a>
+<a href="https://www.spotrac.com/mlb/">MLB</a>
+<ul class="subnav-menu">
+<li><a href="https://www.spotrac.com/mlb/payroll/">Team Payrolls</a></li>
+<li><a href="https://www.spotrac.com/mlb/positional/">Positional Payrolls</a></li>
+<li><a href="https://www.spotrac.com/mlb/contracts/">Contracts</a></li>
+<li><a href="https://www.spotrac.com/mlb/rankings/">Salary Rankings</a></li>
+<li><a href="https://www.spotrac.com/mlb/free-agents/">Free Agents</a></li>
+<li>
+<a class="moremore" href="#"><i class="fa fa-angle-down"></i></a>
+<a href="https://www.spotrac.com/mlb/free-agents/">Trackers &amp; Tools</a>
+<ul class="subsubnav">
+<li><a href="https://www.spotrac.com/mlb/fines-suspensions/">» Fines/Suspensions</a></li>
+<li><a href="https://www.spotrac.com/mlb/disabled-list/">» Disabled List</a></li>
+<li><a href="https://www.spotrac.com/mlb/option/">» Options Tracker</a></li>
+<li><a href="https://www.spotrac.com/mlb/transactions/trade/">» Trade Tracker</a></li>
+<li><a href="https://www.spotrac.com/mlb/arbitration/">» Arbitration Tracker</a></li>
+</ul>
+</li>
+<li><a href="https://www.spotrac.com/mlb/valuation/">Best Values</a></li>
+<li><a href="https://www.spotrac.com/mlb/transactions/">Transactions</a></li>
+</ul>
+</li>
+<li class="cat-nhl">
+<a class="more" href="#"><i class="fa fa-angle-down"></i></a>
+<a href="https://www.spotrac.com/nhl/">NHL</a>
+<ul class="subnav-menu">
+<li><a href="https://www.spotrac.com/nhl/cap/">Team Salary Caps</a></li>
+<li><a href="https://www.spotrac.com/nhl/positional/">Positional Payrolls</a></li>
+<li><a href="https://www.spotrac.com/nhl/contracts/">Contracts</a></li>
+<li><a href="https://www.spotrac.com/nhl/rankings/">Salary Rankings</a></li>
+<li><a href="https://www.spotrac.com/nhl/free-agents/">Free Agents</a></li>
+<li>
+<a class="moremore" href="#"><i class="fa fa-angle-down"></i></a>
+<a href="https://www.spotrac.com/nhl/free-agents/">Trackers &amp; Tools</a>
+<ul class="subsubnav">
+<li><a href="https://www.spotrac.com/nhl/injured-reserve/">» IR Tracker</a></li>
+<li><a href="https://www.spotrac.com/nhl/option/">» Options</a></li>
+<li><a href="https://www.spotrac.com/nhl/fines-suspensions/">» Fines/Suspensions</a></li>
+<li><a href="https://www.spotrac.com/nhl/draft/">Draft Tracker</a></li>
+<li><a href="https://www.spotrac.com/nhl/transactions/trade/">» Trade Tracker</a></li>
+<li><a href="https://www.spotrac.com/nhl/college/">» College/Junior Team Tracker</a></li>
+<li><a href="https://www.spotrac.com/nhl/country/">» Country Tracker</a></li>
+</ul>
+</li>
+<li><a href="https://www.spotrac.com/nhl/valuation/">Best Values</a></li>
+<li><a href="https://www.spotrac.com/nhl/transactions/">Transactions</a></li>
+</ul>
+</li>
+<li class="cat-epl">
+<a class="more" href="#"><i class="fa fa-angle-down"></i></a>
+<a href="https://www.spotrac.com/epl/">EPL</a>
+<ul class="subnav-menu">
+<li><a href="https://www.spotrac.com/epl/">Team Payrolls</a></li>
+<li><a href="https://www.spotrac.com/epl/positional/">Positional Payrolls</a></li>
+<li>
+<a class="moremore" href="#"><i class="fa fa-angle-down"></i></a>
+<a href="#">Salary Rankings</a>
+<ul class="subsubnav">
+<li><a href="https://www.spotrac.com/epl/rankings/">» Average Salary</a></li>
+<li><a href="https://www.spotrac.com/epl/rankings/weekly/">» Weekly Wage</a></li>
+<li><a href="https://www.spotrac.com/epl/rankings/contract-value/">» Contract Value</a></li>
+<li><a href="https://www.spotrac.com/epl/rankings/transfer-feee/">» Transfer Feer</a></li>
+</ul>
+</li>
+<li><a href="https://www.spotrac.com/epl/transfers/">Transfers</a></li>
+<li><a href="https://www.spotrac.com/epl/free-agents/">Free Agents</a></li>
+<li><a href="https://www.spotrac.com/epl/transactions/">Transactions</a></li>
+</ul>
+</li>
+<li class="cat-mls">
+<a class="more" href="#"><i class="fa fa-angle-down"></i></a>
+<a href="https://www.spotrac.com/mls/">MLS</a>
+<ul class="subnav-menu">
+<li><a href="https://www.spotrac.com/mls/">Team Payrolls</a></li>
+<li><a href="https://www.spotrac.com/mls/positional/">Positional Payrolls</a></li>
+<li><a href="https://www.spotrac.com/mls/rankings/">Salary Rankings</a></li>
+<li>
+<a class="moremore" href="#"><i class="fa fa-angle-down"></i></a>
+<a href="#">Trackers &amp; Tools</a>
+<ul class="subsubnav">
+<li><a href="https://www.spotrac.com/mls/cap/">» Team Caps</a></li>
+<li><a href="https://www.spotrac.com/mls/draft/">» Draft Tracker</a></li>
+<li><a href="https://www.spotrac.com/mls/college/">» College Tracker</a></li>
+<li><a href="https://www.spotrac.com/mls/transactions/trade/">» Trade Tracker</a></li>
+</ul>
+</li>
+<li><a href="https://www.spotrac.com/mls/transactions/">Transactions</a></li>
+</ul>
+</li>
+<li class="cat-news">
+<a class="more" href="#"><i class="fa fa-angle-down"></i></a>
+<a href="#">More</a>
+<ul class="subnav-menu">
+<li><a href="https://www.spotrac.com/radio/">Radio Podcast</a></li>
+<li><a href="https://www.spotrac.com/fantasy/">Fantasy Contests</a></li>
+<li><a href="https://www.spotrac.com/research/">Research &amp; News</a></li>
+</ul>
+</li>
+<li class="cat-extra">
+<a class="more" href="#"><i class="fa fa-angle-down"></i></a>
+<a class="gold" href="#">PREMIUM</a>
+<ul class="subnav-menu">
+<li><a href="https://www.spotrac.com/signin/"><i class="fa fa-sign-in"></i> Sign In</a></li>
+<li><a href="https://www.spotrac.com/register/"><i class="fa fa-pencil-square-o"></i> Register</a></li>
+</ul>
+</li>
+<li class="cat-news">
+<a href="https://www.spotrac.com/contact/"><i class="fa fa-envelope-o"></i> Contact Us</a>
+</li>
+<li class="cat-news">
+<a href="https://www.twitter.com/spotrac"><i class="fa fa-twitter"></i> Twitter</a>
+</li>
+<li class="cat-news">
+<a href="https://www.facebook.com/spotrac"><i class="fa fa-facebook"></i> Facebook</a>
+</li>
+</ul>
+</div>
+<!-- end:sidr -->
+<!-- start:row -->
+</header>
+<!-- end:MOBILE MENU -->
+<!---DESKTOP HEADER--->
+<header class="hidden-xs" id="page-header">
+<!-- start:header-branding -->
+<div id="header-branding">
+<!-- start:container -->
+<div class="container ">
+<!-- start:row -->
+<div class="row">
+<!-- start:col -->
+<div class="logo col-sm-3 col-md-3">
+<!-- start:logo -->
+<h1><a href="https://www.spotrac.com/"><img alt="Sports Contracts, Salaries, &amp; Cap Hits" src="https://www.spotrac.com/resources/images/logo-300.png"/></a></h1>
+<!-- end:logo -->
+</div>
+<!-- end:col -->
+<!-- start:col -->
+<div class="searchform col-sm-5 col-md-5 text-center col-sm-offset-1">
+<form action="https://www.spotrac.com/redirect/search/" id="search-form" method="post">
+<input name="search" placeholder="Search a Player or Team" type="text"/>
+<button><span class="glyphicon glyphicon-search"></span></button>
+</form>
+</div>
+<!-- end:col -->
+<!-- start:col -->
+<div class=" social col-sm-3 col-lg-2 text-right">
+<div class="weather">
+<h4 style="display:block;">Follow Spotrac</h4>
+<a href="https://www.spotrac.com/radio/"><i class="fa fa-podcast fa-lg"></i></a>
+<a href="https://www.twitter.com/spotrac" target="_blank"><i class="fa fa-twitter fa-lg"></i></a>
+<a href="https://www.facebook.com/spotrac" target="_blank"><i class="fa fa-facebook-square fa-lg"></i></a>
+</div>
+</div>
+<!-- end:col -->
+</div>
+<!-- end:row -->
+</div>
+<!-- end:container -->
+</div>
+<!-- end:header-branding -->
+<!-- start:header-navigation -->
+<div id="header-navigation">
+<!-- start:container -->
+<div class="container ">
+<!-- start:menu -->
+<nav id="menu">
+<ul class="nav clearfix col-md-9">
+<li class="home" style="height:40px;"><a href="https://www.spotrac.com/"><span class="glyphicon glyphicon-home"></span></a></li>
+<!---NFL--->
+<li class="cat-nfl ">
+<a class="clickable" href="#">NFL <i class="fa fa-caret-down"></i></a>
+<!-- start:submenu-NFL -->
+<div class="subnav-container">
+<ul class="subnav-menu">
+<li class="current">
+<a href="https://www.spotrac.com/nfl/cap/">Team Salary Caps</a>
+<div class="subnav-posts">
+<!-- start:NFL Teams -->
+<ul class="menu-list">
+<li><a href="https://www.spotrac.com/nfl/arizona-cardinals/cap/">Arizona Cardinals</a></li>
+<li><a href="https://www.spotrac.com/nfl/atlanta-falcons/cap/">Atlanta Falcons</a></li>
+<li><a href="https://www.spotrac.com/nfl/baltimore-ravens/cap/">Baltimore Ravens</a></li>
+<li><a href="https://www.spotrac.com/nfl/buffalo-bills/cap/">Buffalo Bills</a></li>
+<li><a href="https://www.spotrac.com/nfl/carolina-panthers/cap/">Carolina Panthers</a></li>
+<li><a href="https://www.spotrac.com/nfl/chicago-bears/cap/">Chicago Bears</a></li>
+<li><a href="https://www.spotrac.com/nfl/cincinnati-bengals/cap/">Cincinnati Bengals</a></li>
+<li><a href="https://www.spotrac.com/nfl/cleveland-browns/cap/">Cleveland Browns</a></li>
+</ul>
+<ul class="menu-list">
+<li><a href="https://www.spotrac.com/nfl/dallas-cowboys/cap/">Dallas Cowboys</a></li>
+<li><a href="https://www.spotrac.com/nfl/denver-broncos/cap/">Denver Broncos</a></li>
+<li><a href="https://www.spotrac.com/nfl/detroit-lions/cap/">Detroit Lions</a></li>
+<li><a href="https://www.spotrac.com/nfl/green-bay-packers/cap/">Green Bay Packers</a></li>
+<li><a href="https://www.spotrac.com/nfl/houston-texans/cap/">Houston Texans</a></li>
+<li><a href="https://www.spotrac.com/nfl/indianapolis-colts/cap/">Indianapolis Colts</a></li>
+<li><a href="https://www.spotrac.com/nfl/jacksonville-jaguars/cap/">Jacksonville Jaguars</a></li>
+<li><a href="https://www.spotrac.com/nfl/kansas-city-chiefs/cap/">Kansas City Chiefs</a></li>
+</ul>
+<ul class="menu-list">
+<li><a href="https://www.spotrac.com/nfl/los-angeles-chargers/cap/">Los Angeles Chargers</a></li>
+<li><a href="https://www.spotrac.com/nfl/los-angeles-rams/cap/">Los Angeles Rams</a></li>
+<li><a href="https://www.spotrac.com/nfl/miami-dolphins/cap/">Miami Dolphins</a></li>
+<li><a href="https://www.spotrac.com/nfl/minnesota-vikings/cap/">Minnesota Vikings</a></li>
+<li><a href="https://www.spotrac.com/nfl/new-england-patriots/cap/">New England Patriots</a></li>
+<li><a href="https://www.spotrac.com/nfl/new-orleans-saints/cap/">New Orleans Saints</a></li>
+<li><a href="https://www.spotrac.com/nfl/new-york-giants/cap/">New York Giants</a></li>
+<li><a href="https://www.spotrac.com/nfl/new-york-jets/cap/">New York Jets</a></li>
+</ul>
+<ul class="menu-list">
+<li><a href="https://www.spotrac.com/nfl/oakland-raiders/cap/">Oakland Raiders</a></li>
+<li><a href="https://www.spotrac.com/nfl/philadelphia-eagles/cap/">Philadelphia Eagles</a></li>
+<li><a href="https://www.spotrac.com/nfl/pittsburgh-steelers/cap/">Pittsburgh Steelers</a></li>
+<li><a href="https://www.spotrac.com/nfl/san-francisco-49ers/cap/">San Francisco 49ers</a></li>
+<li><a href="https://www.spotrac.com/nfl/seattle-seahawks/cap/">Seattle Seahawks</a></li>
+<li><a href="https://www.spotrac.com/nfl/tampa-bay-buccaneers/cap/">Tampa Bay Buccaneers</a></li>
+<li><a href="https://www.spotrac.com/nfl/tennessee-titans/cap/">Tennessee Titans</a></li>
+<li><a href="https://www.spotrac.com/nfl/washington-redskins/cap/">Washington Redskins</a></li>
+</ul>
+<ul class="menu-list">
+</ul>
+</div>
+</li>
+<li>
+<a href="https://www.spotrac.com/nfl/positional/">Positional Payrolls</a>
+<div class="subnav-posts">
+<!-- start:NFL positions -->
+<ul class="menu-list">
+<li><a href="https://www.spotrac.com/nfl/positional/offense/">Offense</a></li>
+<li><a href="https://www.spotrac.com/nfl/positional/quarterback/">Quarterback</a></li>
+<li><a href="https://www.spotrac.com/nfl/positional/running-back/">Running Back</a></li>
+<li><a href="https://www.spotrac.com/nfl/positional/fullback/">Fullback</a></li>
+<li><a href="https://www.spotrac.com/nfl/positional/wide-receiver/">Wide Receiver</a></li>
+<li><a href="https://www.spotrac.com/nfl/positional/tight-end/">Tight End</a></li>
+<li><a href="https://www.spotrac.com/nfl/positional/offensive-line/">Offensive Line</a></li>
+<li><a href="https://www.spotrac.com/nfl/positional/tackle/">Tackle</a></li>
+<li><a href="https://www.spotrac.com/nfl/positional/left-tackle/">Left Tackle</a></li>
+<li><a href="https://www.spotrac.com/nfl/positional/right-tackle/">Right Tackle</a></li>
+</ul>
+<ul class="menu-list">
+<li><a href="https://www.spotrac.com/nfl/positional/guard/">Guard</a></li>
+<li><a href="https://www.spotrac.com/nfl/positional/center/">Center</a></li>
+<li><a href="https://www.spotrac.com/nfl/positional/defense/">Defense</a></li>
+<li><a href="https://www.spotrac.com/nfl/positional/defensive-line/">Defensive Line</a></li>
+<li><a href="https://www.spotrac.com/nfl/positional/defensive-end/">Defensive End</a></li>
+<li><a href="https://www.spotrac.com/nfl/positional/defensive-tackle/">Defensive Tackle</a></li>
+<li><a href="https://www.spotrac.com/nfl/positional/linebacker/">Linebacker</a></li>
+<li><a href="https://www.spotrac.com/nfl/positional/outside-linebacker/">Outside Linebacker</a></li>
+<li><a href="https://www.spotrac.com/nfl/positional/inside-linebacker/">Inside Linebacker</a></li>
+<li><a href="https://www.spotrac.com/nfl/positional/edge/">Edge</a></li>
+</ul>
+<ul class="menu-list">
+<li><a href="https://www.spotrac.com/nfl/positional/secondary/">Secondary</a></li>
+<li><a href="https://www.spotrac.com/nfl/positional/cornerback/">Cornerback</a></li>
+<li><a href="https://www.spotrac.com/nfl/positional/safety/">Safety</a></li>
+<li><a href="https://www.spotrac.com/nfl/positional/free-safety/">Free Safety</a></li>
+<li><a href="https://www.spotrac.com/nfl/positional/strong-safety/">Strong Safety</a></li>
+<li><a href="https://www.spotrac.com/nfl/positional/special/">Special Teams</a></li>
+<li><a href="https://www.spotrac.com/nfl/positional/kicker/">Kicker</a></li>
+<li><a href="https://www.spotrac.com/nfl/positional/punter/">Punter</a></li>
+<li><a href="https://www.spotrac.com/nfl/positional/long-snapper/">Long Snapper</a></li>
+</ul>
+<!-- end:NFL positions -->
+</div>
+</li>
+<li>
+<a href="https://www.spotrac.com/nfl/contracts/">Contracts</a>
+<div class="subnav-posts">
+<!-- start:NFL Contracts -->
+<ul class="menu-list">
+<li><a href="https://www.spotrac.com/nfl/contracts/">Contracts By Team</a></li>
+<li><a href="https://www.spotrac.com/nfl/contracts/quarterback/">Contracts By Position</a></li>
+<li><a href="https://www.spotrac.com/nfl/contracts/sort-value/">Largest Contracts</a></li>
+<li><a href="https://www.spotrac.com/nfl/contracts/sort-length/">Longest Contracts</a></li>
+<li><a href="https://www.spotrac.com/nfl/injured-reserve/">Contracts on IR</a>
+</li><li><a href="https://www.spotrac.com/nfl/free-agents/">Expiring Contracts</a></li>
+</ul>
+<ul class="menu-list" style="width:40%;">
+<li><a href="https://www.spotrac.com/nfl/contracts/cumulative-cash/">Cumulative Cash per Contract</a></li>
+<li><a href="https://www.spotrac.com/nfl/contracts/quarterback/">Contract Breakdowns by Years</a></li>
+<li><a href="https://www.spotrac.com/nfl/contracts/type-rookie/">Rookie Contracts</a></li>
+<li><a href="https://www.spotrac.com/nfl/contracts/type-veteran/">Veteran Contracts</a></li>
+<li><a href="https://www.spotrac.com/nfl/college/">Contracts by College</a></li>
+<li><a href="https://www.spotrac.com/nfl/contracts/sort-age/">Contracts by Age</a></li>
+</ul>
+<!-- end:nfl contracts -->
+</div>
+</li>
+<li>
+<a href="https://www.spotrac.com/nfl/rankings/">Salary Rankings</a>
+<div class="subnav-posts">
+<!-- start:NFL Rankings -->
+<ul class="menu-list">
+<li><a href="https://www.spotrac.com/nfl/rankings/">Top Cap Hits</a></li>
+<li><a href="https://www.spotrac.com/nfl/rankings/base/">Top Base Salaries</a></li>
+<li><a href="https://www.spotrac.com/nfl/rankings/average/">Average Salaries</a></li>
+<li><a href="https://www.spotrac.com/nfl/rankings/cash/">Top Annual Cash</a></li>
+<li><a href="https://www.spotrac.com/nfl/rankings/guaranteed/">Top Guaranteed Money</a></li>
+<li><a href="https://www.spotrac.com/nfl/rankings/signing-bonus/">Top Signing Bonuses</a></li>
+<li><a href="https://www.spotrac.com/nfl/rankings/dead-money/">Top Dead Cap</a></li>
+<li><a href="https://www.spotrac.com/nfl/earnings/">Career Earnings</a></li>
+</ul>
+<ul class="menu-list">
+<li><a href="https://www.spotrac.com/nfl/rankings/base/arizona-cardinals/">Salaries by Team</a></li>
+<li><a href="https://www.spotrac.com/nfl/rankings/base/quarterback/">Salaries by Position</a></li>
+<li><a href="https://www.spotrac.com/nfl/rankings/arizona-cardinals/">Cap Hits by Team</a></li>
+<li><a href="https://www.spotrac.com/nfl/rankings/quarterback/">Cap Hits by Position</a></li>
+<li><a href="https://www.spotrac.com/nfl/rankings/franchise-tag/">Franchise Tags</a></li>
+</ul>
+<!-- end:NFL rankings -->
+</div>
+</li>
+<li>
+<a href="https://www.spotrac.com/nfl/trackers/">Trackers &amp; Tools</a>
+<div class="subnav-posts">
+<ul class="menu-list" style="width:21%;">
+<li><a href="https://www.spotrac.com/nfl/cap/">Team Salary Cap Tracker</a></li>
+<li><a href="https://www.spotrac.com/nfl/free-agents/">Free Agent Tracker</a></li>
+<li><a href="https://www.spotrac.com/nfl/fines-suspensions/">Fines &amp; Suspensions</a></li>
+<li><a href="https://www.spotrac.com/nfl/injured-reserve/">Injured Reserve</a></li>
+<li><a href="https://www.spotrac.com/nfl/transactions/trade/">Trade Tracker</a></li>
+<li><a href="https://www.spotrac.com/nfl/draft/">Draft Tracker</a></li>
+<li><a href="https://www.spotrac.com/nfl/option/">Option Tracker</a></li>
+<li><a href="https://www.spotrac.com/nfl/college/">College Tracker</a></li>
+<li><a href="https://www.spotrac.com/nfl/agents/">Agents Tracker</a></li>
+</ul>
+<ul class="menu-list" style="width:25%;">
+<li><a href="https://www.spotrac.com/nfl/market-value/">Current Market Values</a></li>
+<li><a href="https://www.spotrac.com/nfl/depth-charts/">Depth Charts Tracker</a></li>
+<li><a href="https://www.spotrac.com/nfl/tools/visual-roster-spending/">Visual Roster Spending</a></li>
+<li><a href="https://www.spotrac.com/nfl/tools/offseason/">Offseason Spending</a></li>
+<li><a href="https://www.spotrac.com/nfl/tools/contract-builder/">Contract Builder</a></li>
+<li><a href="https://www.spotrac.com/nfl/tools/roster/">Roster/Salary Cap Manager</a></li>
+</ul>
+</div>
+</li>
+<li><a href="https://www.spotrac.com/nfl/valuation/">Best Values</a>
+<div class="subnav-posts">
+<ul class="menu-list" style="width:50%;">
+<li><a href="https://www.spotrac.com/nfl/valuation/">Best Value Players</a></li>
+<li><a href="https://www.spotrac.com/nfl/valuation/offense/">Best Value Offensive Players</a></li>
+<li><a href="https://www.spotrac.com/nfl/valuation/defense/">Best Value Defensive Players</a></li>
+<li><a href="#"> </a></li>
+<li><a href="https://www.spotrac.com/nfl/valuation/team/">Best Value Teams</a></li>
+</ul>
+</div>
+</li>
+<li>
+<a href="https://www.spotrac.com/nfl/statistics/">Statistics</a>
+<div class="subnav-posts">
+<ul class="menu-list" style="width:300px">
+<li><a href="https://www.spotrac.com/nfl/statistics/">Statistics Leaders</a></li>
+<li><a href="https://www.spotrac.com/nfl/statistics/player/">Player Statistics</a></li>
+<li><a href="https://www.spotrac.com/nfl/statistics/team/">Team Statistics</a></li>
+</ul>
+</div>
+</li>
+<li>
+<a href="https://www.spotrac.com/nfl/transactions/">Transactions</a>
+<div class="subnav-posts">
+<ul class="menu-list" style="width:50%;">
+<li><a href="https://www.spotrac.com/nfl/transactions/">NFL Transactions</a></li>
+<li><a href="https://www.spotrac.com/nfl/transactions/trade/">Trade Tracker</a></li>
+<li><a href="https://www.spotrac.com/nfl/transactions/signed-free-agent/">Free Agent Signings</a></li>
+<li><a href="https://www.spotrac.com/nfl/transactions/upcoming/">Future Bonuses &amp; Guarantees</a></li>
+</ul>
+</div>
+</li>
+<li>
+<a href="#">Premium Tools</a>
+<div class="subnav-posts">
+<ul class="menu-list" style="width:50%">
+<li><a href="https://www.spotrac.com/nfl/contracts/breakdown/">Contract Breakdowns by Year</a></li>
+<li><a href="https://www.spotrac.com/nfl/yearly/">Multi-Year Salary Tool</a></li>
+<li><a href="https://www.spotrac.com/nfl/tools/compare-teams/">Financial Team Comparison</a></li>
+<li><a href="https://www.spotrac.com/nfl/tools/compare-players/">Financial Player Comparison</a></li>
+<li><a href="https://www.spotrac.com/nfl/tools/yearly-pct/">Yearly % Change</a></li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+<!-- end:submenu-NFL -->
+</li>
+<!---NBA--->
+<li class="cat-nba ">
+<a class="clickable" href="#">NBA <i class="fa fa-caret-down"></i></a>
+<!-- start:submenu-NBA -->
+<div class="subnav-container" style="display:none">
+<ul class="subnav-menu">
+<li class="current">
+<a href="https://www.spotrac.com/nba/cap/">Team Salary Caps</a>
+<div class="subnav-posts">
+<!-- start:NBA teams -->
+<ul class="menu-list">
+<li style="width:225px;"><a href="https://www.spotrac.com/nba/atlanta-hawks//cap">Atlanta Hawks</a></li>
+<li style="width:225px;"><a href="https://www.spotrac.com/nba/boston-celtics//cap">Boston Celtics</a></li>
+<li style="width:225px;"><a href="https://www.spotrac.com/nba/brooklyn-nets//cap">Brooklyn Nets</a></li>
+<li style="width:225px;"><a href="https://www.spotrac.com/nba/charlotte-hornets//cap">Charlotte Hornets</a></li>
+<li style="width:225px;"><a href="https://www.spotrac.com/nba/chicago-bulls//cap">Chicago Bulls</a></li>
+<li style="width:225px;"><a href="https://www.spotrac.com/nba/cleveland-cavaliers//cap">Cleveland Cavaliers</a></li>
+<li style="width:225px;"><a href="https://www.spotrac.com/nba/dallas-mavericks//cap">Dallas Mavericks</a></li>
+<li style="width:225px;"><a href="https://www.spotrac.com/nba/denver-nuggets//cap">Denver Nuggets</a></li>
+<li style="width:225px;"><a href="https://www.spotrac.com/nba/detroit-pistons//cap">Detroit Pistons</a></li>
+</ul>
+<ul class="menu-list">
+<li style="width:225px;"><a href="https://www.spotrac.com/nba/golden-state-warriors//cap">Golden State Warriors</a></li>
+<li style="width:225px;"><a href="https://www.spotrac.com/nba/houston-rockets//cap">Houston Rockets</a></li>
+<li style="width:225px;"><a href="https://www.spotrac.com/nba/indiana-pacers//cap">Indiana Pacers</a></li>
+<li style="width:225px;"><a href="https://www.spotrac.com/nba/los-angeles-clippers//cap">Los Angeles Clippers</a></li>
+<li style="width:225px;"><a href="https://www.spotrac.com/nba/los-angeles-lakers//cap">Los Angeles Lakers</a></li>
+<li style="width:225px;"><a href="https://www.spotrac.com/nba/memphis-grizzlies//cap">Memphis Grizzlies</a></li>
+<li style="width:225px;"><a href="https://www.spotrac.com/nba/miami-heat//cap">Miami Heat</a></li>
+<li style="width:225px;"><a href="https://www.spotrac.com/nba/milwaukee-bucks//cap">Milwaukee Bucks</a></li>
+<li style="width:225px;"><a href="https://www.spotrac.com/nba/minnesota-timberwolves//cap">Minnesota Timberwolves</a></li>
+</ul>
+<ul class="menu-list">
+<li style="width:225px;"><a href="https://www.spotrac.com/nba/new-orleans-pelicans//cap">New Orleans Pelicans</a></li>
+<li style="width:225px;"><a href="https://www.spotrac.com/nba/new-york-knicks//cap">New York Knicks</a></li>
+<li style="width:225px;"><a href="https://www.spotrac.com/nba/oklahoma-city-thunder//cap">Oklahoma City Thunder</a></li>
+<li style="width:225px;"><a href="https://www.spotrac.com/nba/orlando-magic//cap">Orlando Magic</a></li>
+<li style="width:225px;"><a href="https://www.spotrac.com/nba/philadelphia-76ers//cap">Philadelphia 76ers</a></li>
+<li style="width:225px;"><a href="https://www.spotrac.com/nba/phoenix-suns//cap">Phoenix Suns</a></li>
+<li style="width:225px;"><a href="https://www.spotrac.com/nba/portland-trail-blazers//cap">Portland Trail Blazers</a></li>
+<li style="width:225px;"><a href="https://www.spotrac.com/nba/sacramento-kings//cap">Sacramento Kings</a></li>
+<li style="width:225px;"><a href="https://www.spotrac.com/nba/san-antonio-spurs//cap">San Antonio Spurs</a></li>
+</ul>
+<ul class="menu-list">
+<li style="width:225px;"><a href="https://www.spotrac.com/nba/toronto-raptors//cap">Toronto Raptors</a></li>
+<li style="width:225px;"><a href="https://www.spotrac.com/nba/utah-jazz//cap">Utah Jazz</a></li>
+<li style="width:225px;"><a href="https://www.spotrac.com/nba/washington-wizards//cap">Washington Wizards</a></li>
+</ul>
+</div>
+</li>
+<li>
+<a href="https://www.spotrac.com/nba/positional/">Positional Payrolls</a>
+<div class="subnav-posts">
+<!-- start:NBA positions -->
+<ul class="menu-list">
+<li><a href="https://www.spotrac.com/nba/positional/forward/">Forward</a></li>
+<li><a href="https://www.spotrac.com/nba/positional/point-guard/">Point Guard</a></li>
+<li><a href="https://www.spotrac.com/nba/positional/shooting-guard/">Shooting Guard</a></li>
+<li><a href="https://www.spotrac.com/nba/positional/guard/">Guard</a></li>
+<li><a href="https://www.spotrac.com/nba/positional/small-forward/">Small Forward</a></li>
+</ul>
+<ul class="menu-list">
+<li><a href="https://www.spotrac.com/nba/positional/power-forward/">Power Forward</a></li>
+<li><a href="https://www.spotrac.com/nba/positional/center/">Center</a></li>
+</ul>
+<!-- end:NBA positions -->
+</div>
+</li>
+<li>
+<a href="https://www.spotrac.com/nba/contracts/">Contracts</a>
+<div class="subnav-posts">
+<!-- start:nba Contracts -->
+<ul class="menu-list">
+<li><a href="https://www.spotrac.com/nba/contracts/">Contracts By Team</a></li>
+<li><a href="https://www.spotrac.com/nba/contracts/point-guard/">Contracts By Position</a></li>
+<li><a href="https://www.spotrac.com/nba/draft/">Contracts by Draft</a></li>
+<li><a href="https://www.spotrac.com/nba/contracts/sort-age/">Contracts by Age</a></li>
+<li><a href="https://www.spotrac.com/nba/free-agents/">Expiring Contracts</a></li>
+</ul>
+<ul class="menu-list">
+<li><a href="https://www.spotrac.com/nba/contracts/sort-value/">Largest Active</a></li>
+<li><a href="https://www.spotrac.com/nba/contracts/sort-length/">Longest Active</a></li>
+<li><a href="https://www.spotrac.com/nba/contracts/type-rookie/">Rookie Contracts</a></li>
+<li><a href="https://www.spotrac.com/nba/contracts/type-veteran/">Veteran Contracts</a></li>
+</ul>
+<!-- end:nba contracts -->
+</div>
+</li>
+<li>
+<a href="https://www.spotrac.com/nba/rankings/">Salary Rankings</a>
+<div class="subnav-posts">
+<!-- start:NFL Rankings -->
+<ul class="menu-list">
+<li><a href="https://www.spotrac.com/nba/rankings/">Top Cap Hits</a></li>
+<li><a href="https://www.spotrac.com/nba/rankings/base/">Top Base Salaries</a></li>
+<li><a href="https://www.spotrac.com/nba/rankings/average/">Average Salaries</a></li>
+<li><a href="https://www.spotrac.com/nba/rankings/dead-money/">Dead Cap</a></li>
+<li><a href="https://www.spotrac.com/nba/earnings/">Career Earnings</a></li>
+</ul>
+<ul class="menu-list">
+<li><a href="https://www.spotrac.com/nba/rankings/base/atlanta-hawks/">Salaries by Team</a></li>
+<li><a href="https://www.spotrac.com/nba/rankings/base/point-guard/">Salaries by Position</a></li>
+<li><a href="https://www.spotrac.com/nba/rankings/atlanta-hawks/">Cap Hits by Team</a></li>
+<li><a href="https://www.spotrac.com/nba/rankings/point-guard/">Cap Hits by Position</a></li>
+</ul>
+<!-- end:NFL rankings -->
+</div>
+</li>
+<li>
+<a href="#">Trackers &amp; Tools</a>
+<div class="subnav-posts">
+<ul class="menu-list" style="width:35%;">
+<li><a href="https://www.spotrac.com/nba/cap/">Team Salary Cap Tracker</a></li>
+<li><a href="https://www.spotrac.com/nba/free-agents/">Free Agent Tracker</a></li>
+<li><a href="https://www.spotrac.com/nba/fines-suspensions/">Fines &amp; Suspensions</a></li>
+<li><a href="https://www.spotrac.com/nba/depth-charts/">Team Depth Charts</a></li>
+<li><a href="https://www.spotrac.com/nba/transactions/trade/">Trade Tracker</a></li>
+</ul>
+<ul class="menu-list">
+<li><a href="https://www.spotrac.com/nba/rookie-scale/">Rookie Scale</a></li>
+<li><a href="https://www.spotrac.com/nba/draft/">Draft Tracker</a></li>
+<li><a href="https://www.spotrac.com/nba/option/">Option Tracker</a></li>
+<li><a href="https://www.spotrac.com/nba/college/">College Tracker</a></li>
+<li><a href="https://www.spotrac.com/nba/country/">Country Tracker</a></li>
+</ul>
+</div>
+</li>
+<li>
+<a href="https://www.spotrac.com/nba/valuation/">Best Values</a>
+<div class="subnav-posts">
+<ul class="menu-list">
+<li><a href="https://www.spotrac.com/nba/valuation/">Best Value Players</a></li>
+<li><a href="https://www.spotrac.com/nba/valuation/teams/">Best Value Teams</a></li>
+</ul>
+</div>
+</li>
+<li>
+<a href="https://www.spotrac.com/nba/statistics/">Statistics</a>
+<div class="subnav-posts">
+<ul class="menu-list" style="width:300px">
+<li><a href="https://www.spotrac.com/nba/statistics/">Statistics Leaders</a></li>
+<li><a href="https://www.spotrac.com/nba/statistics/player/">Player Statistics</a></li>
+<li><a href="https://www.spotrac.com/nba/statistics/team/">Team Statistics</a></li>
+</ul>
+</div>
+</li>
+<li>
+<a href="https://www.spotrac.com/nba/transactions/">Transactions</a>
+<div class="subnav-posts">
+<ul class="menu-list">
+<li><a href="https://www.spotrac.com/nba/transactions/">NBA Transactions</a></li>
+<li><a href="https://www.spotrac.com/nba/transactions/trade/">Trade Tracker</a></li>
+<li><a href="https://www.spotrac.com/nba/transactions/signed-free-agent/">Free Agent Signings</a></li>
+</ul>
+</div>
+</li>
+<li>
+<a href="#">Premium Tools</a>
+<div class="subnav-posts">
+<ul class="menu-list" style="width:50%">
+<li><a href="https://www.spotrac.com/nba/contracts/breakdown/">Contract Breakdowns by Year</a></li>
+<li><a href="https://www.spotrac.com/nba/yearly/">Multi-Year Salary Tool</a></li>
+<li><a href="https://www.spotrac.com/nba/tools/compare-teams/">Financial Team Comparison</a></li>
+<li><a href="https://www.spotrac.com/nba/tools/compare-players/">Financial Player Comparison</a></li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+<!-- end:submenu-lifestyle -->
+</li>
+<!---MLB--->
+<li class="cat-mlb ">
+<a class="clickable" href="#">MLB <i class="fa fa-caret-down"></i></a>
+<!-- start:submenu-sports -->
+<div class="subnav-container" style="display:none">
+<ul class="subnav-menu">
+<li class="current">
+<a href="https://www.spotrac.com/mlb/payroll/">Team Payrolls</a>
+<div class="subnav-posts">
+<!-- start:mlb teams -->
+<ul class="menu-list" style="width:20%;">
+<li><a href="https://www.spotrac.com/mlb/arizona-diamondbacks//payroll">Arizona Diamondbacks</a></li>
+<li><a href="https://www.spotrac.com/mlb/atlanta-braves//payroll">Atlanta Braves</a></li>
+<li><a href="https://www.spotrac.com/mlb/baltimore-orioles//payroll">Baltimore Orioles</a></li>
+<li><a href="https://www.spotrac.com/mlb/boston-red-sox//payroll">Boston Red Sox</a></li>
+<li><a href="https://www.spotrac.com/mlb/chicago-cubs//payroll">Chicago Cubs</a></li>
+<li><a href="https://www.spotrac.com/mlb/chicago-white-sox//payroll">Chicago White Sox</a></li>
+<li><a href="https://www.spotrac.com/mlb/cincinnati-reds//payroll">Cincinnati Reds</a></li>
+<li><a href="https://www.spotrac.com/mlb/cleveland-indians//payroll">Cleveland Indians</a></li>
+<li><a href="https://www.spotrac.com/mlb/colorado-rockies//payroll">Colorado Rockies</a></li>
+<li><a href="https://www.spotrac.com/mlb/detroit-tigers//payroll">Detroit Tigers</a></li>
+</ul>
+<ul class="menu-list">
+<li><a href="https://www.spotrac.com/mlb/houston-astros//payroll">Houston Astros</a></li>
+<li><a href="https://www.spotrac.com/mlb/kansas-city-royals//payroll">Kansas City Royals</a></li>
+<li><a href="https://www.spotrac.com/mlb/los-angeles-angels-of-anaheim//payroll">Los Angeles Angels of Anaheim</a></li>
+<li><a href="https://www.spotrac.com/mlb/los-angeles-dodgers//payroll">Los Angeles Dodgers</a></li>
+<li><a href="https://www.spotrac.com/mlb/miami-marlins//payroll">Miami Marlins</a></li>
+<li><a href="https://www.spotrac.com/mlb/milwaukee-brewers//payroll">Milwaukee Brewers</a></li>
+<li><a href="https://www.spotrac.com/mlb/minnesota-twins//payroll">Minnesota Twins</a></li>
+<li><a href="https://www.spotrac.com/mlb/new-york-mets//payroll">New York Mets</a></li>
+<li><a href="https://www.spotrac.com/mlb/new-york-yankees//payroll">New York Yankees</a></li>
+<li><a href="https://www.spotrac.com/mlb/oakland-athletics//payroll">Oakland Athletics</a></li>
+</ul>
+<ul class="menu-list">
+<li><a href="https://www.spotrac.com/mlb/philadelphia-phillies//payroll">Philadelphia Phillies</a></li>
+<li><a href="https://www.spotrac.com/mlb/pittsburgh-pirates//payroll">Pittsburgh Pirates</a></li>
+<li><a href="https://www.spotrac.com/mlb/san-diego-padres//payroll">San Diego Padres</a></li>
+<li><a href="https://www.spotrac.com/mlb/san-francisco-giants//payroll">San Francisco Giants</a></li>
+<li><a href="https://www.spotrac.com/mlb/seattle-mariners//payroll">Seattle Mariners</a></li>
+<li><a href="https://www.spotrac.com/mlb/st.-louis-cardinals//payroll">St. Louis Cardinals</a></li>
+<li><a href="https://www.spotrac.com/mlb/tampa-bay-rays//payroll">Tampa Bay Rays</a></li>
+<li><a href="https://www.spotrac.com/mlb/texas-rangers//payroll">Texas Rangers</a></li>
+<li><a href="https://www.spotrac.com/mlb/toronto-blue-jays//payroll">Toronto Blue Jays</a></li>
+<li><a href="https://www.spotrac.com/mlb/washington-nationals//payroll">Washington Nationals</a></li>
+</ul>
+<ul class="menu-list">
+</ul>
+<!-- end:MLB teams -->
+</div>
+</li>
+<li>
+<a href="https://www.spotrac.com/mlb/positional/">Positional Payrolls</a>
+<div class="subnav-posts">
+<!-- start:mlb positions -->
+<ul class="menu-list">
+<li><a href="https://www.spotrac.com/mlb/positional/catcher/">Catcher</a></li>
+<li><a href="https://www.spotrac.com/mlb/positional/infield/">Infielders</a></li>
+<li><a href="https://www.spotrac.com/mlb/positional/1st-base/">1st Base</a></li>
+<li><a href="https://www.spotrac.com/mlb/positional/2nd-base/">2nd Base</a></li>
+<li><a href="https://www.spotrac.com/mlb/positional/3rd-base/">3rd Base</a></li>
+<li><a href="https://www.spotrac.com/mlb/positional/shortstop/">Shortstop</a></li>
+<li><a href="https://www.spotrac.com/mlb/positional/outfield/">Outfielders</a></li>
+<li><a href="https://www.spotrac.com/mlb/positional/right-field/">Right Field</a></li>
+<li><a href="https://www.spotrac.com/mlb/positional/center-field/">Center Field</a></li>
+<li><a href="https://www.spotrac.com/mlb/positional/left-field/">Left Field</a></li>
+</ul>
+<ul class="menu-list">
+<li><a href="https://www.spotrac.com/mlb/positional/designated-hitter/">Designated Hitter</a></li>
+<li><a href="https://www.spotrac.com/mlb/positional/pitching/">Pitchers</a></li>
+<li><a href="https://www.spotrac.com/mlb/positional/starting-pitcher/">Starting Pitcher</a></li>
+<li><a href="https://www.spotrac.com/mlb/positional/relief-pitcher/">Relief Pitcher</a></li>
+<li><a href="https://www.spotrac.com/mlb/positional/closer/">Closer</a></li>
+</ul>
+<!-- end:mlb positions -->
+</div>
+</li>
+<li>
+<a href="https://www.spotrac.com/mlb/contracts/">Contracts</a>
+<div class="subnav-posts">
+<ul class="menu-list">
+<li><a href="https://www.spotrac.com/mlb/contracts/">Contracts By Team</a></li>
+<li><a href="https://www.spotrac.com/mlb/contracts/1st-base/">Contracts By Position</a></li>
+<li><a href="https://www.spotrac.com/mlb/college/">Contracts by College</a></li>
+<li><a href="https://www.spotrac.com/mlb/contracts/sort-age/">Contracts by Age</a></li>
+<li><a href="https://www.spotrac.com/mlb/free-agents/">Expiring Contracts</a></li>
+</ul>
+<ul class="menu-list">
+<li><a href="https://www.spotrac.com/mlb/contracts/sort-value/">Largest Active</a></li>
+<li><a href="https://www.spotrac.com/mlb/contracts/sort-length/">Longest Active</a></li>
+</ul>
+</div>
+</li>
+<li>
+<a href="https://www.spotrac.com/mlb/rankings/">Salary Rankings</a>
+<div class="subnav-posts">
+<!-- start:NFL Rankings -->
+<ul class="menu-list">
+<li><a href="https://www.spotrac.com/mlb/rankings/">Top Payroll Salaries</a></li>
+<li><a href="https://www.spotrac.com/mlb/rankings/base/">Top Base Salaries</a></li>
+<li><a href="https://www.spotrac.com/mlb/rankings/average/">Average Salaries</a></li>
+<li><a href="https://www.spotrac.com/mlb/rankings/cash/">Annual Cash Earnings</a></li>
+<li><a href="https://www.spotrac.com/mlb/rankings/signing-bonus/">Top Signing Bonuses</a></li>
+<li><a href="https://www.spotrac.com/mlb/earnings/">Career Earnings</a></li>
+</ul>
+<ul class="menu-list">
+<li><a href="https://www.spotrac.com/mlb/rankings/cap-hit/atlanta-braves/">Salaries by Team</a></li>
+<li><a href="https://www.spotrac.com/mlb/rankings/cap-hit/1st-base/">Salaries by Position</a></li>
+<li><a href="https://www.spotrac.com/mlb/rankings/cap-hit/">Salaries by Season</a></li>
+</ul>
+<!-- end:NFL rankings -->
+</div>
+</li>
+<li>
+<a href="#">Trackers &amp; Tools</a>
+<div class="subnav-posts">
+<ul class="menu-list">
+<li><a href="https://www.spotrac.com/mlb/payroll/">Team Payroll Tracker</a></li>
+<li><a href="https://www.spotrac.com/mlb/free-agents/">Free Agent Tracker</a></li>
+<li><a href="https://www.spotrac.com/mlb/fines-suspensions/">Fines &amp; Suspensions</a></li>
+<li><a href="https://www.spotrac.com/mlb/disabled-list/">Disabled List</a></li>
+<li><a href="https://www.spotrac.com/mlb/transactions/trade/">Trade Tracker</a></li>
+<li><a href="https://www.spotrac.com/mlb/arbitration/">Arbitration Tracker</a></li>
+<li><a href="https://www.spotrac.com/mlb/option/">Option Tracker</a></li>
+<li><a href="https://www.spotrac.com/mlb/draft/">Draft Tracker</a></li>
+<li><a href="https://www.spotrac.com/mlb/schedule/">Schedule Tracker</a></li>
+</ul>
+<ul class="menu-list" style="width:50%;">
+<li><a href="https://www.spotrac.com/mlb/international/">International Signings</a></li>
+<li><a href="https://www.spotrac.com/mlb/tools/roster/">Roster/Payroll Manager</a></li>
+<li><a href="https://www.spotrac.com/mlb/tools/offseason/">Offseason Spending</a></li>
+<li><a href="https://www.spotrac.com/mlb/college/">College Tracker</a></li>
+<li><a href="https://www.spotrac.com/mlb/country/">Country Tracker</a></li>
+<li><a href="https://www.spotrac.com/mlb/depth-charts/">Depth Charts Tool</a></li>
+</ul>
+</div>
+</li>
+<li><a href="https://www.spotrac.com/mlb/valuation/">Value Rankings</a>
+<div class="subnav-posts">
+<ul class="menu-list" style="width:50%;">
+<li><a href="https://www.spotrac.com/mlb/valuation/batters/">Best Value Batters</a></li>
+<li><a href="https://www.spotrac.com/mlb/valuation/starting-pitchers/">Best Value Starting Pitchers</a></li>
+<li><a href="https://www.spotrac.com/mlb/valuation/relief-pitchers/">Best Value Relief Pitchers</a></li>
+<li><a href="#"> </a></li>
+<li><a href="https://www.spotrac.com/mlb/valuation/team/">Best Value Team</a></li>
+</ul>
+</div>
+</li>
+<li>
+<a href="https://www.spotrac.com/mlb/statistics/">Statistics</a>
+<div class="subnav-posts">
+<ul class="menu-list" style="width:300px">
+<li><a href="https://www.spotrac.com/mlb/statistics/">Statistics Leaders</a></li>
+<li><a href="https://www.spotrac.com/mlb/statistics/player/">Player Statistics</a></li>
+<li><a href="https://www.spotrac.com/mlb/statistics/team/">Team Statistics</a></li>
+<li></li>
+<li><a href="https://www.spotrac.com/mlb/statistics/single-season/home-runs/">Single Season Record Comparison</a></li>
+<li><a href="https://www.spotrac.com/mlb/statistics/run-differential/">Run/Salary Differential</a></li>
+</ul>
+</div>
+</li>
+<li>
+<a href="https://www.spotrac.com/mlb/transactions/">Transactions</a>
+<div class="subnav-posts">
+<ul class="menu-list">
+<li><a href="https://www.spotrac.com/mlb/transactions/">MLB Transactions</a></li>
+<li><a href="https://www.spotrac.com/mlb/transactions/trade/">Trade Tracker</a></li>
+<li><a href="https://www.spotrac.com/mlb/transactions/signed-free-agent/">Free Agent Signings</a></li>
+</ul>
+</div>
+</li>
+<li>
+<a href="#">Premium Tools</a>
+<div class="subnav-posts">
+<ul class="menu-list" style="width:50%">
+<li><a href="https://www.spotrac.com/mlb/contracts/breakdown/">Contract Breakdowns by Year</a></li>
+<li><a href="https://www.spotrac.com/mlb/yearly/">Multi-Year Salary Tool</a></li>
+<li><a href="https://www.spotrac.com/mlb/tools/compare-teams/">Financial Team Comparison</a></li>
+<li><a href="https://www.spotrac.com/mlb/tools/compare-players/">Financial Player Comparison</a></li>
+<li><a href="https://www.spotrac.com/mlb/valuation/">Player Valuation</a></li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+<!-- end:submenu-sports -->
+</li>
+<!---NHL--->
+<li class="cat-nhl active">
+<a class="clickable" href="#">NHL <i class="fa fa-caret-down"></i></a>
+<!-- start:submenu-tech -->
+<div class="subnav-container" style="display:none">
+<ul class="subnav-menu">
+<li class="current">
+<a href="https://www.spotrac.com/nhl/cap/">Team Salary Caps</a>
+<div class="subnav-posts">
+<!-- start:nhl teams -->
+<ul class="menu-list">
+<li style="width:325px"><a href="https://www.spotrac.com/nhl/anaheim-ducks/cap/">Anaheim Ducks</a></li>
+<li style="width:325px"><a href="https://www.spotrac.com/nhl/arizona-coyotes/cap/">Arizona Coyotes</a></li>
+<li style="width:325px"><a href="https://www.spotrac.com/nhl/boston-bruins/cap/">Boston Bruins</a></li>
+<li style="width:325px"><a href="https://www.spotrac.com/nhl/buffalo-sabres/cap/">Buffalo Sabres</a></li>
+<li style="width:325px"><a href="https://www.spotrac.com/nhl/calgary-flames/cap/">Calgary Flames</a></li>
+<li style="width:325px"><a href="https://www.spotrac.com/nhl/carolina-hurricanes/cap/">Carolina Hurricanes</a></li>
+<li style="width:325px"><a href="https://www.spotrac.com/nhl/chicago-blackhawks/cap/">Chicago Blackhawks</a></li>
+<li style="width:325px"><a href="https://www.spotrac.com/nhl/colorado-avalanche/cap/">Colorado Avalanche</a></li>
+<li style="width:325px"><a href="https://www.spotrac.com/nhl/columbus-blue-jackets/cap/">Columbus Blue Jackets</a></li>
+<li style="width:325px"><a href="https://www.spotrac.com/nhl/dallas-stars/cap/">Dallas Stars</a></li>
+</ul>
+<ul class="menu-list">
+<li style="width:325px"><a href="https://www.spotrac.com/nhl/detroit-red-wings/cap/">Detroit Red Wings</a></li>
+<li style="width:325px"><a href="https://www.spotrac.com/nhl/edmonton-oilers/cap/">Edmonton Oilers</a></li>
+<li style="width:325px"><a href="https://www.spotrac.com/nhl/florida-panthers/cap/">Florida Panthers</a></li>
+<li style="width:325px"><a href="https://www.spotrac.com/nhl/los-angeles-kings/cap/">Los Angeles Kings</a></li>
+<li style="width:325px"><a href="https://www.spotrac.com/nhl/minnesota-wild/cap/">Minnesota Wild</a></li>
+<li style="width:325px"><a href="https://www.spotrac.com/nhl/montreal-canadiens/cap/">Montreal Canadiens</a></li>
+<li style="width:325px"><a href="https://www.spotrac.com/nhl/nashville-predators/cap/">Nashville Predators</a></li>
+<li style="width:325px"><a href="https://www.spotrac.com/nhl/new-jersey-devils/cap/">New Jersey Devils</a></li>
+<li style="width:325px"><a href="https://www.spotrac.com/nhl/new-york-islanders/cap/">New York Islanders</a></li>
+<li style="width:325px"><a href="https://www.spotrac.com/nhl/new-york-rangers/cap/">New York Rangers</a></li>
+</ul>
+<ul class="menu-list">
+<li style="width:325px"><a href="https://www.spotrac.com/nhl/ottawa-senators/cap/">Ottawa Senators</a></li>
+<li style="width:325px"><a href="https://www.spotrac.com/nhl/philadelphia-flyers/cap/">Philadelphia Flyers</a></li>
+<li style="width:325px"><a href="https://www.spotrac.com/nhl/pittsburgh-penguins/cap/">Pittsburgh Penguins</a></li>
+<li style="width:325px"><a href="https://www.spotrac.com/nhl/san-jose-sharks/cap/">San Jose Sharks</a></li>
+<li style="width:325px"><a href="https://www.spotrac.com/nhl/st-louis-blues/cap/">St Louis Blues</a></li>
+<li style="width:325px"><a href="https://www.spotrac.com/nhl/tampa-bay-lightning/cap/">Tampa Bay Lightning</a></li>
+<li style="width:325px"><a href="https://www.spotrac.com/nhl/toronto-maple-leafs/cap/">Toronto Maple Leafs</a></li>
+<li style="width:325px"><a href="https://www.spotrac.com/nhl/vancouver-canucks/cap/">Vancouver Canucks</a></li>
+<li style="width:325px"><a href="https://www.spotrac.com/nhl/vegas-golden-knights/cap/">Vegas Golden Knights</a></li>
+<li style="width:325px"><a href="https://www.spotrac.com/nhl/washington-capitals/cap/">Washington Capitals</a></li>
+</ul>
+<ul class="menu-list">
+<li style="width:325px"><a href="https://www.spotrac.com/nhl/winnipeg-jets/cap/">Winnipeg Jets</a></li>
+</ul>
+</div>
+</li>
+<li>
+<a href="https://www.spotrac.com/nhl/positional/">Positional Payrolls</a>
+<div class="subnav-posts">
+<!-- start:nhl positions -->
+<ul class="menu-list">
+<li><a href="https://www.spotrac.com/nhl/positional/forward/">Forward</a></li>
+<li><a href="https://www.spotrac.com/nhl/positional/center/">Center</a></li>
+<li><a href="https://www.spotrac.com/nhl/positional/left-wing/">Left Wing</a></li>
+<li><a href="https://www.spotrac.com/nhl/positional/right-wing/">Right Wing</a></li>
+<li><a href="https://www.spotrac.com/nhl/positional/defenseman/">Defenseman</a></li>
+<li><a href="https://www.spotrac.com/nhl/positional/goaltender/">Goaltender</a></li>
+</ul>
+</div>
+</li>
+<li>
+<a href="https://www.spotrac.com/nhl/contracts/">Contracts</a>
+<div class="subnav-posts">
+<!-- start:nba Contracts -->
+<ul class="menu-list">
+<li><a href="https://www.spotrac.com/nhl/contracts/anaheim-ducks/">Contracts By Team</a></li>
+<li><a href="https://www.spotrac.com/nhl/contracts/center/">Contracts By Position</a></li>
+<li><a href="https://www.spotrac.com/nhl/country/">Contracts by Country</a></li>
+<li><a href="https://www.spotrac.com/nhl/contracts/sort-free-agent-year/">Free Agent Contracts</a></li>
+<li><a href="https://www.spotrac.com/nhl/free-agents/">Expiring Contracts</a></li>
+</ul>
+<ul class="menu-list">
+<li><a href="https://www.spotrac.com/nhl/contracts/sort-value/">Largest Active</a></li>
+<li><a href="https://www.spotrac.com/nhl/contracts/sort-length/">Longest Active</a></li>
+<li><a href="https://www.spotrac.com/nhl/contracts/type-rookie/">Rookie Contracts</a></li>
+<li><a href="https://www.spotrac.com/nhl/contracts/type-veteran/">Veteran Contracts</a></li>
+</ul>
+<!-- end:nba contracts -->
+</div>
+</li>
+<li>
+<a href="https://www.spotrac.com/nhl/rankings/">Salary Rankings</a>
+<div class="subnav-posts">
+<!-- start:NFL Rankings -->
+<ul class="menu-list">
+<li><a href="https://www.spotrac.com/nhl/rankings/">Top Cap Hits</a></li>
+<li><a href="https://www.spotrac.com/nhl/rankings/base/">Top Base Salaries</a></li>
+<li><a href="https://www.spotrac.com/nhl/rankings/cash/">Top Annual Cash</a></li>
+<li><a href="https://www.spotrac.com/nhl/rankings/signing-cash/">Signing Bonuses</a></li>
+</ul>
+<ul class="menu-list">
+<li><a href="https://www.spotrac.com/nhl/rankings/base/anaheim-ducks/">Salaries by Team</a></li>
+<li><a href="https://www.spotrac.com/nhl/rankings/base/center/">Salaries by Position</a></li>
+<li><a href="https://www.spotrac.com/nhl/rankings/anaheim-ducks/">Cap Hits by Team</a></li>
+<li><a href="https://www.spotrac.com/nhl/rankings/center/">Cap Hits by Position</a></li>
+<li><a href="https://www.spotrac.com/nhl/country/">Earnings by Country</a></li>
+</ul>
+<!-- end:NFL rankings -->
+</div>
+</li>
+<li>
+<a href="https://www.spotrac.com/nhl/cap/">Trackers &amp; Tools</a>
+<div class="subnav-posts">
+<ul class="menu-list" style="width:50%;">
+<li><a href="https://www.spotrac.com/nhl/cap/">Team Cap Tracker</a></li>
+<li><a href="https://www.spotrac.com/nhl/free-agents/">Free Agent Tracker</a></li>
+<li><a href="https://www.spotrac.com/nhl/fines-suspensions/">Fines &amp; Suspensions</a></li>
+<li><a href="https://www.spotrac.com/nhl/injured-reserve/">Injured Reserve</a></li>
+<li><a href="https://www.spotrac.com/nhl/draft/">Draft Tracker</a></li>
+<li><a href="https://www.spotrac.com/nhl/transactions/trade/">Trade Tracker</a></li>
+<li><a href="https://www.spotrac.com/nhl/college/">College/Junior Team Tracker</a></li>
+<li><a href="https://www.spotrac.com/nhl/country/">Country Tracker</a></li>
+<li><a href="https://www.spotrac.com/nhl/tools/buyout-calculator/">Buyout Calculator</a></li>
+</ul>
+<ul class="menu-list">
+</ul>
+</div>
+</li>
+<li><a href="https://www.spotrac.com/nhl/valuation/">Best Values</a>
+<div class="subnav-posts">
+<ul class="menu-list" style="width:50%;">
+<li><a href="https://www.spotrac.com/nhl/valuation/">Best Value Players</a></li>
+<li><a href="#"> </a></li>
+<li><a href="https://www.spotrac.com/nhl/valuation/team/">Best Value Teams</a></li>
+</ul>
+</div>
+</li>
+<li>
+<a href="https://www.spotrac.com/nhl/statistics/">Statistics</a>
+<div class="subnav-posts">
+<ul class="menu-list" style="width:300px">
+<li><a href="https://www.spotrac.com/nhl/statistics/">Statistics Leaders</a></li>
+<li><a href="https://www.spotrac.com/nhl/statistics/player/">Player Statistics</a></li>
+<li><a href="https://www.spotrac.com/nhl/statistics/team/">Team Statistics</a></li>
+</ul>
+</div>
+</li>
+<li>
+<a href="https://www.spotrac.com/nhl/transactions/">Transactions</a>
+<div class="subnav-posts">
+<ul class="menu-list">
+<li><a href="https://www.spotrac.com/nhl/transactions/">NHL Transactions</a></li>
+<li><a href="https://www.spotrac.com/nhl/transactions/trade/">Trade Tracker</a></li>
+<li><a href="https://www.spotrac.com/nhl/transactions/signed-free-agent/">Free Agent Signings</a></li>
+</ul>
+</div>
+</li>
+<li>
+<a href="#">Premium Tools</a>
+<div class="subnav-posts">
+<ul class="menu-list" style="width:50%">
+<li><a href="https://www.spotrac.com/nhl/contracts/breakdown/">Contract Breakdowns by Year</a></li>
+<li><a href="https://www.spotrac.com/nhl/yearly/">Multi-Year Salary Tool</a></li>
+<li><a href="https://www.spotrac.com/nhl/tools/compare-teams/">Financial Team Comparison</a></li>
+<li><a href="https://www.spotrac.com/nhl/tools/compare-players/">Financial Player Comparison</a></li>
+<li><a href="https://www.spotrac.com/nhl/tools/buyout-calculator/">Buyout Calculator</a></li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+<!-- end:submenu-tech -->
+</li>
+<!--- EPL--->
+<li class="cat-epl ">
+<a class="clickable" href="#">EPL <i class="fa fa-caret-down"></i></a>
+<!-- start:submenu-tech -->
+<div class="subnav-container" style="display:none">
+<ul class="subnav-menu">
+<li class="current">
+<a href="https://www.spotrac.com/epl/">Team Payrolls</a>
+<div class="subnav-posts">
+<!-- start:article -->
+<ul class="menu-list">
+<li style="width:325px"><a href="https://www.spotrac.com/epl/afc-bournemouth/">AFC Bournemouth</a></li>
+<li style="width:325px"><a href="https://www.spotrac.com/epl/arsenal-f.c/">Arsenal F.C.</a></li>
+<li style="width:325px"><a href="https://www.spotrac.com/epl/brighton-hove-albion/">Brighton &amp; Hove Albion</a></li>
+<li style="width:325px"><a href="https://www.spotrac.com/epl/burnley-f.c/">Burnley F.C.</a></li>
+<li style="width:325px"><a href="https://www.spotrac.com/epl/cardiff-city-f.c/">Cardiff City F.C.</a></li>
+<li style="width:325px"><a href="https://www.spotrac.com/epl/chelsea-f.c/">Chelsea F.C.</a></li>
+<li style="width:325px"><a href="https://www.spotrac.com/epl/crystal-palace/">Crystal Palace</a></li>
+<li style="width:325px"><a href="https://www.spotrac.com/epl/everton-f.c/">Everton F.C.</a></li>
+<li style="width:325px"><a href="https://www.spotrac.com/epl/fulham-f.c/">Fulham F.C.</a></li>
+<li style="width:325px"><a href="https://www.spotrac.com/epl/huddersfield-town/">Huddersfield Town</a></li>
+</ul>
+<ul class="menu-list">
+<li style="width:325px"><a href="https://www.spotrac.com/epl/leicester-city/">Leicester City</a></li>
+<li style="width:325px"><a href="https://www.spotrac.com/epl/liverpool-f.c/">Liverpool F.C.</a></li>
+<li style="width:325px"><a href="https://www.spotrac.com/epl/manchester-city-f.c/">Manchester City F.C.</a></li>
+<li style="width:325px"><a href="https://www.spotrac.com/epl/manchester-united-f.c/">Manchester United F.C.</a></li>
+<li style="width:325px"><a href="https://www.spotrac.com/epl/newcastle-united-f.c/">Newcastle United F.C.</a></li>
+<li style="width:325px"><a href="https://www.spotrac.com/epl/southampton-f.c/">Southampton F.C.</a></li>
+<li style="width:325px"><a href="https://www.spotrac.com/epl/tottenham-hotspur-f.c/">Tottenham Hotspur F.C.</a></li>
+<li style="width:325px"><a href="https://www.spotrac.com/epl/watford/">Watford</a></li>
+<li style="width:325px"><a href="https://www.spotrac.com/epl/west-ham-united-f.c/">West Ham United F.C.</a></li>
+<li style="width:325px"><a href="https://www.spotrac.com/epl/wolverhampton-wanderers-f.c/">Wolverhampton Wanderers F.C.</a></li>
+</ul>
+<ul class="menu-list">
+</ul>
+</div>
+</li>
+<li><a href="https://www.spotrac.com/epl/contracts/">Contracts</a></li>
+<li>
+<a href="https://www.spotrac.com/epl/positional/">Positional Payrolls</a>
+<div class="subnav-posts">
+<!-- start:article -->
+<ul class="menu-list">
+<li><a href="https://www.spotrac.com/epl/positional/forward/">Forward</a></li>
+<li><a href="https://www.spotrac.com/epl/positional/midfielder/">Midfielder</a></li>
+<li><a href="https://www.spotrac.com/epl/positional/defender/">Defender</a></li>
+<li><a href="https://www.spotrac.com/epl/positional/goalkeeper/">Goalkeeper</a></li>
+</ul>
+<!-- end:article -->
+</div>
+</li>
+<li>
+<a href="https://www.spotrac.com/epl/rankings/">Salary Rankings</a>
+<div class="subnav-posts">
+<ul class="menu-list">
+<li><a href="https://www.spotrac.com/epl/rankings/">Average Salary</a></li>
+<li><a href="https://www.spotrac.com/epl/rankings/contract-value/">Contract Value</a></li>
+<li><a href="https://www.spotrac.com/epl/rankings/weekly/">Weekly Wage</a></li>
+<li><a href="https://www.spotrac.com/epl/rankings/transfer-fee/">Transfer Fee</a></li>
+</ul>
+</div>
+</li>
+<li><a href="https://www.spotrac.com/epl/free-agents/">Free Agents</a></li>
+<li><a href="https://www.spotrac.com/epl/transfer/">Transfers</a></li>
+<li><a href="https://www.spotrac.com/epl/transactions/">Transactions</a></li>
+</ul>
+</div>
+<!-- end:submenu-tech -->
+</li>
+<!--- MLS--->
+<li class="cat-mls ">
+<a class="clickable" href="#">MLS <i class="fa fa-caret-down"></i></a>
+<!-- start:submenu-tech -->
+<div class="subnav-container" style="display:none">
+<ul class="subnav-menu">
+<li class="current">
+<a href="https://www.spotrac.com/mls/">Team Payrolls</a>
+<div class="subnav-posts">
+<!-- start:article -->
+<ul class="menu-list">
+<li style="width:325px"><a href="https://www.spotrac.com/mls/atlanta-united-fc/">Atlanta United FC</a></li>
+<li style="width:325px"><a href="https://www.spotrac.com/mls/chicago-fire/">Chicago Fire</a></li>
+<li style="width:325px"><a href="https://www.spotrac.com/mls/colorado-rapids/">Colorado Rapids</a></li>
+<li style="width:325px"><a href="https://www.spotrac.com/mls/columbus-crew/">Columbus Crew</a></li>
+<li style="width:325px"><a href="https://www.spotrac.com/mls/d.c.-united/">D.C. United</a></li>
+<li style="width:325px"><a href="https://www.spotrac.com/mls/fc-dallas/">FC Dallas</a></li>
+<li style="width:325px"><a href="https://www.spotrac.com/mls/houston-dynamo/">Houston Dynamo</a></li>
+<li style="width:325px"><a href="https://www.spotrac.com/mls/los-angeles-fc/">Los Angeles FC</a></li>
+<li style="width:325px"><a href="https://www.spotrac.com/mls/los-angeles-galaxy/">Los Angeles Galaxy</a></li>
+<li style="width:325px"><a href="https://www.spotrac.com/mls/minnesota-united-fc/">Minnesota United FC</a></li>
+</ul>
+<ul class="menu-list">
+<li style="width:325px"><a href="https://www.spotrac.com/mls/montreal-impact/">Montreal Impact</a></li>
+<li style="width:325px"><a href="https://www.spotrac.com/mls/new-england-revolution/">New England Revolution</a></li>
+<li style="width:325px"><a href="https://www.spotrac.com/mls/new-york-city-fc/">New York City FC</a></li>
+<li style="width:325px"><a href="https://www.spotrac.com/mls/new-york-red-bulls/">New York Red Bulls</a></li>
+<li style="width:325px"><a href="https://www.spotrac.com/mls/orlando-city/">Orlando City</a></li>
+<li style="width:325px"><a href="https://www.spotrac.com/mls/philadelphia-union/">Philadelphia Union</a></li>
+<li style="width:325px"><a href="https://www.spotrac.com/mls/portland-timbers/">Portland Timbers</a></li>
+<li style="width:325px"><a href="https://www.spotrac.com/mls/real-salt-lake/">Real Salt Lake</a></li>
+<li style="width:325px"><a href="https://www.spotrac.com/mls/san-jose-earthquakes/">San Jose Earthquakes</a></li>
+<li style="width:325px"><a href="https://www.spotrac.com/mls/seattle-sounders-fc/">Seattle Sounders FC</a></li>
+</ul>
+<ul class="menu-list">
+<li style="width:325px"><a href="https://www.spotrac.com/mls/sporting-kansas-city/">Sporting Kansas City</a></li>
+<li style="width:325px"><a href="https://www.spotrac.com/mls/toronto-fc/">Toronto FC</a></li>
+<li style="width:325px"><a href="https://www.spotrac.com/mls/vancouver-whitecaps-fc/">Vancouver Whitecaps FC</a></li>
+</ul>
+</div>
+</li>
+<li>
+<a href="https://www.spotrac.com/mls/positional/">Positional Payrolls</a>
+<div class="subnav-posts">
+<!-- start:article -->
+<ul class="menu-list">
+<li><a href="https://www.spotrac.com/mls/positional/forward/">Forward</a></li>
+<li><a href="https://www.spotrac.com/mls/positional/midfielder/">Midfielder</a></li>
+<li><a href="https://www.spotrac.com/mls/positional/defender/">Defender</a></li>
+<li><a href="https://www.spotrac.com/mls/positional/goalkeeper/">Goalkeeper</a></li>
+</ul>
+<!-- end:article -->
+</div>
+</li>
+<li>
+<a href="https://www.spotrac.com/mls/rankings/">Salary Rankings</a>
+</li>
+<li>
+<a href="#">Trackers</a>
+<div class="subnav-posts">
+<ul class="menu-list" style="width:100%;">
+<li><a href="https://www.spotrac.com/mls/cap/">Team Salary Cap Tracker</a></li>
+<li><a href="https://www.spotrac.com/mls/transactions/trade/">Trade Tracker</a></li>
+<li><a href="https://www.spotrac.com/mls/draft/">Draft Tracker</a></li>
+<li><a href="https://www.spotrac.com/mls/college/">College Tracker</a></li>
+</ul>
+<ul class="menu-list">
+</ul>
+</div>
+</li>
+<li>
+<a href="https://www.spotrac.com/mls/transactions/">Transactions</a>
+<div class="subnav-posts">
+<ul class="menu-list">
+<li><a href="https://www.spotrac.com/mls/transactions/">MLS Transactions</a></li>
+<li><a href="https://www.spotrac.com/mls/transactions/trade/">Trade Tracker</a></li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+<!-- end:submenu-tech -->
+</li>
+<li class="cat-extra">
+<a href="#">More <i class="fa fa-caret-down"></i></a>
+<div class="dropnav-container" style="top:100%;">
+<ul class="dropnav-menu">
+<li><a href="https://www.spotrac.com/radio/">Spotrac Radio Podcast</a></li>
+<li><a href="https://www.spotrac.com/fantasy/">Fantasy Contests</a></li>
+<li><a href="https://www.spotrac.com/research/">Research &amp; News</a></li>
+</ul>
+</div>
+</li>
+<li class="cat-extra">
+<a class="gold" href="https://www.spotrac.com/premium/">PREMIUM <i class="fa fa-caret-down"></i></a>
+<div class="dropnav-container" style="top:100%;">
+<ul class="dropnav-menu">
+<li><a href="https://www.spotrac.com/signin/?redirect=nhl">Sign In</a></li>
+<li><a href="https://www.spotrac.com/register/">Register</a></li>
+</ul>
+</div>
+</li>
+</ul>
+<ul class="options col-md-3">
+<li class="options col-xs-12 col-sm-12 ">
+<a class="twitter-share-button" data-count="horizontal" data-via="spotrac" href="https://twitter.com/share"> Tweet</a><script src="https://platform.twitter.com/widgets.js" type="text/javascript"></script>
+<iframe id="facebook-share" src="https://www.facebook.com/plugins/like.php?app_id=152185691527861&amp;href=https://www.spotrac.com/nhl/&amp;send=false&amp;layout=button_count&amp;width=75&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=24" style="height:24px !important;"></iframe>
+</li>
+</ul>
+</nav>
+<!-- end:menu -->
+</div>
+<!-- end:container -->
+</div>
+<!-- end:header-navigation -->
+</header>
+<!-- end:page header -->
+<section style=" align-items: center; display: flex; justify-content: center;">
+<div class="container">
+<header class="text-center premiumheader ad" style="display: none; margin-bottom: 10px;">
+<div class="col-xs-12 premiumheadertext">
+<a class="premiumheaderclose" href="javascript:void(0)"><span class="pull-right close">HIDE X</span></a>
+<div class="col-sm-3 text-center" style="top:5px;"><img src="http://d1dglpr230r57l.cloudfront.net/images/original/logo-premium.png"/></div>
+<ul class="col-sm-3 text-left">
+<li><strong>Ad-FREE</strong> Experience</li>
+<li><strong>Historical</strong> Contracts</li>
+<li>The <strong>Project Sum</strong> Podcast</li>
+</ul>
+<ul class="col-sm-4 text-left">
+<li><strong>Advanced Data Portal</strong> (Soon!)</li>
+<li>Complete <strong>League Breakdowns</strong></li>
+<li>Custom Team/Player <strong>Comparisons</strong></li>
+</ul>
+<div class="col-sm-1 text-left" style="top:18px;">
+<div class="col-xs-12 premiumheaderprice">
+<button class="btn btn-default" id="customButton" onclick="javascript: document.location='https://www.spotrac.com/register/'">Sign Up <i class="fa fa-chevron-right"></i></button>
+</div>
+</div>
+</div>
+</header>
+</div>
+</section>
+<div aria-hidden="true" aria-labelledby="exampleModalLabel" class="modal privacy fade" id="cookies" role="dialog" tabindex="-1">
+<div class="modal-dialog" role="document" style="width: 95%">
+<div class="modal-content">
+<div class="modal-header">
+<button class="pull-right btn btn-secondary" data-dismiss="modal" type="button">Close</button>
+<h5 class="modal-title" id="exampleModalLabel">Cookie Settings</h5>
+</div>
+<div class="modal-body privacycontainer">
+<div class="privacytab">
+<button class="tablinks" id="defaultOpen" onclick="openCity(event, 'privacy')">Your Privacy <span class="pull-right">»</span></button>
+<button class="tablinks" onclick="openCity(event, 'necessary')">Necessary Cookies <span class="pull-right">»</span></button>
+<button class="tablinks" onclick="openCity(event, 'traffic')">Traffic &amp; Performance <span class="pull-right">»</span></button>
+<button class="tablinks" onclick="openCity(event, 'marketing')">Marketing &amp; Advertising <span class="pull-right">»</span></button>
+<button class="tablinks" onclick="openCity(event, 'policy')">Privacy Policy <span class="pull-right">»</span></button>
+</div>
+<div class="tabcontent" id="privacy">
+<h3>Your Privacy</h3>
+<p>When you visit any web site, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalised web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.</p>
+</div>
+<div class="tabcontent" id="necessary">
+<h3>Necessary Cookies</h3>
+<p>These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work.</p>
+</div>
+<div class="tabcontent" id="traffic">
+<h3>Traffic &amp; Performance</h3>
+<p>These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.</p>
+</div>
+<div class="tabcontent" id="marketing">
+<h3>Marketing &amp; Advertising</h3>
+<p>These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising. Also, by disabling these cookies you will also disable banner ads served by Google Adsense on this website..</p>
+</div>
+<div class="tabcontent" id="policy">
+<h3>Privacy Policy</h3>
+<p>For more information about these items, view our complete privacy policy.<br/><br/><a href="https://www.spotrac.com/privacy/" target="_blank">Read More</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="privacypop">
+<header>
+<!-- start:header-navigation-sub -->
+<div id="header-navigation-sub">
+<!-- start:container -->
+<div class="container">
+<nav class="cat-nhl">
+<ul class="menu">
+<li class="current"><a href="https://www.spotrac.com/nhl/">Teams</a></li>
+<li><a href="https://www.spotrac.com/nhl/cap/">Team Caps</a></li>
+<li><a href="https://www.spotrac.com/nhl/positional/">Positional Spending</a></li>
+<li><a href="https://www.spotrac.com/nhl/contracts/">Contracts</a></li>
+<li class="dropit-trigger "><a href="#">Rankings <i class="fa fa-chevron-down"></i></a>
+<ul class="dropit-submenu">
+<li><a href="https://www.spotrac.com/nhl/rankings/cap-hit/">Cap Hits</a></li>
+<li><a href="https://www.spotrac.com/nhl/rankings/average/">Average Salary</a></li>
+<li><a href="https://www.spotrac.com/nhl/rankings/cash/">Cash Salaries</a></li>
+<li><a href="https://www.spotrac.com/nhl/rankings/contract-value/">Contract Values</a></li>
+<li><a href="https://www.spotrac.com/nhl/rankings/contract-length/">Contract Lengths</a></li>
+<li><a href="https://www.spotrac.com/nhl/rankings/signing-bonus/">Signing Bonus</a></li>
+</ul>
+</li>
+<li><a href="https://www.spotrac.com/nhl/free-agents/">Free Agents</a></li>
+<li class="dropit-trigger "><a href="#">Tools/Trackers <i class="fa fa-chevron-down"></i></a>
+<ul class="dropit-submenu">
+<li><a href="https://www.spotrac.com/nhl/tools/buyout-calculator/">Buyout Calculator</a></li>
+<li><a href="https://www.spotrac.com/nhl/transactions/trade/">Trade Tracker</a></li>
+<li><a href="https://www.spotrac.com/nhl/draft/">Draft Tracker</a></li>
+<li><a href="https://www.spotrac.com/nhl/injured-reserve/">Injured Reserve</a></li>
+<li><a href="https://www.spotrac.com/nhl/fines-suspensions/">Fines/Suspensions</a></li>
+<li><a href="https://www.spotrac.com/nhl/country/">Players by Country</a></li>
+</ul>
+</li>
+<li><a href="https://www.spotrac.com/nhl/transactions/">Transactions</a></li>
+</ul>
+</nav>
+</div>
+<!-- end:container -->
+</div>
+<!-- end:header-navigation-sub -->
+</header>
+<!-- end:page header -->
+<!-- start:container -->
+<div class="container">
+<!-- start:page content -->
+<div class="clearfix" id="page-content">
+<div class="main-container">
+<!-- start:main -->
+<div id="main">
+<!-- start:col -->
+<header>
+<h1><img alt="NFL Team Contracts &amp; Payrolls" src="https://d1dglpr230r57l.cloudfront.net/images/thumb/nhl.png"/> <strong>NHL Team <span class="xs-hide">Contracts &amp; </span>Payrolls</strong></h1>
+<span class="borderline"></span>
+<p>Browse NHL <strong>contracts</strong>, <strong>salaries</strong>, <strong>team salary caps</strong>, <strong>cash payrolls</strong>, <strong>transactions</strong>, <strong>player valuations</strong> and more.</p>
+</header>
+<div class="ad visible-lg"><!-- Ad Unit [3907] Spotrac.com - 728x90 -->
+<div class="switch_placeholder" id="switch_placeholder_7053b41429e7678723e03f4affaf598b"></div>
+<script> (__scads = window.__scads || []).push({"z":3907,"targetId":"switch_placeholder_7053b41429e7678723e03f4affaf598b","domain":"delivery.switchadhub.com","width":"0","height":"0"}); </script>
+<script async="" src="//delivery.switchadhub.com/adserver/sat.js"></script>
+</div>
+<div class="ad visible-md"></div>
+<div class="ad visible-sm">
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Spotrac Leader 2 -->
+<ins class="adsbygoogle" data-ad-client="ca-pub-1743211837214524" data-ad-slot="6310361680" style="display:inline-block;width:728px;height:90px"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div class="ad visible-xs text-center">
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Spotrac Sidebar -->
+<ins class="adsbygoogle" data-ad-client="ca-pub-1743211837214524" data-ad-slot="0068993420" style="display:inline-block;width:300px;height:250px"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div class="teams">
+<div class="teamlist">
+<div class="teamitem odd col-md-12">
+<div class="teamlogo col-xs-2 col-md-2"><a href="https://www.spotrac.com/nhl/anaheim-ducks/"><img src="https://d1dglpr230r57l.cloudfront.net/images/thumb/ducks.png"/></a></div>
+<div class="teamname col-xs-10 col-md-4">
+<h3><a class="team-name" href="https://www.spotrac.com/nhl/anaheim-ducks/">Anaheim Ducks</a></h3>
+</div>
+<div class="teamoptions col-md-6">
+<div class="teamoption"><a href="https://www.spotrac.com/nhl/anaheim-ducks/">» Current Contracts</a><br/><a href="https://www.spotrac.com/nhl/anaheim-ducks/yearly-cap/">» Salaries by Year</a><br/><a href="https://www.spotrac.com/nhl/anaheim-ducks/positional/">» Positional Spending</a></div>
+<div class="teamoption"><a href="https://www.spotrac.com/nhl/anaheim-ducks/cap/">» 2018-2019 Salary Cap</a><br/><a href="https://www.spotrac.com/nhl/free-agents/anaheim-ducks/">» 2018  Free Agents</a><br/><a href="https://www.spotrac.com/nhl/transactions/anaheim-ducks/">» Transactions</a></div>
+</div>
+</div>
+<div class="teamitem col-md-12">
+<div class="teamlogo col-xs-2 col-md-2"><a href="https://www.spotrac.com/nhl/arizona-coyotes/"><img src="https://d1dglpr230r57l.cloudfront.net/images/thumb/7807_arizona_coyotes-primary-2015.png"/></a></div>
+<div class="teamname col-xs-10 col-md-4">
+<h3><a class="team-name" href="https://www.spotrac.com/nhl/arizona-coyotes/">Arizona Coyotes</a></h3>
+</div>
+<div class="teamoptions col-md-6">
+<div class="teamoption"><a href="https://www.spotrac.com/nhl/arizona-coyotes/">» Current Contracts</a><br/><a href="https://www.spotrac.com/nhl/arizona-coyotes/yearly-cap/">» Salaries by Year</a><br/><a href="https://www.spotrac.com/nhl/arizona-coyotes/positional/">» Positional Spending</a></div>
+<div class="teamoption"><a href="https://www.spotrac.com/nhl/arizona-coyotes/cap/">» 2018-2019 Salary Cap</a><br/><a href="https://www.spotrac.com/nhl/free-agents/arizona-coyotes/">» 2018  Free Agents</a><br/><a href="https://www.spotrac.com/nhl/transactions/arizona-coyotes/">» Transactions</a></div>
+</div>
+</div>
+<div class="teamitem odd col-md-12">
+<div class="teamlogo col-xs-2 col-md-2"><a href="https://www.spotrac.com/nhl/boston-bruins/"><img src="https://d1dglpr230r57l.cloudfront.net/images/thumb/227px-Boston_Bruins.svg_.png"/></a></div>
+<div class="teamname col-xs-10 col-md-4">
+<h3><a class="team-name" href="https://www.spotrac.com/nhl/boston-bruins/">Boston Bruins</a></h3>
+</div>
+<div class="teamoptions col-md-6">
+<div class="teamoption"><a href="https://www.spotrac.com/nhl/boston-bruins/">» Current Contracts</a><br/><a href="https://www.spotrac.com/nhl/boston-bruins/yearly-cap/">» Salaries by Year</a><br/><a href="https://www.spotrac.com/nhl/boston-bruins/positional/">» Positional Spending</a></div>
+<div class="teamoption"><a href="https://www.spotrac.com/nhl/boston-bruins/cap/">» 2018-2019 Salary Cap</a><br/><a href="https://www.spotrac.com/nhl/free-agents/boston-bruins/">» 2018  Free Agents</a><br/><a href="https://www.spotrac.com/nhl/transactions/boston-bruins/">» Transactions</a></div>
+</div>
+</div>
+<div class="teamitem col-md-12">
+<div class="teamlogo col-xs-2 col-md-2"><a href="https://www.spotrac.com/nhl/buffalo-sabres/"><img src="https://d1dglpr230r57l.cloudfront.net/images/thumb/263px-Buffalo_Sabres_Logo.svg_.png"/></a></div>
+<div class="teamname col-xs-10 col-md-4">
+<h3><a class="team-name" href="https://www.spotrac.com/nhl/buffalo-sabres/">Buffalo Sabres</a></h3>
+</div>
+<div class="teamoptions col-md-6">
+<div class="teamoption"><a href="https://www.spotrac.com/nhl/buffalo-sabres/">» Current Contracts</a><br/><a href="https://www.spotrac.com/nhl/buffalo-sabres/yearly-cap/">» Salaries by Year</a><br/><a href="https://www.spotrac.com/nhl/buffalo-sabres/positional/">» Positional Spending</a></div>
+<div class="teamoption"><a href="https://www.spotrac.com/nhl/buffalo-sabres/cap/">» 2018-2019 Salary Cap</a><br/><a href="https://www.spotrac.com/nhl/free-agents/buffalo-sabres/">» 2018  Free Agents</a><br/><a href="https://www.spotrac.com/nhl/transactions/buffalo-sabres/">» Transactions</a></div>
+</div>
+</div>
+<div class="teamitem odd col-md-12">
+<div class="teamlogo col-xs-2 col-md-2"><a href="https://www.spotrac.com/nhl/calgary-flames/"><img src="https://d1dglpr230r57l.cloudfront.net/images/thumb/flames.png"/></a></div>
+<div class="teamname col-xs-10 col-md-4">
+<h3><a class="team-name" href="https://www.spotrac.com/nhl/calgary-flames/">Calgary Flames</a></h3>
+</div>
+<div class="teamoptions col-md-6">
+<div class="teamoption"><a href="https://www.spotrac.com/nhl/calgary-flames/">» Current Contracts</a><br/><a href="https://www.spotrac.com/nhl/calgary-flames/yearly-cap/">» Salaries by Year</a><br/><a href="https://www.spotrac.com/nhl/calgary-flames/positional/">» Positional Spending</a></div>
+<div class="teamoption"><a href="https://www.spotrac.com/nhl/calgary-flames/cap/">» 2018-2019 Salary Cap</a><br/><a href="https://www.spotrac.com/nhl/free-agents/calgary-flames/">» 2018  Free Agents</a><br/><a href="https://www.spotrac.com/nhl/transactions/calgary-flames/">» Transactions</a></div>
+</div>
+</div>
+<div class="teamitem col-md-12">
+<div class="teamlogo col-xs-2 col-md-2"><a href="https://www.spotrac.com/nhl/carolina-hurricanes/"><img src="https://d1dglpr230r57l.cloudfront.net/images/thumb/hurricanes.png"/></a></div>
+<div class="teamname col-xs-10 col-md-4">
+<h3><a class="team-name" href="https://www.spotrac.com/nhl/carolina-hurricanes/">Carolina Hurricanes</a></h3>
+</div>
+<div class="teamoptions col-md-6">
+<div class="teamoption"><a href="https://www.spotrac.com/nhl/carolina-hurricanes/">» Current Contracts</a><br/><a href="https://www.spotrac.com/nhl/carolina-hurricanes/yearly-cap/">» Salaries by Year</a><br/><a href="https://www.spotrac.com/nhl/carolina-hurricanes/positional/">» Positional Spending</a></div>
+<div class="teamoption"><a href="https://www.spotrac.com/nhl/carolina-hurricanes/cap/">» 2018-2019 Salary Cap</a><br/><a href="https://www.spotrac.com/nhl/free-agents/carolina-hurricanes/">» 2018  Free Agents</a><br/><a href="https://www.spotrac.com/nhl/transactions/carolina-hurricanes/">» Transactions</a></div>
+</div>
+</div>
+<div class="teamitem odd col-md-12">
+<div class="teamlogo col-xs-2 col-md-2"><a href="https://www.spotrac.com/nhl/chicago-blackhawks/"><img src="https://d1dglpr230r57l.cloudfront.net/images/thumb/blackhawks.png"/></a></div>
+<div class="teamname col-xs-10 col-md-4">
+<h3><a class="team-name" href="https://www.spotrac.com/nhl/chicago-blackhawks/">Chicago Blackhawks</a></h3>
+</div>
+<div class="teamoptions col-md-6">
+<div class="teamoption"><a href="https://www.spotrac.com/nhl/chicago-blackhawks/">» Current Contracts</a><br/><a href="https://www.spotrac.com/nhl/chicago-blackhawks/yearly-cap/">» Salaries by Year</a><br/><a href="https://www.spotrac.com/nhl/chicago-blackhawks/positional/">» Positional Spending</a></div>
+<div class="teamoption"><a href="https://www.spotrac.com/nhl/chicago-blackhawks/cap/">» 2018-2019 Salary Cap</a><br/><a href="https://www.spotrac.com/nhl/free-agents/chicago-blackhawks/">» 2018  Free Agents</a><br/><a href="https://www.spotrac.com/nhl/transactions/chicago-blackhawks/">» Transactions</a></div>
+</div>
+</div>
+<div class="teamitem col-md-12">
+<div class="teamlogo col-xs-2 col-md-2"><a href="https://www.spotrac.com/nhl/colorado-avalanche/"><img src="https://d1dglpr230r57l.cloudfront.net/images/thumb/244px-Colorado_Avalanche_logo.svg_.png"/></a></div>
+<div class="teamname col-xs-10 col-md-4">
+<h3><a class="team-name" href="https://www.spotrac.com/nhl/colorado-avalanche/">Colorado Avalanche</a></h3>
+</div>
+<div class="teamoptions col-md-6">
+<div class="teamoption"><a href="https://www.spotrac.com/nhl/colorado-avalanche/">» Current Contracts</a><br/><a href="https://www.spotrac.com/nhl/colorado-avalanche/yearly-cap/">» Salaries by Year</a><br/><a href="https://www.spotrac.com/nhl/colorado-avalanche/positional/">» Positional Spending</a></div>
+<div class="teamoption"><a href="https://www.spotrac.com/nhl/colorado-avalanche/cap/">» 2018-2019 Salary Cap</a><br/><a href="https://www.spotrac.com/nhl/free-agents/colorado-avalanche/">» 2018  Free Agents</a><br/><a href="https://www.spotrac.com/nhl/transactions/colorado-avalanche/">» Transactions</a></div>
+</div>
+</div>
+<div class="teamitem odd col-md-12">
+<div class="teamlogo col-xs-2 col-md-2"><a href="https://www.spotrac.com/nhl/columbus-blue-jackets/"><img src="https://d1dglpr230r57l.cloudfront.net/images/thumb/307px-Columbus_BlueJackets.svg_.png"/></a></div>
+<div class="teamname col-xs-10 col-md-4">
+<h3><a class="team-name" href="https://www.spotrac.com/nhl/columbus-blue-jackets/">Columbus Blue Jackets</a></h3>
+</div>
+<div class="teamoptions col-md-6">
+<div class="teamoption"><a href="https://www.spotrac.com/nhl/columbus-blue-jackets/">» Current Contracts</a><br/><a href="https://www.spotrac.com/nhl/columbus-blue-jackets/yearly-cap/">» Salaries by Year</a><br/><a href="https://www.spotrac.com/nhl/columbus-blue-jackets/positional/">» Positional Spending</a></div>
+<div class="teamoption"><a href="https://www.spotrac.com/nhl/columbus-blue-jackets/cap/">» 2018-2019 Salary Cap</a><br/><a href="https://www.spotrac.com/nhl/free-agents/columbus-blue-jackets/">» 2018  Free Agents</a><br/><a href="https://www.spotrac.com/nhl/transactions/columbus-blue-jackets/">» Transactions</a></div>
+</div>
+</div>
+<div class="teamitem col-md-12">
+<div class="teamlogo col-xs-2 col-md-2"><a href="https://www.spotrac.com/nhl/dallas-stars/"><img src="https://d1dglpr230r57l.cloudfront.net/images/thumb/stars.png"/></a></div>
+<div class="teamname col-xs-10 col-md-4">
+<h3><a class="team-name" href="https://www.spotrac.com/nhl/dallas-stars/">Dallas Stars</a></h3>
+</div>
+<div class="teamoptions col-md-6">
+<div class="teamoption"><a href="https://www.spotrac.com/nhl/dallas-stars/">» Current Contracts</a><br/><a href="https://www.spotrac.com/nhl/dallas-stars/yearly-cap/">» Salaries by Year</a><br/><a href="https://www.spotrac.com/nhl/dallas-stars/positional/">» Positional Spending</a></div>
+<div class="teamoption"><a href="https://www.spotrac.com/nhl/dallas-stars/cap/">» 2018-2019 Salary Cap</a><br/><a href="https://www.spotrac.com/nhl/free-agents/dallas-stars/">» 2018  Free Agents</a><br/><a href="https://www.spotrac.com/nhl/transactions/dallas-stars/">» Transactions</a></div>
+</div>
+</div>
+<div class="teamitem odd col-md-12">
+<div class="teamlogo col-xs-2 col-md-2"><a href="https://www.spotrac.com/nhl/detroit-red-wings/"><img src="https://d1dglpr230r57l.cloudfront.net/images/thumb/redwings.png"/></a></div>
+<div class="teamname col-xs-10 col-md-4">
+<h3><a class="team-name" href="https://www.spotrac.com/nhl/detroit-red-wings/">Detroit Red Wings</a></h3>
+</div>
+<div class="teamoptions col-md-6">
+<div class="teamoption"><a href="https://www.spotrac.com/nhl/detroit-red-wings/">» Current Contracts</a><br/><a href="https://www.spotrac.com/nhl/detroit-red-wings/yearly-cap/">» Salaries by Year</a><br/><a href="https://www.spotrac.com/nhl/detroit-red-wings/positional/">» Positional Spending</a></div>
+<div class="teamoption"><a href="https://www.spotrac.com/nhl/detroit-red-wings/cap/">» 2018-2019 Salary Cap</a><br/><a href="https://www.spotrac.com/nhl/free-agents/detroit-red-wings/">» 2018  Free Agents</a><br/><a href="https://www.spotrac.com/nhl/transactions/detroit-red-wings/">» Transactions</a></div>
+</div>
+</div>
+<div class="teamitem col-md-12">
+<div class="teamlogo col-xs-2 col-md-2"><a href="https://www.spotrac.com/nhl/edmonton-oilers/"><img src="https://d1dglpr230r57l.cloudfront.net/images/thumb/200px-Logo_Edmonton_Oilers.svg_.png"/></a></div>
+<div class="teamname col-xs-10 col-md-4">
+<h3><a class="team-name" href="https://www.spotrac.com/nhl/edmonton-oilers/">Edmonton Oilers</a></h3>
+</div>
+<div class="teamoptions col-md-6">
+<div class="teamoption"><a href="https://www.spotrac.com/nhl/edmonton-oilers/">» Current Contracts</a><br/><a href="https://www.spotrac.com/nhl/edmonton-oilers/yearly-cap/">» Salaries by Year</a><br/><a href="https://www.spotrac.com/nhl/edmonton-oilers/positional/">» Positional Spending</a></div>
+<div class="teamoption"><a href="https://www.spotrac.com/nhl/edmonton-oilers/cap/">» 2018-2019 Salary Cap</a><br/><a href="https://www.spotrac.com/nhl/free-agents/edmonton-oilers/">» 2018  Free Agents</a><br/><a href="https://www.spotrac.com/nhl/transactions/edmonton-oilers/">» Transactions</a></div>
+</div>
+</div>
+<div class="teamitem odd col-md-12">
+<div class="teamlogo col-xs-2 col-md-2"><a href="https://www.spotrac.com/nhl/florida-panthers/"><img src="https://d1dglpr230r57l.cloudfront.net/images/thumb/flpanthers.png"/></a></div>
+<div class="teamname col-xs-10 col-md-4">
+<h3><a class="team-name" href="https://www.spotrac.com/nhl/florida-panthers/">Florida Panthers</a></h3>
+</div>
+<div class="teamoptions col-md-6">
+<div class="teamoption"><a href="https://www.spotrac.com/nhl/florida-panthers/">» Current Contracts</a><br/><a href="https://www.spotrac.com/nhl/florida-panthers/yearly-cap/">» Salaries by Year</a><br/><a href="https://www.spotrac.com/nhl/florida-panthers/positional/">» Positional Spending</a></div>
+<div class="teamoption"><a href="https://www.spotrac.com/nhl/florida-panthers/cap/">» 2018-2019 Salary Cap</a><br/><a href="https://www.spotrac.com/nhl/free-agents/florida-panthers/">» 2018  Free Agents</a><br/><a href="https://www.spotrac.com/nhl/transactions/florida-panthers/">» Transactions</a></div>
+</div>
+</div>
+<div class="teamitem col-md-12">
+<div class="teamlogo col-xs-2 col-md-2"><a href="https://www.spotrac.com/nhl/los-angeles-kings/"><img src="https://d1dglpr230r57l.cloudfront.net/images/thumb/200px-Los_Angeles_Kings_Logo_(2011).svg_.png"/></a></div>
+<div class="teamname col-xs-10 col-md-4">
+<h3><a class="team-name" href="https://www.spotrac.com/nhl/los-angeles-kings/">Los Angeles Kings</a></h3>
+</div>
+<div class="teamoptions col-md-6">
+<div class="teamoption"><a href="https://www.spotrac.com/nhl/los-angeles-kings/">» Current Contracts</a><br/><a href="https://www.spotrac.com/nhl/los-angeles-kings/yearly-cap/">» Salaries by Year</a><br/><a href="https://www.spotrac.com/nhl/los-angeles-kings/positional/">» Positional Spending</a></div>
+<div class="teamoption"><a href="https://www.spotrac.com/nhl/los-angeles-kings/cap/">» 2018-2019 Salary Cap</a><br/><a href="https://www.spotrac.com/nhl/free-agents/los-angeles-kings/">» 2018  Free Agents</a><br/><a href="https://www.spotrac.com/nhl/transactions/los-angeles-kings/">» Transactions</a></div>
+</div>
+</div>
+<div class="teamitem odd col-md-12">
+<div class="teamlogo col-xs-2 col-md-2"><a href="https://www.spotrac.com/nhl/minnesota-wild/"><img src="https://d1dglpr230r57l.cloudfront.net/images/thumb/227px-Minnesota_Wild.svg_.png"/></a></div>
+<div class="teamname col-xs-10 col-md-4">
+<h3><a class="team-name" href="https://www.spotrac.com/nhl/minnesota-wild/">Minnesota Wild</a></h3>
+</div>
+<div class="teamoptions col-md-6">
+<div class="teamoption"><a href="https://www.spotrac.com/nhl/minnesota-wild/">» Current Contracts</a><br/><a href="https://www.spotrac.com/nhl/minnesota-wild/yearly-cap/">» Salaries by Year</a><br/><a href="https://www.spotrac.com/nhl/minnesota-wild/positional/">» Positional Spending</a></div>
+<div class="teamoption"><a href="https://www.spotrac.com/nhl/minnesota-wild/cap/">» 2018-2019 Salary Cap</a><br/><a href="https://www.spotrac.com/nhl/free-agents/minnesota-wild/">» 2018  Free Agents</a><br/><a href="https://www.spotrac.com/nhl/transactions/minnesota-wild/">» Transactions</a></div>
+</div>
+</div>
+<div class="teamitem col-md-12">
+<div class="teamlogo col-xs-2 col-md-2"><a href="https://www.spotrac.com/nhl/montreal-canadiens/"><img src="https://d1dglpr230r57l.cloudfront.net/images/thumb/canadiens.png"/></a></div>
+<div class="teamname col-xs-10 col-md-4">
+<h3><a class="team-name" href="https://www.spotrac.com/nhl/montreal-canadiens/">Montreal Canadiens</a></h3>
+</div>
+<div class="teamoptions col-md-6">
+<div class="teamoption"><a href="https://www.spotrac.com/nhl/montreal-canadiens/">» Current Contracts</a><br/><a href="https://www.spotrac.com/nhl/montreal-canadiens/yearly-cap/">» Salaries by Year</a><br/><a href="https://www.spotrac.com/nhl/montreal-canadiens/positional/">» Positional Spending</a></div>
+<div class="teamoption"><a href="https://www.spotrac.com/nhl/montreal-canadiens/cap/">» 2018-2019 Salary Cap</a><br/><a href="https://www.spotrac.com/nhl/free-agents/montreal-canadiens/">» 2018  Free Agents</a><br/><a href="https://www.spotrac.com/nhl/transactions/montreal-canadiens/">» Transactions</a></div>
+</div>
+</div>
+<div class="teamitem odd col-md-12">
+<div class="teamlogo col-xs-2 col-md-2"><a href="https://www.spotrac.com/nhl/nashville-predators/"><img src="https://d1dglpr230r57l.cloudfront.net/images/thumb/200px-Nashville_Predators_Logo_(2011).svg__.png"/></a></div>
+<div class="teamname col-xs-10 col-md-4">
+<h3><a class="team-name" href="https://www.spotrac.com/nhl/nashville-predators/">Nashville Predators</a></h3>
+</div>
+<div class="teamoptions col-md-6">
+<div class="teamoption"><a href="https://www.spotrac.com/nhl/nashville-predators/">» Current Contracts</a><br/><a href="https://www.spotrac.com/nhl/nashville-predators/yearly-cap/">» Salaries by Year</a><br/><a href="https://www.spotrac.com/nhl/nashville-predators/positional/">» Positional Spending</a></div>
+<div class="teamoption"><a href="https://www.spotrac.com/nhl/nashville-predators/cap/">» 2018-2019 Salary Cap</a><br/><a href="https://www.spotrac.com/nhl/free-agents/nashville-predators/">» 2018  Free Agents</a><br/><a href="https://www.spotrac.com/nhl/transactions/nashville-predators/">» Transactions</a></div>
+</div>
+</div>
+<div class="teamitem col-md-12">
+<div class="teamlogo col-xs-2 col-md-2"><a href="https://www.spotrac.com/nhl/new-jersey-devils/"><img src="https://d1dglpr230r57l.cloudfront.net/images/thumb/200px-New_Jersey_Devils_logo.svg_.png"/></a></div>
+<div class="teamname col-xs-10 col-md-4">
+<h3><a class="team-name" href="https://www.spotrac.com/nhl/new-jersey-devils/">New Jersey Devils</a></h3>
+</div>
+<div class="teamoptions col-md-6">
+<div class="teamoption"><a href="https://www.spotrac.com/nhl/new-jersey-devils/">» Current Contracts</a><br/><a href="https://www.spotrac.com/nhl/new-jersey-devils/yearly-cap/">» Salaries by Year</a><br/><a href="https://www.spotrac.com/nhl/new-jersey-devils/positional/">» Positional Spending</a></div>
+<div class="teamoption"><a href="https://www.spotrac.com/nhl/new-jersey-devils/cap/">» 2018-2019 Salary Cap</a><br/><a href="https://www.spotrac.com/nhl/free-agents/new-jersey-devils/">» 2018  Free Agents</a><br/><a href="https://www.spotrac.com/nhl/transactions/new-jersey-devils/">» Transactions</a></div>
+</div>
+</div>
+<div class="teamitem odd col-md-12">
+<div class="teamlogo col-xs-2 col-md-2"><a href="https://www.spotrac.com/nhl/new-york-islanders/"><img src="https://d1dglpr230r57l.cloudfront.net/images/thumb/200px-Logo_New_York_Islanders.svg_.png"/></a></div>
+<div class="teamname col-xs-10 col-md-4">
+<h3><a class="team-name" href="https://www.spotrac.com/nhl/new-york-islanders/">New York Islanders</a></h3>
+</div>
+<div class="teamoptions col-md-6">
+<div class="teamoption"><a href="https://www.spotrac.com/nhl/new-york-islanders/">» Current Contracts</a><br/><a href="https://www.spotrac.com/nhl/new-york-islanders/yearly-cap/">» Salaries by Year</a><br/><a href="https://www.spotrac.com/nhl/new-york-islanders/positional/">» Positional Spending</a></div>
+<div class="teamoption"><a href="https://www.spotrac.com/nhl/new-york-islanders/cap/">» 2018-2019 Salary Cap</a><br/><a href="https://www.spotrac.com/nhl/free-agents/new-york-islanders/">» 2018  Free Agents</a><br/><a href="https://www.spotrac.com/nhl/transactions/new-york-islanders/">» Transactions</a></div>
+</div>
+</div>
+<div class="teamitem col-md-12">
+<div class="teamlogo col-xs-2 col-md-2"><a href="https://www.spotrac.com/nhl/new-york-rangers/"><img src="https://d1dglpr230r57l.cloudfront.net/images/thumb/200px-New_York_Rangers.svg_.png"/></a></div>
+<div class="teamname col-xs-10 col-md-4">
+<h3><a class="team-name" href="https://www.spotrac.com/nhl/new-york-rangers/">New York Rangers</a></h3>
+</div>
+<div class="teamoptions col-md-6">
+<div class="teamoption"><a href="https://www.spotrac.com/nhl/new-york-rangers/">» Current Contracts</a><br/><a href="https://www.spotrac.com/nhl/new-york-rangers/yearly-cap/">» Salaries by Year</a><br/><a href="https://www.spotrac.com/nhl/new-york-rangers/positional/">» Positional Spending</a></div>
+<div class="teamoption"><a href="https://www.spotrac.com/nhl/new-york-rangers/cap/">» 2018-2019 Salary Cap</a><br/><a href="https://www.spotrac.com/nhl/free-agents/new-york-rangers/">» 2018  Free Agents</a><br/><a href="https://www.spotrac.com/nhl/transactions/new-york-rangers/">» Transactions</a></div>
+</div>
+</div>
+<div class="teamitem odd col-md-12">
+<div class="teamlogo col-xs-2 col-md-2"><a href="https://www.spotrac.com/nhl/ottawa-senators/"><img src="https://d1dglpr230r57l.cloudfront.net/images/thumb/ottawa.png"/></a></div>
+<div class="teamname col-xs-10 col-md-4">
+<h3><a class="team-name" href="https://www.spotrac.com/nhl/ottawa-senators/">Ottawa Senators</a></h3>
+</div>
+<div class="teamoptions col-md-6">
+<div class="teamoption"><a href="https://www.spotrac.com/nhl/ottawa-senators/">» Current Contracts</a><br/><a href="https://www.spotrac.com/nhl/ottawa-senators/yearly-cap/">» Salaries by Year</a><br/><a href="https://www.spotrac.com/nhl/ottawa-senators/positional/">» Positional Spending</a></div>
+<div class="teamoption"><a href="https://www.spotrac.com/nhl/ottawa-senators/cap/">» 2018-2019 Salary Cap</a><br/><a href="https://www.spotrac.com/nhl/free-agents/ottawa-senators/">» 2018  Free Agents</a><br/><a href="https://www.spotrac.com/nhl/transactions/ottawa-senators/">» Transactions</a></div>
+</div>
+</div>
+<div class="teamitem col-md-12">
+<div class="teamlogo col-xs-2 col-md-2"><a href="https://www.spotrac.com/nhl/philadelphia-flyers/"><img src="https://d1dglpr230r57l.cloudfront.net/images/thumb/flyers.png"/></a></div>
+<div class="teamname col-xs-10 col-md-4">
+<h3><a class="team-name" href="https://www.spotrac.com/nhl/philadelphia-flyers/">Philadelphia Flyers</a></h3>
+</div>
+<div class="teamoptions col-md-6">
+<div class="teamoption"><a href="https://www.spotrac.com/nhl/philadelphia-flyers/">» Current Contracts</a><br/><a href="https://www.spotrac.com/nhl/philadelphia-flyers/yearly-cap/">» Salaries by Year</a><br/><a href="https://www.spotrac.com/nhl/philadelphia-flyers/positional/">» Positional Spending</a></div>
+<div class="teamoption"><a href="https://www.spotrac.com/nhl/philadelphia-flyers/cap/">» 2018-2019 Salary Cap</a><br/><a href="https://www.spotrac.com/nhl/free-agents/philadelphia-flyers/">» 2018  Free Agents</a><br/><a href="https://www.spotrac.com/nhl/transactions/philadelphia-flyers/">» Transactions</a></div>
+</div>
+</div>
+<div class="teamitem odd col-md-12">
+<div class="teamlogo col-xs-2 col-md-2"><a href="https://www.spotrac.com/nhl/pittsburgh-penguins/"><img src="https://d1dglpr230r57l.cloudfront.net/images/thumb/200px-Pittsburgh_Penguins_logo.svg_.png"/></a></div>
+<div class="teamname col-xs-10 col-md-4">
+<h3><a class="team-name" href="https://www.spotrac.com/nhl/pittsburgh-penguins/">Pittsburgh Penguins</a></h3>
+</div>
+<div class="teamoptions col-md-6">
+<div class="teamoption"><a href="https://www.spotrac.com/nhl/pittsburgh-penguins/">» Current Contracts</a><br/><a href="https://www.spotrac.com/nhl/pittsburgh-penguins/yearly-cap/">» Salaries by Year</a><br/><a href="https://www.spotrac.com/nhl/pittsburgh-penguins/positional/">» Positional Spending</a></div>
+<div class="teamoption"><a href="https://www.spotrac.com/nhl/pittsburgh-penguins/cap/">» 2018-2019 Salary Cap</a><br/><a href="https://www.spotrac.com/nhl/free-agents/pittsburgh-penguins/">» 2018  Free Agents</a><br/><a href="https://www.spotrac.com/nhl/transactions/pittsburgh-penguins/">» Transactions</a></div>
+</div>
+</div>
+<div class="teamitem col-md-12">
+<div class="teamlogo col-xs-2 col-md-2"><a href="https://www.spotrac.com/nhl/san-jose-sharks/"><img src="https://d1dglpr230r57l.cloudfront.net/images/thumb/200px-SanJoseSharksLogo.svg_.png"/></a></div>
+<div class="teamname col-xs-10 col-md-4">
+<h3><a class="team-name" href="https://www.spotrac.com/nhl/san-jose-sharks/">San Jose Sharks</a></h3>
+</div>
+<div class="teamoptions col-md-6">
+<div class="teamoption"><a href="https://www.spotrac.com/nhl/san-jose-sharks/">» Current Contracts</a><br/><a href="https://www.spotrac.com/nhl/san-jose-sharks/yearly-cap/">» Salaries by Year</a><br/><a href="https://www.spotrac.com/nhl/san-jose-sharks/positional/">» Positional Spending</a></div>
+<div class="teamoption"><a href="https://www.spotrac.com/nhl/san-jose-sharks/cap/">» 2018-2019 Salary Cap</a><br/><a href="https://www.spotrac.com/nhl/free-agents/san-jose-sharks/">» 2018  Free Agents</a><br/><a href="https://www.spotrac.com/nhl/transactions/san-jose-sharks/">» Transactions</a></div>
+</div>
+</div>
+<div class="teamitem odd col-md-12">
+<div class="teamlogo col-xs-2 col-md-2"><a href="https://www.spotrac.com/nhl/st-louis-blues/"><img src="https://d1dglpr230r57l.cloudfront.net/images/thumb/200px-StLouis_Blues.svg_.png"/></a></div>
+<div class="teamname col-xs-10 col-md-4">
+<h3><a class="team-name" href="https://www.spotrac.com/nhl/st-louis-blues/">St Louis Blues</a></h3>
+</div>
+<div class="teamoptions col-md-6">
+<div class="teamoption"><a href="https://www.spotrac.com/nhl/st-louis-blues/">» Current Contracts</a><br/><a href="https://www.spotrac.com/nhl/st-louis-blues/yearly-cap/">» Salaries by Year</a><br/><a href="https://www.spotrac.com/nhl/st-louis-blues/positional/">» Positional Spending</a></div>
+<div class="teamoption"><a href="https://www.spotrac.com/nhl/st-louis-blues/cap/">» 2018-2019 Salary Cap</a><br/><a href="https://www.spotrac.com/nhl/free-agents/st-louis-blues/">» 2018  Free Agents</a><br/><a href="https://www.spotrac.com/nhl/transactions/st-louis-blues/">» Transactions</a></div>
+</div>
+</div>
+<div class="teamitem col-md-12">
+<div class="teamlogo col-xs-2 col-md-2"><a href="https://www.spotrac.com/nhl/tampa-bay-lightning/"><img src="https://d1dglpr230r57l.cloudfront.net/images/thumb/200px-Tampa_Bay_Lightning_Logo_2011.svg_.png"/></a></div>
+<div class="teamname col-xs-10 col-md-4">
+<h3><a class="team-name" href="https://www.spotrac.com/nhl/tampa-bay-lightning/">Tampa Bay Lightning</a></h3>
+</div>
+<div class="teamoptions col-md-6">
+<div class="teamoption"><a href="https://www.spotrac.com/nhl/tampa-bay-lightning/">» Current Contracts</a><br/><a href="https://www.spotrac.com/nhl/tampa-bay-lightning/yearly-cap/">» Salaries by Year</a><br/><a href="https://www.spotrac.com/nhl/tampa-bay-lightning/positional/">» Positional Spending</a></div>
+<div class="teamoption"><a href="https://www.spotrac.com/nhl/tampa-bay-lightning/cap/">» 2018-2019 Salary Cap</a><br/><a href="https://www.spotrac.com/nhl/free-agents/tampa-bay-lightning/">» 2018  Free Agents</a><br/><a href="https://www.spotrac.com/nhl/transactions/tampa-bay-lightning/">» Transactions</a></div>
+</div>
+</div>
+<div class="teamitem odd col-md-12">
+<div class="teamlogo col-xs-2 col-md-2"><a href="https://www.spotrac.com/nhl/toronto-maple-leafs/"><img src="https://d1dglpr230r57l.cloudfront.net/images/thumb/leafs.png"/></a></div>
+<div class="teamname col-xs-10 col-md-4">
+<h3><a class="team-name" href="https://www.spotrac.com/nhl/toronto-maple-leafs/">Toronto Maple Leafs</a></h3>
+</div>
+<div class="teamoptions col-md-6">
+<div class="teamoption"><a href="https://www.spotrac.com/nhl/toronto-maple-leafs/">» Current Contracts</a><br/><a href="https://www.spotrac.com/nhl/toronto-maple-leafs/yearly-cap/">» Salaries by Year</a><br/><a href="https://www.spotrac.com/nhl/toronto-maple-leafs/positional/">» Positional Spending</a></div>
+<div class="teamoption"><a href="https://www.spotrac.com/nhl/toronto-maple-leafs/cap/">» 2018-2019 Salary Cap</a><br/><a href="https://www.spotrac.com/nhl/free-agents/toronto-maple-leafs/">» 2018  Free Agents</a><br/><a href="https://www.spotrac.com/nhl/transactions/toronto-maple-leafs/">» Transactions</a></div>
+</div>
+</div>
+<div class="teamitem col-md-12">
+<div class="teamlogo col-xs-2 col-md-2"><a href="https://www.spotrac.com/nhl/vancouver-canucks/"><img src="https://d1dglpr230r57l.cloudfront.net/images/thumb/200px-Vancouver_Canucks_logo.svg_.png"/></a></div>
+<div class="teamname col-xs-10 col-md-4">
+<h3><a class="team-name" href="https://www.spotrac.com/nhl/vancouver-canucks/">Vancouver Canucks</a></h3>
+</div>
+<div class="teamoptions col-md-6">
+<div class="teamoption"><a href="https://www.spotrac.com/nhl/vancouver-canucks/">» Current Contracts</a><br/><a href="https://www.spotrac.com/nhl/vancouver-canucks/yearly-cap/">» Salaries by Year</a><br/><a href="https://www.spotrac.com/nhl/vancouver-canucks/positional/">» Positional Spending</a></div>
+<div class="teamoption"><a href="https://www.spotrac.com/nhl/vancouver-canucks/cap/">» 2018-2019 Salary Cap</a><br/><a href="https://www.spotrac.com/nhl/free-agents/vancouver-canucks/">» 2018  Free Agents</a><br/><a href="https://www.spotrac.com/nhl/transactions/vancouver-canucks/">» Transactions</a></div>
+</div>
+</div>
+<div class="teamitem odd col-md-12">
+<div class="teamlogo col-xs-2 col-md-2"><a href="https://www.spotrac.com/nhl/vegas-golden-knights/"><img src="https://d1dglpr230r57l.cloudfront.net/images/thumb/vegas_golden_knights.png"/></a></div>
+<div class="teamname col-xs-10 col-md-4">
+<h3><a class="team-name" href="https://www.spotrac.com/nhl/vegas-golden-knights/">Vegas Golden Knights</a></h3>
+</div>
+<div class="teamoptions col-md-6">
+<div class="teamoption"><a href="https://www.spotrac.com/nhl/vegas-golden-knights/">» Current Contracts</a><br/><a href="https://www.spotrac.com/nhl/vegas-golden-knights/yearly-cap/">» Salaries by Year</a><br/><a href="https://www.spotrac.com/nhl/vegas-golden-knights/positional/">» Positional Spending</a></div>
+<div class="teamoption"><a href="https://www.spotrac.com/nhl/vegas-golden-knights/cap/">» 2018-2019 Salary Cap</a><br/><a href="https://www.spotrac.com/nhl/free-agents/vegas-golden-knights/">» 2018  Free Agents</a><br/><a href="https://www.spotrac.com/nhl/transactions/vegas-golden-knights/">» Transactions</a></div>
+</div>
+</div>
+<div class="teamitem col-md-12">
+<div class="teamlogo col-xs-2 col-md-2"><a href="https://www.spotrac.com/nhl/washington-capitals/"><img src="https://d1dglpr230r57l.cloudfront.net/images/thumb/capitals.png"/></a></div>
+<div class="teamname col-xs-10 col-md-4">
+<h3><a class="team-name" href="https://www.spotrac.com/nhl/washington-capitals/">Washington Capitals</a></h3>
+</div>
+<div class="teamoptions col-md-6">
+<div class="teamoption"><a href="https://www.spotrac.com/nhl/washington-capitals/">» Current Contracts</a><br/><a href="https://www.spotrac.com/nhl/washington-capitals/yearly-cap/">» Salaries by Year</a><br/><a href="https://www.spotrac.com/nhl/washington-capitals/positional/">» Positional Spending</a></div>
+<div class="teamoption"><a href="https://www.spotrac.com/nhl/washington-capitals/cap/">» 2018-2019 Salary Cap</a><br/><a href="https://www.spotrac.com/nhl/free-agents/washington-capitals/">» 2018  Free Agents</a><br/><a href="https://www.spotrac.com/nhl/transactions/washington-capitals/">» Transactions</a></div>
+</div>
+</div>
+<div class="teamitem odd col-md-12">
+<div class="teamlogo col-xs-2 col-md-2"><a href="https://www.spotrac.com/nhl/winnipeg-jets/"><img src="https://d1dglpr230r57l.cloudfront.net/images/thumb/200px-Winnipeg_Jets_Logo_2011.svg_.png"/></a></div>
+<div class="teamname col-xs-10 col-md-4">
+<h3><a class="team-name" href="https://www.spotrac.com/nhl/winnipeg-jets/">Winnipeg Jets</a></h3>
+</div>
+<div class="teamoptions col-md-6">
+<div class="teamoption"><a href="https://www.spotrac.com/nhl/winnipeg-jets/">» Current Contracts</a><br/><a href="https://www.spotrac.com/nhl/winnipeg-jets/yearly-cap/">» Salaries by Year</a><br/><a href="https://www.spotrac.com/nhl/winnipeg-jets/positional/">» Positional Spending</a></div>
+<div class="teamoption"><a href="https://www.spotrac.com/nhl/winnipeg-jets/cap/">» 2018-2019 Salary Cap</a><br/><a href="https://www.spotrac.com/nhl/free-agents/winnipeg-jets/">» 2018  Free Agents</a><br/><a href="https://www.spotrac.com/nhl/transactions/winnipeg-jets/">» Transactions</a></div>
+</div>
+</div>
+</div>
+</div>
+						 
+					</div>
+<!-- end:main -->
+</div>
+<!-- start:sidebar -->
+<div id="sidebar">
+<!-- start:section-module-singles -->
+<section class="module-singles list">
+<!-- start:header -->
+<header>
+<h2>Trending Players <span class="glyphicon glyphicon-chevron-up"></span></h2>
+<span class="borderline"></span>
+</header>
+<!-- end:header -->
+<!-- start:singles-container -->
+<ul class="singles-container">
+<li class="odd" onclick="window.location.href='https://www.spotrac.com/redirect/player/15444/'">
+<a class="view" href="https://www.spotrac.com/redirect/player/15444/">view</a>
+<span class="rank">1</span>
+<a href="https://www.spotrac.com/redirect/player/15444/">Scott Darling (G, CAR)</a>
+</li>
+<li onclick="window.location.href='https://www.spotrac.com/redirect/player/2018/'">
+<a class="view" href="https://www.spotrac.com/redirect/player/2018/">view</a>
+<span class="rank">2</span>
+<a href="https://www.spotrac.com/redirect/player/2018/">Sidney Crosby (C, PIT)</a>
+</li>
+<li class="odd" onclick="window.location.href='https://www.spotrac.com/redirect/player/1457/'">
+<a class="view" href="https://www.spotrac.com/redirect/player/1457/">view</a>
+<span class="rank">3</span>
+<a href="https://www.spotrac.com/redirect/player/1457/">Philip Kessel (RW, PIT)</a>
+</li>
+<li onclick="window.location.href='https://www.spotrac.com/redirect/player/6407/'">
+<a class="view" href="https://www.spotrac.com/redirect/player/6407/">view</a>
+<span class="rank">4</span>
+<a href="https://www.spotrac.com/redirect/player/6407/">John Tavares (C, TOR)</a>
+</li>
+<li class="odd" onclick="window.location.href='https://www.spotrac.com/redirect/player/20276/'">
+<a class="view" href="https://www.spotrac.com/redirect/player/20276/">view</a>
+<span class="rank">5</span>
+<a href="https://www.spotrac.com/redirect/player/20276/">Auston Matthews (C, TOR)</a>
+</li>
+</ul>
+<!-- end:singles-container -->
+</section>
+<!-- start:advertising -->
+<div class="ad">
+<div class="ad visible-lg">
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Spotrac Sidebar -->
+<ins class="adsbygoogle" data-ad-client="ca-pub-1743211837214524" data-ad-slot="0068993420" style="display:inline-block;width:300px;height:250px"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div class="ad visible-md">
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Spotrac Sidebar -->
+<ins class="adsbygoogle" data-ad-client="ca-pub-1743211837214524" data-ad-slot="0068993420" style="display:inline-block;width:300px;height:250px"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div class="ad visible-sm"></div>
+<div class="ad visible-xs text-center">
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Spotrac Sidebar -->
+<ins class="adsbygoogle" data-ad-client="ca-pub-1743211837214524" data-ad-slot="0068993420" style="display:inline-block;width:300px;height:250px"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+</div>
+<!-- end:advertising -->
+<section class="teamtransactions">
+<!-- Sidebar Transactions-->
+<!-- start:header -->
+<header>
+<h2>Transactions <span class="fa fa-calendar"></span></h2>
+<span class="borderline"></span>
+</header>
+<!-- end:header -->
+<div>
+<div class="transitem">
+<span class="transplayer">
+<span class="transdate">Oct 4 2018</span>
+<a href="https://www.spotrac.com/redirect/player/23809/">Cale Fleury</a></span>
+<span class="transdesc">Signed a 3 year $2.625 million contract with Montreal (MTL)</span>
+</div>
+<div class="transitem">
+<span class="transplayer">
+<span class="transdate">Oct 4 2018</span>
+<a href="https://www.spotrac.com/redirect/player/1512/">Drew Stafford</a></span>
+<span class="transdesc">Signed a 1 year $810,000 contract with New Jersey (NJD)</span>
+</div>
+<div class="transitem">
+<span class="transplayer">
+<span class="transdate">Oct 4 2018</span>
+<a href="https://www.spotrac.com/redirect/player/17587/">Gustav Olofsson</a></span>
+<span class="transdesc">Traded to Montreal (MTL) from Minnesota (MIN)  for  <a class="tag player-tag" href="https://www.spotrac.com/redirect/player/20356/">William Bitten</a></span>
+</div>
+<div class="transitem">
+<span class="transplayer">
+<span class="transdate">Oct 4 2018</span>
+<a href="https://www.spotrac.com/redirect/player/20356/">William Bitten</a></span>
+<span class="transdesc">Traded to Minnesota (MIN) from Montreal (MTL)  for  <a class="tag player-tag" href="https://www.spotrac.com/redirect/player/17587/">Gustav Olofsson</a></span>
+</div>
+<div class="transitem">
+<span class="transplayer">
+<span class="transdate">Oct 3 2018</span>
+<a href="https://www.spotrac.com/redirect/player/10763/">Thomas Wilson</a></span>
+<span class="transdesc">Suspended 20 games for an illegal check to the head against Oskar Sundqvist (STL), forfeiting $1,260,162 in 2018-19 salary with Washington (WAS)</span>
+</div>
+<a class="more" href="https://www.spotrac.com/nhl/transactions/">» View More</a>
+</div>
+</section>
+<!-- start:advertising -->
+<div class="ad">
+<div class="ad visible-lg">
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Spotrac Sidebar -->
+<ins class="adsbygoogle" data-ad-client="ca-pub-1743211837214524" data-ad-slot="0068993420" style="display:inline-block;width:300px;height:250px"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div class="ad visible-md">
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Spotrac Sidebar -->
+<ins class="adsbygoogle" data-ad-client="ca-pub-1743211837214524" data-ad-slot="0068993420" style="display:inline-block;width:300px;height:250px"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div class="ad visible-sm"></div>
+<div class="ad visible-xs text-center">
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Spotrac Sidebar -->
+<ins class="adsbygoogle" data-ad-client="ca-pub-1743211837214524" data-ad-slot="0068993420" style="display:inline-block;width:300px;height:250px"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+</div>
+<!-- end:advertising -->
+<!-- start:section-module-singles -->
+<section class="module-singles list">
+<!-- start:header -->
+<header>
+<h2>Trending Pages  <span class="glyphicon glyphicon-chevron-up"></span></h2>
+<span class="borderline"></span>
+</header>
+<!-- end:header -->
+<!-- start:singles-container -->
+<ul class="singles-container">
+<li class="odd" onclick="window.location.href='https://www.spotrac.com/https://www.spotrac.com/nhl/free-agents/2019/defenseman/ufa/'">
+<a class="view" href="https://www.spotrac.com/https://www.spotrac.com/nhl/free-agents/2019/defenseman/ufa/">view</a>
+<span class="rank">1</span>
+<a href="http://www.spotrac.com/nhl/free-agents/2019/defenseman/ufa/">2019 NHL Free Agents - Defenseman</a>
+</li>
+<li onclick="window.location.href='https://www.spotrac.com/https://www.spotrac.com/nhl/pittsburgh-penguins/'">
+<a class="view" href="https://www.spotrac.com/https://www.spotrac.com/nhl/pittsburgh-penguins/">view</a>
+<span class="rank">2</span>
+<a href="http://www.spotrac.com/nhl/pittsburgh-penguins/">Pittsburgh Penguins </a>
+</li>
+<li class="odd" onclick="window.location.href='https://www.spotrac.com/https://www.spotrac.com/nhl/rankings/'">
+<a class="view" href="https://www.spotrac.com/https://www.spotrac.com/nhl/rankings/">view</a>
+<span class="rank">3</span>
+<a href="http://www.spotrac.com/nhl/rankings/">2018 NHL Cap Hit Rankings</a>
+</li>
+<li onclick="window.location.href='https://www.spotrac.com/https://www.spotrac.com/nhl/toronto-maple-leafs/'">
+<a class="view" href="https://www.spotrac.com/https://www.spotrac.com/nhl/toronto-maple-leafs/">view</a>
+<span class="rank">4</span>
+<a href="http://www.spotrac.com/nhl/toronto-maple-leafs/">Toronto Maple Leafs </a>
+</li>
+<li class="odd" onclick="window.location.href='https://www.spotrac.com/https://www.spotrac.com/nhl/'">
+<a class="view" href="https://www.spotrac.com/https://www.spotrac.com/nhl/">view</a>
+<span class="rank">5</span>
+<a href="http://www.spotrac.com/nhl/">NHL Homepage</a>
+</li>
+</ul>
+<!-- end:singles-container -->
+</section> <!-- start:advertising -->
+<div class="ad">
+<div class="ad visible-lg"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 2018 SideBar Unit -->
+<ins class="adsbygoogle" data-ad-client="ca-pub-1743211837214524" data-ad-slot="7949863479" style="display:inline-block;width:300px;height:600px"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+<div class="ad visible-md"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 2018 SideBar Unit -->
+<ins class="adsbygoogle" data-ad-client="ca-pub-1743211837214524" data-ad-slot="7949863479" style="display:inline-block;width:300px;height:600px"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+<div class="ad visible-sm"></div>
+<div class="ad visible-xs text-center"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 2018 SideBar Unit -->
+<ins class="adsbygoogle" data-ad-client="ca-pub-1743211837214524" data-ad-slot="7949863479" style="display:inline-block;width:300px;height:600px"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+</div>
+<!-- end:advertising -->
+<!-- start:col -->
+<section class="module-singles">
+<!-- start:header -->
+<header>
+<h2>More NHL Trackers <span class="fa fa-info-circle"></span></h2>
+<span class="borderline"></span>
+</header>
+<!-- end:header -->
+<!-- start:singles-container -->
+<ul class="singles-container">
+<li class="odd">
+<a class="view" href="https://www.spotrac.com/nhl/cap/">view</a>
+<a href="https://www.spotrac.com/nhl/cap/">Team Cap Tracker</a>
+</li>
+<li>
+<a class="view" href="https://www.spotrac.com/nhl/free-agents/">view</a>
+<a href="https://www.spotrac.com/nhl/free-agents/">Free Agent Tracker</a>
+</li>
+<li class="odd">
+<a class="view" href="https://www.spotrac.com/nhl/fines-suspensions/">view</a>
+<a href="https://www.spotrac.com/nhl/fines-suspensions/">Fines &amp; Suspensions</a>
+</li>
+<li class="">
+<a class="view" href="https://www.spotrac.com/nhl/transactions/trade/">view</a>
+<a href="https://www.spotrac.com/nhl/transactions/trade/">Trade Tracker</a>
+</li>
+<li class="odd">
+<a class="view" href="https://www.spotrac.com/nhl/tools/buyout-calculator/">view</a>
+<a href="https://www.spotrac.com/nhl/tools/buyout-calculator/">Buyout Calculator</a>
+</li>
+</ul>
+<!-- end:singles-container -->
+</section>
+</div>
+<!-- end:sidebar -->
+</div>
+<!-- end:page content -->
+</div>
+<!-- end:container -->
+<!-- footer:page footer -->
+<footer id="page-footer">
+<!-- start:container -->
+<div class="container ">
+<nav class="hidden-xs" id="foot-menu">
+<ul class="clearfix">
+<li class="home current"><a href="#"><span class="glyphicon glyphicon-home"></span></a></li>
+<li class="cat-nfl"><a href="https://www.spotrac.com/nfl/">NFL</a></li>
+<li class="cat-nba"><a href="https://www.spotrac.com/nba/">NBA</a></li>
+<li class="cat-mlb"><a href="https://www.spotrac.com/mlb/">MLB</a></li>
+<li class="cat-nhl"><a href="https://www.spotrac.com/nhl/">NHL</a></li>
+<li class="cat-mls"><a href="https://www.spotrac.com/mls/">MLS</a></li>
+<li class="cat-epl"><a href="https://www.spotrac.com/epl/">EPL</a></li>
+<li class="cat-extra"><a href="https://www.spotrac.com/research/">Research</a></li>
+<li class="cat-extra"><a href="https://www.spotrac.com/blog/" target="_blank">Blog</a></li>
+<li class="options"><a class="scrollToTop" href="#">Back to top <span class="glyphicon glyphicon-chevron-up"></span></a></li>
+</ul>
+</nav>
+<!-- start:row -->
+<div class="about row">
+<!-- start:col -->
+<div class="col-sm-12 col-md-3 xs-hide">
+<h3><a href="https://www.spotrac.com/"><img alt="Spotrac" src="https://www.spotrac.com/resources/images/logo-black.png"/></a></h3>
+</div>
+<!-- end:col -->
+<!-- start:col -->
+<div class="col-sm-6 col-md-5">
+<h4>About Spotrac</h4>
+<p>Browse our online application for MLB, NBA, NFL, NHL, EPL, or MLS player contracts, salaries, transactions, and more.</p>
+<a href="https://www.twitter.com/spotrac" target="_blank"><i class="fa fa-twitter fa-lg"></i></a>
+<a href="https://www.facebook.com/spotrac" target="_blank"><i class="fa fa-facebook-square fa-lg"></i></a>
+</div>
+<!-- end:col -->
+<!-- start:col -->
+<div class="col-sm-6 col-md-4">
+<h4>Additional information</h4>
+<ul>
+<li><a href="https://www.spotrac.com/about/">About Spotrac</a></li>
+<li><a href="https://www.spotrac.com/media/">Media Requests</a></li>
+<li><a href="https://www.spotrac.com/advertise/">Advertise with Us</a></li>
+<li><a href="https://www.spotrac.com/privacy/">Privacy Policy</a></li>
+<li><a href="https://policies.google.com/technologies/partner-sites" target="_blank">Google Privacy</a></li>
+<li><a href="https://www.spotrac.com/contact/">Contact Us</a></li>
+<li><a href="https://www.spotrac.com/sources-affiliates/">Sources &amp; Affiliates</a></li>
+</ul></div>
+<!-- end:col -->
+</div>
+<!-- end:row -->
+<!-- start:row -->
+<div class="copyright row">
+<!-- start:col -->
+<div class="col-sm-6">© <a href="https://www.spotrac.com/">Spotrac</a> 2018. All rights reserved.</div>
+<!-- end:col -->
+<!-- start:col -->
+<div class="col-sm-6 text-right">Partnered with the USA TODAY Sports Media Group  |  Powered by <a href="https://mg3webworks.com">MG3 WebWorks</a>.</div>
+<!-- end:col -->
+</div>
+<!-- end:row -->
+</div>
+<!-- end:container -->
+</footer>
+<!-- end:page footer -->
+<script>
+function openCity(evt, cityName) {
+    var i, tabcontent, tablinks;
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+        tabcontent[i].style.display = "none";
+    }
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+    document.getElementById(cityName).style.display = "block";
+    evt.currentTarget.className += " active";
+}
+
+// Get the element with id="defaultOpen" and click on it
+document.getElementById("defaultOpen").click();
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-4232275-1', 'auto');
+  ga('require', 'linkid', 'linkid.js');
+  ga('send', 'pageview');
+
+</script>
+<script src="https://www.spotrac.com/resources/js/ga_social_tracking.js"></script>
+<script>
+  _ga.trackTwitter(); 
+  _ga.trackFacebook();//Google Analytics tracking
+  
+</script>
+</div>
+<!-- end:page inner wrap -->
+</div>
+<!-- end:page outer wrap -->
+<!-- start:scripts -->
+<script src="https://www.spotrac.com/resources/js/jquery.min.js"></script>
+<script src="https://www.spotrac.com/resources/js/bootstrap.min.js"></script>
+<script src="https://www.spotrac.com/resources/js/jquery.sidr.min.js"></script>
+<script src="https://www.spotrac.com/resources/js/jquery.carouFredSel-6.2.1-packed.js"></script>
+<script src="https://www.spotrac.com/resources/js/jquery.touchSwipe.min.js"></script>
+<script src="https://www.spotrac.com/resources/js/functions.js"></script>
+<!-- end:scripts -->
+</body></html>

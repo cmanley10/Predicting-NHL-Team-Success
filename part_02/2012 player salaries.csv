@@ -1,0 +1,651 @@
+,Adjusted Cap Hit,Age,Base Salary,Cap Percentage,Performance Bonus,Player,Position,Signing Bonus,Team,Total Cap Hit,Total Salary
+0,"$5,325,000 ",27,"$3,585,366",7.94,-,Ryan Getzlaf,C,-,Anaheim Ducks 2012-2013 Salary Cap ,"$5,325,000 ","$3,585,366"
+1,"$5,325,000 ",27,"$3,146,341",7.94,-,Corey Perry,RW,-,Anaheim Ducks 2012-2013 Salary Cap ,"$5,325,000 ","$3,146,341"
+2,"$5,100,000 ",25,"$3,256,098",7.60,-,Bobby Ryan,RW,-,Anaheim Ducks 2012-2013 Salary Cap ,"$5,100,000 ","$3,256,098"
+3,"$4,500,000 ",30,"$3,220,512",6.71,-,Jonas Hiller,G,"$500,000",Anaheim Ducks 2012-2013 Salary Cap ,"$4,500,000 ","$3,720,512"
+4,"$4,500,000 ",42,"$2,634,146",6.71,-,Teemu Selanne,RW,-,Anaheim Ducks 2012-2013 Salary Cap ,"$4,500,000 ",-
+5,"$3,800,000 ",37,"$1,756,098",5.67,-,Saku Koivu,C,-,Anaheim Ducks 2012-2013 Salary Cap ,"$3,800,000 ","$1,756,098"
+6,"$3,666,667 ",36,"$2,341,463",5.47,-,Sheldon Souray,D,-,Anaheim Ducks 2012-2013 Salary Cap ,"$3,666,667 ","$2,341,463"
+7,"$3,500,000 ",32,"$2,048,780",5.22,-,Bryan Allen,D,-,Anaheim Ducks 2012-2013 Salary Cap ,"$3,500,000 ","$2,048,780"
+8,"$3,500,000 ",32,"$2,048,780",5.22,-,Francois Beauchemin,D,-,Anaheim Ducks 2012-2013 Salary Cap ,"$3,500,000 ","$2,048,780"
+9,"$3,000,000 ",35,"$1,756,098",4.47,-,Toni Lydman,D,-,Anaheim Ducks 2012-2013 Salary Cap ,"$3,000,000 ",-
+10,"$2,390,000 ",25,"$1,375,610",3.56,-,Andrew Cogliano,LW,-,Anaheim Ducks 2012-2013 Salary Cap ,"$2,390,000 ","$1,375,610"
+11,"$2,175,000 ",22,"$1,170,732",3.24,-,Luca Sbisa,D,-,Anaheim Ducks 2012-2013 Salary Cap ,"$2,175,000 ","$1,170,732"
+12,"$1,800,000 ",27,"$1,053,659",2.68,-,Daniel Winnik,C,-,Anaheim Ducks 2012-2013 Salary Cap ,"$1,800,000 ","$1,053,659"
+13,"$1,775,000 ",22,"$670,269",2.65,"$850,000",Frederik Andersen,G,"$92,500",Anaheim Ducks 2012-2013 Salary Cap ,"$1,775,000 ","$762,769"
+14,"$1,400,000 ",20,"$652,153",2.09,-,Cam Fowler,D,"$90,000",Anaheim Ducks 2012-2013 Salary Cap ,"$1,400,000 ","$742,153"
+15,"$1,350,000 ",22,"$493,902",2.01,-,Antoine Laganiere,C,"$92,500",Anaheim Ducks 2012-2013 Salary Cap ,"$1,350,000 ",-
+16,"$1,325,000 ",21,"$422,692",1.98,"$910,000",Sami Vatanen,D,"$90,000",Anaheim Ducks 2012-2013 Salary Cap ,"$1,325,000 ","$512,692"
+17,"$1,100,000 ",30,"$643,902",1.64,-,David Steckel,LW,-,Anaheim Ducks 2012-2013 Salary Cap ,"$1,100,000 ",-
+18,"$1,025,000 ",21,"$652,153",1.53,"$25,000",Kyle Palmieri,RW,"$90,000",Anaheim Ducks 2012-2013 Salary Cap ,"$1,025,000 ","$742,153"
+19,"$1,000,000 ",30,"$1,000,000",1.49,-,Viktor Fasth,G,-,Anaheim Ducks 2012-2013 Salary Cap ,"$1,000,000 ","$1,000,000"
+20,"$900,000 ",21,"$428,084",1.34,-,Mat Clark,D,"$90,000",Anaheim Ducks 2012-2013 Salary Cap ,"$900,000 ",-
+21,"$894,166 ",18,-,1.33,-,Hampus Lindholm,D,"$92,500",Anaheim Ducks 2012-2013 Salary Cap ,"$894,166 ","$92,500"
+22,"$870,000 ",20,"$810,000",1.30,-,Emerson Etem,LW,"$90,000",Anaheim Ducks 2012-2013 Salary Cap ,"$870,000 ","$900,000"
+23,"$737,500 ",24,"$497,561",1.10,-,Matt Beleskey,LW,-,Anaheim Ducks 2012-2013 Salary Cap ,"$737,500 ","$497,561"
+24,"$700,000 ",24,"$409,756",1.04,-,Nick Bonino,C,-,Anaheim Ducks 2012-2013 Salary Cap ,"$700,000 ","$409,756"
+25,"$675,000 ",35,"$370,426",1.01,-,Radek Dvorak,RW,-,Anaheim Ducks 2012-2013 Salary Cap ,"$675,000 ","$370,426"
+26,"$637,500 ",28,"$365,854",0.95,-,Brad Staubitz,RW,-,Anaheim Ducks 2012-2013 Salary Cap ,"$637,500 ",-
+27,"$600,000 ",28,"$351,220",0.89,-,Jordan Hendry,D,-,Anaheim Ducks 2012-2013 Salary Cap ,"$600,000 ",-
+28,"$600,000 ",25,"$351,220",0.89,-,Harry Zolnierczyk,LW,-,Anaheim Ducks 2012-2013 Salary Cap ,"$600,000 ",-
+29,"$550,000 ",27,"$550,000",0.82,-,Kyle Wilson,C,-,Anaheim Ducks 2012-2013 Salary Cap ,"$550,000 ",-
+30,"$550,000 ",27,"$321,951",0.82,-,Pierre-Luc Letourneau-Leblond,LW,-,Anaheim Ducks 2012-2013 Salary Cap ,"$550,000 ",-
+31,"$550,000 ",24,"$321,951",0.82,-,Patrick Maroon,LW,-,Anaheim Ducks 2012-2013 Salary Cap ,"$550,000 ","$321,951"
+32,"$525,000 ",29,"$307,317",0.78,-,Nate Guenin,D,-,Anaheim Ducks 2012-2013 Salary Cap ,"$525,000 ","$307,317"
+33,"$525,000 ",28,"$307,317",0.78,-,Ben Lovejoy,D,-,Anaheim Ducks 2012-2013 Salary Cap ,"$525,000 ","$307,317"
+34,"$193,333 ",20,"$444,878",0.29,"$140,000",Devante Smith-Pelly,RW,"$90,000",Anaheim Ducks 2012-2013 Salary Cap ,"$193,333 ","$534,878"
+35,"$6,916,667 ",35,"$6,000,000",10.00,-,Zdeno Chara,D,-,Boston Bruins 2012-2013 Salary Cap ,"$6,916,667 ","$6,000,000"
+36,"$5,250,000 ",26,"$3,073,171",7.59,-,David Krejci,C,-,Boston Bruins 2012-2013 Salary Cap ,"$5,250,000 ","$3,073,171"
+37,"$5,000,000 ",27,"$1,039,153",7.23,-,Patrice Bergeron,C,"$1,000,000",Boston Bruins 2012-2013 Salary Cap ,"$5,000,000 ","$2,039,153"
+38,"$4,550,000 ",40,"$4,000,000",6.58,"$50,000",Jaromir Jagr,RW,"$500,000",Boston Bruins 2012-2013 Salary Cap ,"$4,550,000 ","$4,550,000"
+39,"$4,083,333 ",24,"$2,487,805",5.91,-,Milan Lucic,LW,-,Boston Bruins 2012-2013 Salary Cap ,"$4,083,333 ","$2,487,805"
+40,"$4,027,143 ",35,"$6,500,000",5.82,-,Marc Savard,C,-,Boston Bruins 2012-2013 Salary Cap ,"$4,027,143 ","$6,500,000"
+41,"$4,000,000 ",27,"$3,219,512",5.78,-,Nathan Horton,RW,-,Boston Bruins 2012-2013 Salary Cap ,"$4,000,000 ","$3,219,512"
+42,"$3,500,000 ",25,"$2,048,780",5.06,-,Tuukka Rask,G,-,Boston Bruins 2012-2013 Salary Cap ,"$3,500,000 ","$2,048,780"
+43,"$3,366,667 ",28,"$1,814,634",4.87,-,Johnny Boychuk,D,-,Boston Bruins 2012-2013 Salary Cap ,"$3,366,667 ","$1,814,634"
+44,"$3,250,000 ",31,"$3,000,000",4.70,-,Dennis Seidenberg,D,"$250,000",Boston Bruins 2012-2013 Salary Cap ,"$3,250,000 ","$3,250,000"
+45,"$3,250,000 ",30,"$1,756,098",4.70,-,Rich Peverley,RW,-,Boston Bruins 2012-2013 Salary Cap ,"$3,250,000 ","$1,756,098"
+46,"$3,000,000 ",31,"$1,463,415",4.34,-,Chris Kelly,C,-,Boston Bruins 2012-2013 Salary Cap ,"$3,000,000 ","$1,463,415"
+47,"$2,500,000 ",24,"$1,756,098",3.62,-,Brad Marchand,LW,-,Boston Bruins 2012-2013 Salary Cap ,"$2,500,000 ","$1,756,098"
+48,"$2,250,000 ",33,"$1,317,073",3.25,-,Andrew Ference,D,-,Boston Bruins 2012-2013 Salary Cap ,"$2,250,000 ","$1,317,073"
+49,"$1,600,000 ",28,"$819,512",2.31,-,Gregory Campbell,C,-,Boston Bruins 2012-2013 Salary Cap ,"$1,600,000 ","$819,512"
+50,"$1,566,667 ",25,"$819,512",2.27,-,Adam McQuaid,D,-,Boston Bruins 2012-2013 Salary Cap ,"$1,566,667 ","$819,512"
+51,"$1,300,000 ",28,"$760,976",1.88,-,Daniel Paille,LW,-,Boston Bruins 2012-2013 Salary Cap ,"$1,300,000 ","$760,976"
+52,"$1,100,000 ",35,"$643,902",1.59,-,Shawn Thornton,RW,-,Boston Bruins 2012-2013 Salary Cap ,"$1,100,000 ","$643,902"
+53,"$1,008,333 ",26,"$525,000",1.46,-,Carl Soderberg,C,"$500,000",Boston Bruins 2012-2013 Salary Cap ,"$1,008,333 ","$1,025,000"
+54,"$1,000,000 ",35,"$468,293",1.45,-,Wade Redden,D,-,Boston Bruins 2012-2013 Salary Cap ,"$1,000,000 ",-
+55,"$916,667 ",21,"$832,500",1.33,"$850,000",Torey Krug,D,"$92,500",Boston Bruins 2012-2013 Salary Cap ,"$916,667 ","$925,000"
+56,"$900,000 ",20,"$810,000",1.30,"$2,650,000",Tyler Seguin,C,"$90,000",Boston Bruins 2012-2013 Salary Cap ,"$900,000 ","$810,000"
+57,"$894,166 ",19,"$832,500",1.29,"$212,500",Dougie Hamilton,D,"$92,500",Boston Bruins 2012-2013 Salary Cap ,"$894,166 ","$925,000"
+58,"$875,000 ",26,"$556,098",1.27,-,Anton Khudobin,G,-,Boston Bruins 2012-2013 Salary Cap ,"$875,000 ","$556,098"
+59,"$875,000 ",22,"$442,820",1.27,-,David Warsofsky,D,"$87,500",Boston Bruins 2012-2013 Salary Cap ,"$875,000 ","$442,820"
+60,"$650,000 ",29,"$380,488",0.94,-,Aaron Johnson,D,-,Boston Bruins 2012-2013 Salary Cap ,"$650,000 ",-
+61,"$635,000 ",24,"$371,707",0.92,-,Kaspars Daugavins,LW,-,Boston Bruins 2012-2013 Salary Cap ,"$635,000 ",-
+62,"$625,000 ",37,"$351,219",0.90,-,Jay Pandolfo,LW,-,Boston Bruins 2012-2013 Salary Cap ,"$625,000 ",-
+63,"$7,142,857 ",28,"$3,746,341",12.23,-,Thomas Vanek,LW,-,Buffalo Sabres 2012-2013 Salary Cap ,"$7,142,857 ","$3,746,341"
+64,"$6,250,000 ",32,"$3,658,537",10.70,-,Ryan Miller,G,-,Buffalo Sabres 2012-2013 Salary Cap ,"$6,250,000 ","$3,658,537"
+65,"$5,500,000 ",22,"$2,000,000",9.42,-,Tyler Myers,D,"$10,000,000",Buffalo Sabres 2012-2013 Salary Cap ,"$5,500,000 ","$12,000,000"
+66,"$4,500,000 ",28,"$3,512,195",7.71,-,Ville Leino,LW,"$4,000,000",Buffalo Sabres 2012-2013 Salary Cap ,"$4,500,000 ",-
+67,"$4,000,000 ",30,"$4,682,927",6.85,-,Christian Ehrhoff,D,"$5,000,000",Buffalo Sabres 2012-2013 Salary Cap ,"$4,000,000 ","$9,682,927"
+68,"$4,000,000 ",26,"$2,341,463",6.85,-,Drew Stafford,RW,-,Buffalo Sabres 2012-2013 Salary Cap ,"$4,000,000 ","$2,341,463"
+69,"$2,950,000 ",30,"$1,873,171",5.05,-,Steve Ott,C,-,Buffalo Sabres 2012-2013 Salary Cap ,"$2,950,000 ","$1,873,171"
+70,"$2,812,500 ",22,"$1,500,000",4.82,-,Tyler Ennis,C,-,Buffalo Sabres 2012-2013 Salary Cap ,"$2,812,500 ","$1,500,000"
+71,"$2,750,000 ",26,"$1,500,000",4.71,-,Andrej Sekera,D,"$1,750,000",Buffalo Sabres 2012-2013 Salary Cap ,"$2,750,000 ","$3,250,000"
+72,"$2,000,000 ",28,"$1,170,732",3.42,-,Adam Pardy,D,-,Buffalo Sabres 2012-2013 Salary Cap ,"$2,000,000 ","$1,170,732"
+73,"$1,666,667 ",22,"$634,038",2.85,"$850,000",Cody Hodgson,C,-,Buffalo Sabres 2012-2013 Salary Cap ,"$1,666,667 ","$634,038"
+74,"$1,450,000 ",25,"$1,250,000",2.48,-,Nathan Gerbe,LW,-,Buffalo Sabres 2012-2013 Salary Cap ,"$1,450,000 ","$1,250,000"
+75,"$1,250,000 ",26,"$731,707",2.14,-,Patrick Kaleta,RW,-,Buffalo Sabres 2012-2013 Salary Cap ,"$1,250,000 ","$731,707"
+76,"$1,250,000 ",35,"$585,366",2.14,-,Jochen Hecht,C,-,Buffalo Sabres 2012-2013 Salary Cap ,"$1,250,000 ",-
+77,"$1,200,000 ",29,"$1,200,000",2.05,-,Cody McCormick,C,-,Buffalo Sabres 2012-2013 Salary Cap ,"$1,200,000 ","$1,200,000"
+78,"$975,000 ",22,"$507,621",1.67,-,Chad Ruhwedel,D,"$92,500",Buffalo Sabres 2012-2013 Salary Cap ,"$975,000 ",-
+79,"$950,000 ",24,"$805,128",1.63,-,Mike Weber,D,-,Buffalo Sabres 2012-2013 Salary Cap ,"$950,000 ","$805,128"
+80,"$925,000 ",24,"$832,500",1.58,"$100,000",Brian Flynn,RW,"$92,500",Buffalo Sabres 2012-2013 Salary Cap ,"$925,000 ","$925,000"
+81,"$925,000 ",18,"$541,463",1.58,-,Mikhail Grigorenko,C,"$92,500",Buffalo Sabres 2012-2013 Salary Cap ,"$925,000 ","$818,963"
+82,"$900,000 ",22,"$740,000",1.54,-,Matthew Hackett,G,"$90,000",Buffalo Sabres 2012-2013 Salary Cap ,"$900,000 ",-
+83,"$870,000 ",20,"$900,000",1.49,-,Mark Pysyk,D,"$90,000",Buffalo Sabres 2012-2013 Salary Cap ,"$870,000 ","$67,500"
+84,"$826,667 ",24,"$700,000",1.42,"$110,000",Marcus Foligno,LW,"$90,000",Buffalo Sabres 2012-2013 Salary Cap ,"$826,667 ","$653,589"
+85,"$763,333 ",20,"$690,000",1.31,"$210,000",Johan Larsson,LW,"$90,000",Buffalo Sabres 2012-2013 Salary Cap ,"$763,333 ","$67,500"
+86,"$675,000 ",24,"$424,390",1.16,-,Jhonas Enroth,G,-,Buffalo Sabres 2012-2013 Salary Cap ,"$675,000 ","$424,390"
+87,"$600,000 ",29,"$351,220",1.03,-,John Scott,LW,-,Buffalo Sabres 2012-2013 Salary Cap ,"$600,000 ","$351,220"
+88,"$537,500 ",26,"$307,317",0.92,-,Kevin Porter,LW,-,Buffalo Sabres 2012-2013 Salary Cap ,"$537,500 ",-
+89,- ,18,-,0.00,-,Zemgus Girgensons,C,"$92,500",Buffalo Sabres 2012-2013 Salary Cap ,- ,"$92,500"
+90,"$6,000,000 ",30,"$4,097,561",10.46,-,Michael Cammalleri,LW,-,Calgary Flames 2012-2013 Salary Cap ,"$6,000,000 ","$4,097,561"
+91,"$5,833,333 ",35,"$2,926,829",10.17,-,Miikka Kiprusoff,G,-,Calgary Flames 2012-2013 Salary Cap ,"$5,833,333 ",-
+92,"$5,250,000 ",29,"$2,926,829",9.16,-,Dennis Wideman,D,-,Calgary Flames 2012-2013 Salary Cap ,"$5,250,000 ","$2,926,829"
+93,"$4,020,000 ",28,"$3,500,000",7.01,-,Mark Giordano,D,-,Calgary Flames 2012-2013 Salary Cap ,"$4,020,000 ","$3,500,000"
+94,"$4,000,000 ",28,"$2,341,463",6.98,-,Jiri Hudler,LW,-,Calgary Flames 2012-2013 Salary Cap ,"$4,000,000 ","$2,341,463"
+95,"$3,500,000 ",32,"$2,048,780",6.10,-,Alex Tanguay,RW,-,Calgary Flames 2012-2013 Salary Cap ,"$3,500,000 ","$2,048,780"
+96,"$3,500,000 ",28,"$1,463,415",6.10,-,Matt Stajan,C,-,Calgary Flames 2012-2013 Salary Cap ,"$3,500,000 ","$1,463,415"
+97,"$2,550,000 ",29,"$1,463,415",4.45,-,Curtis Glencross,LW,-,Calgary Flames 2012-2013 Salary Cap ,"$2,550,000 ","$1,463,415"
+98,"$2,500,000 ",28,"$2,500,000",4.36,-,Anton Babchuk,D,-,Calgary Flames 2012-2013 Salary Cap ,"$2,500,000 ",-
+99,"$2,500,000 ",29,"$1,317,073",4.36,-,Lee Stempniak,RW,-,Calgary Flames 2012-2013 Salary Cap ,"$2,500,000 ","$1,317,073"
+100,"$2,000,000 ",34,"$1,170,732",3.49,-,Cory Sarich,D,-,Calgary Flames 2012-2013 Salary Cap ,"$2,000,000 ",-
+101,"$1,250,000 ",25,"$702,439",2.18,-,Chris Butler,D,-,Calgary Flames 2012-2013 Salary Cap ,"$1,250,000 ","$702,439"
+102,"$900,000 ",21,"$493,902",1.57,-,Ben Hanowski,LW,"$90,000",Calgary Flames 2012-2013 Salary Cap ,"$900,000 ",-
+103,"$805,000 ",21,"$354,146",1.40,-,Roman Horak,LW,"$80,000",Calgary Flames 2012-2013 Salary Cap ,"$805,000 ",-
+104,"$775,000 ",27,"$453,659",1.35,-,Derek Smith,D,-,Calgary Flames 2012-2013 Salary Cap ,"$775,000 ",-
+105,"$725,000 ",23,"$424,390",1.26,-,Mikael Backlund,C,-,Calgary Flames 2012-2013 Salary Cap ,"$725,000 ","$424,390"
+106,"$650,000 ",26,"$380,488",1.13,-,Blair Jones,C,-,Calgary Flames 2012-2013 Salary Cap ,"$650,000 ",-
+107,"$617,500 ",21,"$605,000",1.08,-,Joni Ortio,G,"$80,000",Calgary Flames 2012-2013 Salary Cap ,"$617,500 ","$605,000"
+108,"$612,500 ",30,"$358,537",1.07,-,Tim Jackman,RW,-,Calgary Flames 2012-2013 Salary Cap ,"$612,500 ","$358,537"
+109,"$600,000 ",31,"$351,220",1.05,-,Brian McGrattan,RW,-,Calgary Flames 2012-2013 Salary Cap ,"$600,000 ","$351,220"
+110,"$575,000 ",26,"$600,000",1.00,-,Brett Carson,D,-,Calgary Flames 2012-2013 Salary Cap ,"$575,000 ",-
+111,"$575,000 ",25,"$321,951",1.00,-,Ben Street,RW,-,Calgary Flames 2012-2013 Salary Cap ,"$575,000 ",-
+112,"$566,666 ",22,"$525,000",0.99,"$150,000",T.J. Brodie,D,-,Calgary Flames 2012-2013 Salary Cap ,"$566,666 ","$525,000"
+113,"$560,000 ",23,"$560,000",0.98,-,Carter Bancks,LW,"$35,000",Calgary Flames 2012-2013 Salary Cap ,"$560,000 ",-
+114,"$560,000 ",23,"$327,805",0.98,-,Paul Byron,C,-,Calgary Flames 2012-2013 Salary Cap ,"$560,000 ","$327,805"
+115,"$550,000 ",32,"$550,000",0.96,-,Joey MacDonald,G,-,Calgary Flames 2012-2013 Salary Cap ,"$550,000 ",-
+116,"$538,888 ",22,"$550,000",0.94,-,Mark Cundari,D,-,Calgary Flames 2012-2013 Salary Cap ,"$538,888 ",-
+117,"$525,000 ",28,"$525,000",0.92,-,Joe Piskula,D,-,Calgary Flames 2012-2013 Salary Cap ,"$525,000 ","$525,000"
+118,"$525,000 ",34,"$307,317",0.92,-,Steve Begin,LW,-,Calgary Flames 2012-2013 Salary Cap ,"$525,000 ",-
+119,"$8,250,000 ",27,"$4,975,610",14.87,-,Eric Staal,C,-,Carolina Hurricanes 2012-2013 Salary Cap ,"$8,250,000 ","$4,975,610"
+120,"$7,000,000 ",28,"$4,097,561",12.62,-,Alexander Semin,RW,-,Carolina Hurricanes 2012-2013 Salary Cap ,"$7,000,000 ","$4,097,561"
+121,"$6,300,000 ",28,"$3,746,341",11.36,-,Cam Ward,G,-,Carolina Hurricanes 2012-2013 Salary Cap ,"$6,300,000 ","$3,746,341"
+122,"$4,750,000 ",29,"$4,000,000",8.56,-,Tuomo Ruutu,LW,-,Carolina Hurricanes 2012-2013 Salary Cap ,"$4,750,000 ","$4,000,000"
+123,"$4,000,000 ",24,"$2,634,146",7.21,-,Jordan Staal,C,-,Carolina Hurricanes 2012-2013 Salary Cap ,"$4,000,000 ","$2,634,146"
+124,"$4,000,000 ",29,"$2,048,780",7.21,-,Tim Gleason,D,-,Carolina Hurricanes 2012-2013 Salary Cap ,"$4,000,000 ","$2,048,780"
+125,"$2,000,000 ",35,"$1,170,732",3.61,-,Joe Corvo,D,-,Carolina Hurricanes 2012-2013 Salary Cap ,"$2,000,000 ",-
+126,"$1,800,000 ",24,"$995,122",3.24,-,Jamie McBain,D,-,Carolina Hurricanes 2012-2013 Salary Cap ,"$1,800,000 ","$995,122"
+127,"$1,600,000 ",24,"$878,049",2.88,-,Jiri Tlusty,LW,-,Carolina Hurricanes 2012-2013 Salary Cap ,"$1,600,000 ","$878,049"
+128,"$1,000,000 ",31,"$585,366",1.80,-,Marc-Andre Bergeron,D,-,Carolina Hurricanes 2012-2013 Salary Cap ,"$1,000,000 ",-
+129,"$900,000 ",20,"$810,000",1.62,"$500,000",Jeff Skinner,LW,"$90,000",Carolina Hurricanes 2012-2013 Salary Cap ,"$900,000 ","$900,000"
+130,"$840,000 ",20,"$750,000",1.51,"$60,000",Justin Faulk,D,"$90,000",Carolina Hurricanes 2012-2013 Salary Cap ,"$840,000 ","$840,000"
+131,"$800,000 ",32,"$380,488",1.44,-,Dan Ellis,G,-,Carolina Hurricanes 2012-2013 Salary Cap ,"$800,000 ","$380,488"
+132,"$750,000 ",28,"$468,293",1.35,-,Tim Brent,C,-,Carolina Hurricanes 2012-2013 Salary Cap ,"$750,000 ",-
+133,"$725,000 ",28,"$409,756",1.31,-,Kevin Westgarth,LW,-,Carolina Hurricanes 2012-2013 Salary Cap ,"$725,000 ",-
+134,"$704,166 ",23,"$700,000",1.27,"$87,500",Riley Nash,C,"$87,500",Carolina Hurricanes 2012-2013 Salary Cap ,"$704,166 ","$787,500"
+135,"$700,000 ",29,"$439,024",1.26,-,Jay Harrison,D,-,Carolina Hurricanes 2012-2013 Salary Cap ,"$700,000 ","$439,024"
+136,"$700,000 ",24,"$409,756",1.26,-,Bobby Sanguinetti,D,-,Carolina Hurricanes 2012-2013 Salary Cap ,"$700,000 ",-
+137,"$625,000 ",29,"$380,488",1.13,-,Pat Dwyer,RW,-,Carolina Hurricanes 2012-2013 Salary Cap ,"$625,000 ","$380,488"
+138,"$616,667 ",20,"$625,000",1.11,-,Justin Shugg,RW,-,Carolina Hurricanes 2012-2013 Salary Cap ,"$616,667 ","$625,000"
+139,"$600,000 ",23,"$351,220",1.08,-,Drayson Bowman,LW,-,Carolina Hurricanes 2012-2013 Salary Cap ,"$600,000 ",-
+140,"$537,500 ",26,"$307,317",0.97,-,Justin Peters,G,-,Carolina Hurricanes 2012-2013 Salary Cap ,"$537,500 ","$307,317"
+141,"$6,300,000 ",23,"$3,512,195",8.77,-,Patrick Kane,RW,-,Chicago Blackhawks 2012-2013 Salary Cap ,"$6,300,000 ","$3,512,195"
+142,"$6,300,000 ",24,"$3,512,195",8.77,-,Jonathan Toews,C,-,Chicago Blackhawks 2012-2013 Salary Cap ,"$6,300,000 ","$3,512,195"
+143,"$5,900,000 ",30,"$2,000,000",8.21,-,Patrick Sharp,LW,"$4,000,000",Chicago Blackhawks 2012-2013 Salary Cap ,"$5,900,000 ","$6,000,000"
+144,"$5,800,000 ",27,"$5,000,000",8.07,-,Brent Seabrook,D,"$2,000,000",Chicago Blackhawks 2012-2013 Salary Cap ,"$5,800,000 ","$7,000,000"
+145,"$5,538,462 ",29,"$6,500,000",7.71,-,Duncan Keith,D,"$1,500,000",Chicago Blackhawks 2012-2013 Salary Cap ,"$5,538,462 ","$8,000,000"
+146,"$5,275,000 ",33,"$4,624,390",7.34,-,Marian Hossa,RW,-,Chicago Blackhawks 2012-2013 Salary Cap ,"$5,275,000 ","$4,624,390"
+147,"$3,500,000 ",25,"$2,048,780",4.87,-,Niklas Hjalmarsson,D,-,Chicago Blackhawks 2012-2013 Salary Cap ,"$3,500,000 ","$2,048,780"
+148,"$3,375,000 ",31,"$3,000,000",4.70,-,John Oduya,D,"$1,000,000",Chicago Blackhawks 2012-2013 Salary Cap ,"$3,375,000 ","$4,000,000"
+149,"$3,375,000 ",26,"$1,975,610",4.70,-,Dave Bolland,C,-,Chicago Blackhawks 2012-2013 Salary Cap ,"$3,375,000 ","$1,975,610"
+150,"$2,666,667 ",27,"$1,317,073",3.71,-,Corey Crawford,G,-,Chicago Blackhawks 2012-2013 Salary Cap ,"$2,666,667 ","$1,317,073"
+151,"$2,500,000 ",35,"$1,463,415",3.48,-,Michal Handzus,C,-,Chicago Blackhawks 2012-2013 Salary Cap ,"$2,500,000 ",-
+152,"$2,333,333 ",24,"$1,229,268",3.25,-,Michael Frolik,RW,"$300,000",Chicago Blackhawks 2012-2013 Salary Cap ,"$2,333,333 ","$1,529,268"
+153,"$2,000,000 ",34,"$1,170,732",2.78,-,Michal Rozsival,D,-,Chicago Blackhawks 2012-2013 Salary Cap ,"$2,000,000 ","$1,170,732"
+154,"$1,486,598 ",23,"$507,621",2.07,-,Drew LeBlanc,C,"$92,500",Chicago Blackhawks 2012-2013 Salary Cap ,"$1,486,598 ",-
+155,"$1,250,000 ",31,"$702,439",1.74,-,Sheldon Brookbank,D,-,Chicago Blackhawks 2012-2013 Salary Cap ,"$1,250,000 ",-
+156,"$1,150,000 ",30,"$673,171",1.60,-,Ray Emery,G,-,Chicago Blackhawks 2012-2013 Salary Cap ,"$1,150,000 ","$673,171"
+157,"$900,000 ",21,"$526,829",1.25,"$325,000",Nick Leddy,D,"$90,000",Chicago Blackhawks 2012-2013 Salary Cap ,"$900,000 ","$616,829"
+158,"$875,000 ",26,"$397,561",1.22,-,Viktor Stalberg,LW,"$100,000",Chicago Blackhawks 2012-2013 Salary Cap ,"$875,000 ","$497,561"
+159,"$862,500 ",28,"$512,195",1.20,-,Henrik Karlsson,G,-,Chicago Blackhawks 2012-2013 Salary Cap ,"$862,500 ",-
+160,"$773,333 ",22,"$288,109",1.08,-,Shawn Lalonde,D,-,Chicago Blackhawks 2012-2013 Salary Cap ,"$773,333 ",-
+161,"$764,167 ",19,"$525,000",1.06,"$307,500",Brandon Saad,LW,"$92,500",Chicago Blackhawks 2012-2013 Salary Cap ,"$764,167 ","$617,500"
+162,"$738,333 ",21,"$433,536",1.03,"$110,000",Dylan Olsen,D,"$90,000",Chicago Blackhawks 2012-2013 Salary Cap ,"$738,333 ","$433,536"
+163,"$735,000 ",22,"$810,000",1.02,-,Marcus Kruger,C,"$90,000",Chicago Blackhawks 2012-2013 Salary Cap ,"$735,000 ","$900,000"
+164,"$735,000 ",21,"$419,817",1.02,"$135,000",Jeremy Morin,RW,"$90,000",Chicago Blackhawks 2012-2013 Salary Cap ,"$735,000 ","$509,817"
+165,"$654,167 ",22,"$387,805",0.91,"$212,500",Jimmy Hayes,RW,"$87,500",Chicago Blackhawks 2012-2013 Salary Cap ,"$654,167 ","$475,305"
+166,"$650,000 ",37,"$351,220",0.90,-,Jamal Mayers,RW,"$50,000",Chicago Blackhawks 2012-2013 Salary Cap ,"$650,000 ",-
+167,"$618,333 ",21,"$351,219",0.86,"$260,000",Brandon Pirri,C,"$90,000",Chicago Blackhawks 2012-2013 Salary Cap ,"$618,333 ","$441,219"
+168,"$613,333 ",21,"$348,293",0.85,"$155,000",Klas Dahlbeck,D,"$70,000",Chicago Blackhawks 2012-2013 Salary Cap ,"$613,333 ","$563,293"
+169,"$592,500 ",23,"$326,524",0.82,"$305,000",Ryan Stanton,D,"$70,000",Chicago Blackhawks 2012-2013 Salary Cap ,"$592,500 ","$396,524"
+170,"$575,000 ",25,"$336,585",0.80,-,Brandon Bollig,LW,-,Chicago Blackhawks 2012-2013 Salary Cap ,"$575,000 ","$336,585"
+171,"$573,333 ",21,"$330,732",0.80,-,Andrew Shaw,C,"$40,000",Chicago Blackhawks 2012-2013 Salary Cap ,"$573,333 ","$370,732"
+172,"$562,500 ",24,"$321,951",0.78,-,Ben Smith,RW,-,Chicago Blackhawks 2012-2013 Salary Cap ,"$562,500 ","$321,951"
+173,"$541,667 ",26,"$351,220",0.75,-,Bryan Bickell,LW,-,Chicago Blackhawks 2012-2013 Salary Cap ,"$541,667 ","$351,220"
+174,"$525,000 ",26,"$307,317",0.73,-,Carter Hutton,G,-,Chicago Blackhawks 2012-2013 Salary Cap ,"$525,000 ","$307,317"
+175,"$6,600,000 ",26,"$3,863,415",11.29,-,Paul Stastny,C,-,Colorado Avalanche 2012-2013 Salary Cap ,"$6,600,000 ","$3,863,415"
+176,"$5,000,000 ",21,"$1,000,000",8.55,-,Ryan O'Reilly,C,"$2,500,000",Colorado Avalanche 2012-2013 Salary Cap ,"$5,000,000 ","$3,500,000"
+177,"$4,000,000 ",28,"$2,341,463",6.84,-,David Jones,RW,-,Colorado Avalanche 2012-2013 Salary Cap ,"$4,000,000 ","$2,341,463"
+178,"$4,000,000 ",29,"$2,341,463",6.84,-,Pierre-Alexandre Parenteau,RW,-,Colorado Avalanche 2012-2013 Salary Cap ,"$4,000,000 ","$2,341,463"
+179,"$3,750,000 ",24,"$1,902,439",6.41,-,Erik Johnson,D,-,Colorado Avalanche 2012-2013 Salary Cap ,"$3,750,000 ","$1,902,439"
+180,"$3,500,000 ",21,"$1,902,439",5.98,-,Matt Duchene,C,-,Colorado Avalanche 2012-2013 Salary Cap ,"$3,500,000 ","$1,902,439"
+181,"$3,250,000 ",34,"$1,902,439",5.56,-,Jan Hejda,D,-,Colorado Avalanche 2012-2013 Salary Cap ,"$3,250,000 ","$1,902,439"
+182,"$2,833,333 ",24,"$1,756,098",4.84,-,Semyon Varlamov,G,-,Colorado Avalanche 2012-2013 Salary Cap ,"$2,833,333 ","$1,756,098"
+183,"$2,650,000 ",25,"$1,492,683",4.53,-,Steve Downie,RW,-,Colorado Avalanche 2012-2013 Salary Cap ,"$2,650,000 ","$1,492,683"
+184,"$2,250,000 ",32,"$1,317,073",3.85,-,Greg Zanon,D,-,Colorado Avalanche 2012-2013 Salary Cap ,"$2,250,000 ",-
+185,"$2,000,000 ",36,"$1,170,732",3.42,-,Milan Hejduk,RW,-,Colorado Avalanche 2012-2013 Salary Cap ,"$2,000,000 ",-
+186,"$2,000,000 ",29,"$1,053,659",3.42,-,Shane O'Brien,D,-,Colorado Avalanche 2012-2013 Salary Cap ,"$2,000,000 ",-
+187,"$1,750,000 ",24,"$965,854",2.99,-,Jamie McGinn,LW,-,Colorado Avalanche 2012-2013 Salary Cap ,"$1,750,000 ","$965,854"
+188,"$1,600,000 ",27,"$936,585",2.74,-,Matt Hunwick,D,-,Colorado Avalanche 2012-2013 Salary Cap ,"$1,600,000 ","$936,585"
+189,"$1,250,000 ",35,"$731,707",2.14,-,Jean-Sebastien Giguere,G,-,Colorado Avalanche 2012-2013 Salary Cap ,"$1,250,000 ",-
+190,"$1,150,000 ",28,"$673,171",1.97,-,Cody McLeod,LW,-,Colorado Avalanche 2012-2013 Salary Cap ,"$1,150,000 ","$673,171"
+191,"$1,100,000 ",27,"$643,902",1.88,-,John Mitchell,C,-,Colorado Avalanche 2012-2013 Salary Cap ,"$1,100,000 ","$643,902"
+192,"$925,000 ",19,"$541,463",1.58,"$2,650,000",Gabriel Landeskog,LW,"$92,500",Colorado Avalanche 2012-2013 Salary Cap ,"$925,000 ","$633,963"
+193,"$900,000 ",21,"$840,000",1.54,-,Stefan Elliott,D,"$90,000",Colorado Avalanche 2012-2013 Salary Cap ,"$900,000 ","$840,000"
+194,"$800,000 ",0,"$383,415",1.37,-,Tomas Vincour,RW,"$80,000",Colorado Avalanche 2012-2013 Salary Cap ,"$800,000 ",-
+195,"$715,000 ",21,"$403,902",1.22,-,Tyson Barrie,D,"$90,000",Colorado Avalanche 2012-2013 Salary Cap ,"$715,000 ","$493,902"
+196,"$683,333 ",20,"$345,366",1.17,"$310,000",Sami Aittokallio,G,"$65,000",Colorado Avalanche 2012-2013 Salary Cap ,"$683,333 ","$570,366"
+197,"$600,000 ",24,"$321,951",1.03,-,Mark Olver,C,-,Colorado Avalanche 2012-2013 Salary Cap ,"$600,000 ",-
+198,"$575,000 ",28,"$336,585",0.98,-,Sean Sullivan,D,-,Colorado Avalanche 2012-2013 Salary Cap ,"$575,000 ",-
+199,"$575,000 ",29,"$336,585",0.98,-,David Van Der Gulik,LW,-,Colorado Avalanche 2012-2013 Salary Cap ,"$575,000 ",-
+200,"$525,000 ",26,"$307,317",0.90,-,Patrick Bordeleau,RW,-,Colorado Avalanche 2012-2013 Salary Cap ,"$525,000 ","$307,317"
+201,"$5,250,000 ",23,"$2,469,512",11.50,-,Jamie Benn,LW,-,Dallas Stars 2012-2013 Salary Cap ,"$5,250,000 ","$2,469,512"
+202,"$4,600,000 ",27,"$2,458,537",10.08,-,Alex Goligoski,D,-,Dallas Stars 2012-2013 Salary Cap ,"$4,600,000 ","$2,458,537"
+203,"$4,500,000 ",33,"$2,000,000",9.86,-,Erik Cole,RW,"$2,000,000",Dallas Stars 2012-2013 Salary Cap ,"$4,500,000 ","$4,000,000"
+204,"$4,250,000 ",27,"$2,692,683",9.31,-,Loui Eriksson,RW,-,Dallas Stars 2012-2013 Salary Cap ,"$4,250,000 ","$2,692,683"
+205,"$3,300,000 ",28,"$3,250,000",7.23,-,Trevor Daley,D,"$250,000",Dallas Stars 2012-2013 Salary Cap ,"$3,300,000 ","$3,500,000"
+206,"$3,300,000 ",35,"$2,078,049",7.23,-,Stephane Robidas,D,-,Dallas Stars 2012-2013 Salary Cap ,"$3,300,000 ","$2,078,049"
+207,"$1,800,000 ",32,"$1,053,659",3.94,-,Vernon Fiddler,C,-,Dallas Stars 2012-2013 Salary Cap ,"$1,800,000 ","$1,053,659"
+208,"$1,500,000 ",29,"$1,300,000",3.29,-,Aaron Rome,D,-,Dallas Stars 2012-2013 Salary Cap ,"$1,500,000 ",-
+209,"$1,400,000 ",29,"$819,512",3.07,-,Eric Nystrom,LW,-,Dallas Stars 2012-2013 Salary Cap ,"$1,400,000 ","$819,512"
+210,"$1,340,000 ",20,"$700,000",2.94,-,Jack Campbell,G,"$90,000",Dallas Stars 2012-2013 Salary Cap ,"$1,340,000 ","$90,000"
+211,"$1,025,000 ",22,"$526,829",2.25,-,Philip Larsen,D,-,Dallas Stars 2012-2013 Salary Cap ,"$1,025,000 ",-
+212,"$763,333 ",20,"$690,000",1.67,-,Patrik Nemeth,D,"$90,000",Dallas Stars 2012-2013 Salary Cap ,"$763,333 ","$690,000"
+213,"$743,333 ",21,"$403,902",1.63,"$210,000",Brenden Dillon,D,"$90,000",Dallas Stars 2012-2013 Salary Cap ,"$743,333 ","$493,902"
+214,"$637,778 ",21,"$321,951",1.40,"$80,000",Cody Eakin,C,-,Dallas Stars 2012-2013 Salary Cap ,"$637,778 ","$321,951"
+215,"$625,000 ",25,"$365,854",1.37,-,Richard Bachman,G,-,Dallas Stars 2012-2013 Salary Cap ,"$625,000 ","$365,854"
+216,"$612,500 ",22,"$351,220",1.34,-,Antoine Roussel,LW,"$50,000",Dallas Stars 2012-2013 Salary Cap ,"$612,500 ","$401,220"
+217,"$600,000 ",23,"$351,220",1.31,-,Lane MacDermid,LW,-,Dallas Stars 2012-2013 Salary Cap ,"$600,000 ",-
+218,"$575,000 ",27,"$321,951",1.26,-,Ryan Garbutt,RW,-,Dallas Stars 2012-2013 Salary Cap ,"$575,000 ","$321,951"
+219,"$525,000 ",24,"$307,317",1.15,-,Carl Sneep,D,-,Dallas Stars 2012-2013 Salary Cap ,"$525,000 ",-
+220,"$6,700,000 ",34,"$3,921,951",10.71,-,Pavel Datsyuk,C,-,Detroit Red Wings 2012-2013 Salary Cap ,"$6,700,000 ","$3,921,951"
+221,"$6,083,333 ",31,"$4,536,585",9.72,-,Henrik Zetterberg,LW,-,Detroit Red Wings 2012-2013 Salary Cap ,"$6,083,333 ","$4,536,585"
+222,"$4,750,000 ",31,"$3,250,000",7.59,-,Niklas Kronwall,D,"$1,250,000",Detroit Red Wings 2012-2013 Salary Cap ,"$4,750,000 ","$4,500,000"
+223,"$3,954,545 ",32,"$3,073,171",6.32,-,Johan Franzen,LW,-,Detroit Red Wings 2012-2013 Salary Cap ,"$3,954,545 ","$3,073,171"
+224,"$3,775,000 ",27,"$2,078,049",6.03,-,Kyle Quincey,D,-,Detroit Red Wings 2012-2013 Salary Cap ,"$3,775,000 ","$2,078,049"
+225,"$3,250,000 ",28,"$1,902,439",5.19,-,Jonathan Ericsson,D,-,Detroit Red Wings 2012-2013 Salary Cap ,"$3,250,000 ","$1,902,439"
+226,"$3,000,000 ",28,"$2,048,780",4.80,-,Valtteri Filppula,C,-,Detroit Red Wings 2012-2013 Salary Cap ,"$3,000,000 ","$2,048,780"
+227,"$3,000,000 ",35,"$1,756,098",4.80,-,Mikael Samuelsson,RW,-,Detroit Red Wings 2012-2013 Salary Cap ,"$3,000,000 ",-
+228,"$2,875,000 ",28,"$1,609,756",4.60,-,Ian White,D,-,Detroit Red Wings 2012-2013 Salary Cap ,"$2,875,000 ",-
+229,"$2,800,000 ",33,"$1,756,098",4.48,-,Dan Cleary,RW,-,Detroit Red Wings 2012-2013 Salary Cap ,"$2,800,000 ","$1,756,098"
+230,"$2,500,000 ",29,"$1,258,537",4.00,-,Carlo Colaiacovo,D,-,Detroit Red Wings 2012-2013 Salary Cap ,"$2,500,000 ","$1,258,537"
+231,"$2,250,000 ",28,"$1,317,073",3.60,-,Jimmy Howard,G,-,Detroit Red Wings 2012-2013 Salary Cap ,"$2,250,000 ","$1,317,073"
+232,"$2,125,000 ",25,"$1,500,000",3.40,-,Darren Helm,C,"$250,000",Detroit Red Wings 2012-2013 Salary Cap ,"$2,125,000 ","$1,750,000"
+233,"$2,075,000 ",37,"$1,975,000",3.32,-,Todd Bertuzzi,RW,"$200,000",Detroit Red Wings 2012-2013 Salary Cap ,"$2,075,000 ",-
+234,"$1,900,000 ",29,"$1,450,000",3.04,-,Jordin Tootoo,RW,"$250,000",Detroit Red Wings 2012-2013 Salary Cap ,"$1,900,000 ","$1,700,000"
+235,"$1,800,000 ",25,"$819,512",2.88,-,Justin Abdelkader,LW,"$250,000",Detroit Red Wings 2012-2013 Salary Cap ,"$1,800,000 ","$1,069,512"
+236,"$1,350,000 ",26,"$541,463",2.16,-,Damien Brunner,RW,"$92,500",Detroit Red Wings 2012-2013 Salary Cap ,"$1,350,000 ",-
+237,"$1,200,000 ",28,"$702,439",1.92,-,Patrick Eaves,RW,-,Detroit Red Wings 2012-2013 Salary Cap ,"$1,200,000 ","$702,439"
+238,"$925,000 ",22,"$507,621",1.48,-,Danny DeKeyser,D,"$92,500",Detroit Red Wings 2012-2013 Salary Cap ,"$925,000 ","$600,121"
+239,"$883,333 ",25,"$614,634",1.41,-,Jakub Kindl,D,-,Detroit Red Wings 2012-2013 Salary Cap ,"$883,333 ","$614,634"
+240,"$875,000 ",23,"$787,500",1.40,-,Brendan Smith,D,"$87,500",Detroit Red Wings 2012-2013 Salary Cap ,"$875,000 ","$875,000"
+241,"$837,500 ",28,"$482,927",1.34,-,Drew Miller,LW,-,Detroit Red Wings 2012-2013 Salary Cap ,"$837,500 ","$482,927"
+242,"$785,000 ",20,"$625,000",1.25,"$185,000",Riley Sheahan,LW,"$90,000",Detroit Red Wings 2012-2013 Salary Cap ,"$785,000 ","$715,000"
+243,"$694,167 ",0,"$595,000",1.11,-,Adam Almqvist,D,"$70,000",Detroit Red Wings 2012-2013 Salary Cap ,"$694,167 ",-
+244,"$565,278 ",21,"$565,000",0.90,-,Mitchell Callahan,RW,"$40,000",Detroit Red Wings 2012-2013 Salary Cap ,"$565,278 ",-
+245,"$550,000 ",0,"$560,000",0.88,-,Jan Mursak,LW,-,Detroit Red Wings 2012-2013 Salary Cap ,"$550,000 ",-
+246,"$533,333 ",24,"$307,317",0.85,-,Cory Emmerton,C,-,Detroit Red Wings 2012-2013 Salary Cap ,"$533,333 ",-
+247,"$523,888 ",22,"$525,000",0.84,-,Brian Lashoff,D,-,Detroit Red Wings 2012-2013 Salary Cap ,"$523,888 ","$525,000"
+248,"$7,142,875 ",33,"$4,181,195",12.22,-,Brian Campbell,D,-,Florida Panthers 2012-2013 Salary Cap ,"$7,142,875 ","$4,181,195"
+249,"$4,500,000 ",28,"$2,634,146",7.70,-,Tomas Fleischmann,LW,-,Florida Panthers 2012-2013 Salary Cap ,"$4,500,000 ","$2,634,146"
+250,"$4,400,000 ",26,"$3,600,000",7.53,-,Kris Versteeg,LW,-,Florida Panthers 2012-2013 Salary Cap ,"$4,400,000 ","$3,600,000"
+251,"$4,125,000 ",36,"$4,250,000",7.06,-,Ed Jovanovski,D,-,Florida Panthers 2012-2013 Salary Cap ,"$4,125,000 ",-
+252,"$4,000,000 ",0,"$2,341,463",6.84,-,Filip Kuba,D,-,Florida Panthers 2012-2013 Salary Cap ,"$4,000,000 ",-
+253,"$3,500,000 ",28,"$3,000,000",5.99,-,Scottie Upshall,LW,"$500,000",Florida Panthers 2012-2013 Salary Cap ,"$3,500,000 ","$3,500,000"
+254,"$3,100,000 ",29,"$2,400,000",5.30,-,Stephen Weiss,RW,-,Florida Panthers 2012-2013 Salary Cap ,"$3,100,000 ","$2,400,000"
+255,"$3,000,000 ",30,"$1,756,098",5.13,-,Tomas Kopecky,LW,-,Florida Panthers 2012-2013 Salary Cap ,"$3,000,000 ","$1,756,098"
+256,"$2,500,000 ",21,"$1,170,732",4.28,-,Dmitry Kulikov,D,-,Florida Panthers 2012-2013 Salary Cap ,"$2,500,000 ","$1,170,732"
+257,"$1,725,000 ",24,"$1,009,756",2.95,-,Peter Mueller,C,-,Florida Panthers 2012-2013 Salary Cap ,"$1,725,000 ",-
+258,"$1,700,000 ",29,"$995,122",2.91,-,Marcel Goc,C,-,Florida Panthers 2012-2013 Salary Cap ,"$1,700,000 ","$995,122"
+259,"$1,600,000 ",26,"$936,585",2.74,-,Mike Santorelli,RW,-,Florida Panthers 2012-2013 Salary Cap ,"$1,600,000 ","$936,585"
+260,"$1,500,000 ",36,"$878,049",2.57,-,Jose Theodore,G,-,Florida Panthers 2012-2013 Salary Cap ,"$1,500,000 ",-
+261,"$1,300,000 ",0,"$585,366",2.22,-,Alexei Kovalev,RW,-,Florida Panthers 2012-2013 Salary Cap ,"$1,300,000 ",-
+262,"$1,200,000 ",35,"$643,902",2.05,-,Scott Clemmensen,G,-,Florida Panthers 2012-2013 Salary Cap ,"$1,200,000 ","$643,902"
+263,"$1,070,000 ",20,"$900,000",1.83,-,Quinton Howden,LW,"$90,000",Florida Panthers 2012-2013 Salary Cap ,"$1,070,000 ",-
+264,"$900,000 ",20,"$810,000",1.54,"$2,300,000",Erik Gudbranson,D,"$90,000",Florida Panthers 2012-2013 Salary Cap ,"$900,000 ","$900,000"
+265,"$894,167 ",19,"$541,463",1.53,"$2,300,000",Jonathan Huberdeau,LW,"$92,500",Florida Panthers 2012-2013 Salary Cap ,"$894,167 ","$633,963"
+266,"$851,625 ",24,"$526,829",1.46,-,Shawn Matthias,C,-,Florida Panthers 2012-2013 Salary Cap ,"$851,625 ","$526,829"
+267,"$825,000 ",26,"$482,927",1.41,-,Jack Skille,RW,-,Florida Panthers 2012-2013 Salary Cap ,"$825,000 ","$482,927"
+268,"$761,667 ",23,"$323,780",1.30,-,Scott Timmins,C,"$40,000",Florida Panthers 2012-2013 Salary Cap ,"$761,667 ",-
+269,"$750,000 ",32,"$439,024",1.28,-,Krystopher Barch,RW,-,Florida Panthers 2012-2013 Salary Cap ,"$750,000 ",-
+270,"$600,000 ",27,"$351,220",1.03,-,Tyson Strachan,D,-,Florida Panthers 2012-2013 Salary Cap ,"$600,000 ","$351,220"
+271,"$550,000 ",0,"$321,951",0.94,-,Greg Rallo,C,-,Florida Panthers 2012-2013 Salary Cap ,"$550,000 ",-
+272,"$550,000 ",24,"$321,951",0.94,-,Eric Selleck,LW,-,Florida Panthers 2012-2013 Salary Cap ,"$550,000 ",-
+273,"$321,951 ",23,"$321,951",0.55,-,T.J. Brennan,D,-,Florida Panthers 2012-2013 Salary Cap ,"$321,951 ","$321,951"
+274,"$7,000,000 ",22,"$3,804,878",10.70,-,Drew Doughty,D,-,Los Angeles Kings 2012-2013 Salary Cap ,"$7,000,000 ","$3,804,878"
+275,"$6,800,000 ",25,"$6,500,000",10.40,-,Anze Kopitar,C,-,Los Angeles Kings 2012-2013 Salary Cap ,"$6,800,000 ","$6,500,000"
+276,"$5,750,000 ",27,"$4,917,073",8.79,-,Mike Richards,C,-,Los Angeles Kings 2012-2013 Salary Cap ,"$5,750,000 ","$4,917,073"
+277,"$5,272,727 ",27,"$3,658,537",8.06,-,Jeff Carter,C,-,Los Angeles Kings 2012-2013 Salary Cap ,"$5,272,727 ","$3,658,537"
+278,"$4,020,000 ",32,"$2,341,463",6.15,-,Robyn Regehr,D,-,Los Angeles Kings 2012-2013 Salary Cap ,"$4,020,000 ","$2,341,463"
+279,"$3,650,000 ",30,"$2,282,927",5.58,-,Justin Williams,RW,-,Los Angeles Kings 2012-2013 Salary Cap ,"$3,650,000 ","$2,282,927"
+280,"$3,500,000 ",35,"$3,500,000",5.35,-,Willie Mitchell,D,-,Los Angeles Kings 2012-2013 Salary Cap ,"$3,500,000 ","$3,500,000"
+281,"$3,400,000 ",33,"$1,990,244",5.20,-,Rob Scuderi,D,-,Los Angeles Kings 2012-2013 Salary Cap ,"$3,400,000 ","$1,990,244"
+282,"$3,250,000 ",30,"$1,902,439",4.97,-,Dustin Penner,RW,-,Los Angeles Kings 2012-2013 Salary Cap ,"$3,250,000 ",-
+283,"$3,250,000 ",30,"$1,902,439",4.97,-,Jarret Stoll,C,-,Los Angeles Kings 2012-2013 Salary Cap ,"$3,250,000 ","$1,902,439"
+284,"$3,175,000 ",27,"$2,048,780",4.85,-,Dustin Brown,RW,-,Los Angeles Kings 2012-2013 Salary Cap ,"$3,175,000 ","$2,048,780"
+285,"$2,950,000 ",29,"$1,756,098",4.51,-,Matt Greene,D,-,Los Angeles Kings 2012-2013 Salary Cap ,"$2,950,000 ","$1,756,098"
+286,"$1,800,000 ",26,"$995,122",2.75,-,Jonathan Quick,G,-,Los Angeles Kings 2012-2013 Salary Cap ,"$1,800,000 ","$995,122"
+287,"$1,250,000 ",24,"$892,683",1.91,-,Jonathan Bernier,G,-,Los Angeles Kings 2012-2013 Salary Cap ,"$1,250,000 ","$892,683"
+288,"$1,175,000 ",27,"$790,244",1.80,-,Brad Richardson,RW,-,Los Angeles Kings 2012-2013 Salary Cap ,"$1,175,000 ","$790,244"
+289,"$900,000 ",27,"$585,366",1.38,-,Anthony Stewart,C,-,Los Angeles Kings 2012-2013 Salary Cap ,"$900,000 ",-
+290,"$825,000 ",27,"$482,927",1.26,-,Colin Fraser,C,-,Los Angeles Kings 2012-2013 Salary Cap ,"$825,000 ",-
+291,"$816,666 ",22,"$460,976",1.25,-,Slava Voynov,D,-,Los Angeles Kings 2012-2013 Salary Cap ,"$816,666 ","$460,976"
+292,"$750,000 ",23,"$439,024",1.15,-,Dwight King,LW,-,Los Angeles Kings 2012-2013 Salary Cap ,"$750,000 ","$439,024"
+293,"$737,500 ",25,"$431,707",1.13,-,Alec Martinez,D,-,Los Angeles Kings 2012-2013 Salary Cap ,"$737,500 ","$431,707"
+294,"$725,000 ",25,"$424,390",1.11,-,Trevor Lewis,C,-,Los Angeles Kings 2012-2013 Salary Cap ,"$725,000 ","$424,390"
+295,"$716,666 ",20,"$384,146",1.10,"$200,000",Tyler Toffoli,RW,"$90,000",Los Angeles Kings 2012-2013 Salary Cap ,"$716,666 ","$474,146"
+296,"$710,000 ",21,"$398,049",1.09,"$130,000",Kyle Clifford,C,-,Los Angeles Kings 2012-2013 Salary Cap ,"$710,000 ","$398,049"
+297,"$700,000 ",23,"$409,756",1.07,-,Keaton Ellerby,D,-,Los Angeles Kings 2012-2013 Salary Cap ,"$700,000 ",-
+298,"$600,000 ",24,"$351,220",0.92,-,Andrew Bodnarchuk,D,-,Los Angeles Kings 2012-2013 Salary Cap ,"$600,000 ",-
+299,"$577,500 ",23,"$338,049",0.88,-,Jacob Muzzin,D,-,Los Angeles Kings 2012-2013 Salary Cap ,"$577,500 ","$338,049"
+300,"$575,000 ",22,"$329,268",0.88,-,Brandon Kozun,RW,"$50,000",Los Angeles Kings 2012-2013 Salary Cap ,"$575,000 ",-
+301,"$531,667 ",23,"$316,098",0.81,-,Jordan Nolan,C,"$15,000",Los Angeles Kings 2012-2013 Salary Cap ,"$531,667 ","$331,098"
+302,"$7,538,462 ",27,"$2,000,000",9.69,-,Ryan Suter,D,"$10,000,000",Minnesota Wild 2012-2013 Salary Cap ,"$7,538,462 ","$12,000,000"
+303,"$7,538,462 ",28,"$1,170,732",9.69,-,Zach Parise,LW,"$10,000,000",Minnesota Wild 2012-2013 Salary Cap ,"$7,538,462 ","$11,170,732"
+304,"$7,500,000 ",31,"$3,512,195",9.64,-,Dany Heatley,LW,-,Minnesota Wild 2012-2013 Salary Cap ,"$7,500,000 ","$3,512,195"
+305,"$6,750,000 ",29,"$3,160,976",8.68,-,Mikko Koivu,C,-,Minnesota Wild 2012-2013 Salary Cap ,"$6,750,000 ","$3,160,976"
+306,"$6,000,000 ",34,"$3,512,195",7.71,-,Niklas Backstrom,G,-,Minnesota Wild 2012-2013 Salary Cap ,"$6,000,000 ","$3,512,195"
+307,"$5,300,000 ",29,"$3,219,512",6.81,-,Jason Pominville,RW,-,Minnesota Wild 2012-2013 Salary Cap ,"$5,300,000 ","$3,219,512"
+308,"$4,000,000 ",29,"$2,048,780",5.14,-,Tom Gilbert,D,-,Minnesota Wild 2012-2013 Salary Cap ,"$4,000,000 ","$2,048,780"
+309,"$3,500,000 ",35,"$2,048,780",4.50,-,Matt Cullen,C,-,Minnesota Wild 2012-2013 Salary Cap ,"$3,500,000 ","$2,048,780"
+310,"$3,000,000 ",25,"$1,756,098",3.86,-,Devin Setoguchi,RW,-,Minnesota Wild 2012-2013 Salary Cap ,"$3,000,000 ","$1,756,098"
+311,"$2,833,333 ",29,"$1,463,415",3.64,-,Kyle Brodziak,RW,-,Minnesota Wild 2012-2013 Salary Cap ,"$2,833,333 ","$1,463,415"
+312,"$1,900,000 ",27,"$1,112,195",2.44,-,Torrey Mitchell,C,-,Minnesota Wild 2012-2013 Salary Cap ,"$1,900,000 ","$1,112,195"
+313,"$1,900,000 ",28,"$878,049",2.44,-,Josh Harding,G,-,Minnesota Wild 2012-2013 Salary Cap ,"$1,900,000 ",-
+314,"$1,500,000 ",32,"$936,585",1.93,-,Mike Rupp,C,-,Minnesota Wild 2012-2013 Salary Cap ,"$1,500,000 ",-
+315,"$1,400,000 ",24,"$995,122",1.80,-,Cal Clutterbuck,RW,-,Minnesota Wild 2012-2013 Salary Cap ,"$1,400,000 ","$995,122"
+316,"$1,050,000 ",27,"$585,366",1.35,-,Clayton Stoner,D,-,Minnesota Wild 2012-2013 Salary Cap ,"$1,050,000 ","$585,366"
+317,"$925,000 ",31,"$541,463",1.19,-,Zenon Konopka,C,-,Minnesota Wild 2012-2013 Salary Cap ,"$925,000 ",-
+318,"$900,000 ",20,"$526,829",1.16,"$75,000",Charlie Coyle,C,"$90,000",Minnesota Wild 2012-2013 Salary Cap ,"$900,000 ","$616,829"
+319,"$900,000 ",35,"$493,902",1.16,-,Brett Clark,D,-,Minnesota Wild 2012-2013 Salary Cap ,"$900,000 ",-
+320,"$900,000 ",20,"$360,000",1.16,-,Johan Gustafsson,G,"$90,000",Minnesota Wild 2012-2013 Salary Cap ,"$900,000 ",-
+321,"$894,167 ",19,"$832,500",1.15,"$500,000",Jonas Brodin,D,"$92,500",Minnesota Wild 2012-2013 Salary Cap ,"$894,167 ","$925,000"
+322,"$825,000 ",23,"$482,927",1.06,-,Justin Falk,D,-,Minnesota Wild 2012-2013 Salary Cap ,"$825,000 ",-
+323,"$825,000 ",26,"$468,293",1.06,-,Nate Prosser,D,-,Minnesota Wild 2012-2013 Salary Cap ,"$825,000 ","$468,293"
+324,"$771,667 ",20,"$625,000",0.99,"$185,000",Jason Zucker,LW,"$90,000",Minnesota Wild 2012-2013 Salary Cap ,"$771,667 ","$715,000"
+325,"$700,000 ",27,"$409,756",0.90,-,Jake Dowell,C,-,Minnesota Wild 2012-2013 Salary Cap ,"$700,000 ",-
+326,"$643,333 ",22,"$357,073",0.83,"$177,500",Marco Scandella,D,-,Minnesota Wild 2012-2013 Salary Cap ,"$643,333 ","$357,073"
+327,"$600,000 ",30,"$351,220",0.77,-,Stephane Veilleux,LW,-,Minnesota Wild 2012-2013 Salary Cap ,"$600,000 ","$351,220"
+328,"$577,500 ",24,"$338,049",0.74,-,Carson McMillan,RW,-,Minnesota Wild 2012-2013 Salary Cap ,"$577,500 ",-
+329,"$550,000 ",22,"$304,573",0.71,-,Joel Broda,C,"$30,000",Minnesota Wild 2012-2013 Salary Cap ,"$550,000 ",-
+330,"$526,667 ",22,"$525,000",0.68,-,Jared Spurgeon,D,"$10,000",Minnesota Wild 2012-2013 Salary Cap ,"$526,667 ","$535,000"
+331,"$6,500,000 ",25,"$3,500,000",9.76,-,Carey Price,G,"$2,000,000",Montreal Canadiens 2012-2013 Salary Cap ,"$6,500,000 ","$5,500,000"
+332,"$5,750,000 ",33,"$3,365,854",8.63,-,Andrei Markov,D,-,Montreal Canadiens 2012-2013 Salary Cap ,"$5,750,000 ","$3,365,854"
+333,"$5,000,000 ",33,"$2,926,829",7.50,-,Brian Gionta,RW,-,Montreal Canadiens 2012-2013 Salary Cap ,"$5,000,000 ","$2,926,829"
+334,"$5,000,000 ",29,"$2,926,829",7.50,-,Tomas Plekanec,C,-,Montreal Canadiens 2012-2013 Salary Cap ,"$5,000,000 ","$2,926,829"
+335,"$4,250,000 ",0,"$2,487,805",6.38,-,Tomas Kaberle,D,-,Montreal Canadiens 2012-2013 Salary Cap ,"$4,250,000 ",-
+336,"$3,900,000 ",28,"$3,150,000",5.85,-,Josh Gorges,D,"$750,000",Montreal Canadiens 2012-2013 Salary Cap ,"$3,900,000 ","$3,900,000"
+337,"$3,500,000 ",32,"$2,048,780",5.25,-,Michael Ryder,RW,-,Montreal Canadiens 2012-2013 Salary Cap ,"$3,500,000 ","$2,048,780"
+338,"$3,333,333 ",30,"$1,756,098",5.00,-,Rene Bourque,LW,-,Montreal Canadiens 2012-2013 Salary Cap ,"$3,333,333 ","$1,756,098"
+339,"$2,875,000 ",23,"$1,073,170",4.31,-,P.K. Subban,D,-,Montreal Canadiens 2012-2013 Salary Cap ,"$2,875,000 ",-
+340,"$2,500,000 ",28,"$2,500,000",3.75,-,Brandon Prust,LW,"$500,000",Montreal Canadiens 2012-2013 Salary Cap ,"$2,500,000 ","$3,000,000"
+341,"$2,000,000 ",26,"$1,170,732",3.00,-,Alexei Emelin,D,-,Montreal Canadiens 2012-2013 Salary Cap ,"$2,000,000 ","$1,170,732"
+342,"$1,850,000 ",30,"$982,927",2.78,-,Travis Moen,LW,"$100,000",Montreal Canadiens 2012-2013 Salary Cap ,"$1,850,000 ","$1,082,927"
+343,"$1,625,000 ",23,"$1,024,390",2.44,-,Max Pacioretty,LW,-,Montreal Canadiens 2012-2013 Salary Cap ,"$1,625,000 ","$1,024,390"
+344,"$1,500,000 ",36,"$878,049",2.25,-,Francis Bouillon,D,-,Montreal Canadiens 2012-2013 Salary Cap ,"$1,500,000 ",-
+345,"$1,325,000 ",23,"$673,171",1.99,-,Lars Eller,C,-,Montreal Canadiens 2012-2013 Salary Cap ,"$1,325,000 ","$673,171"
+346,"$1,225,000 ",26,"$717,073",1.84,-,Raphael Diaz,D,-,Montreal Canadiens 2012-2013 Salary Cap ,"$1,225,000 ","$717,073"
+347,"$1,150,000 ",30,"$702,439",1.73,-,Peter Budaj,G,-,Montreal Canadiens 2012-2013 Salary Cap ,"$1,150,000 ",-
+348,"$1,000,000 ",29,"$585,366",1.50,-,Colby Armstrong,RW,-,Montreal Canadiens 2012-2013 Salary Cap ,"$1,000,000 ",-
+349,"$925,000 ",18,"$541,463",1.39,"$2,300,000",Alex Galchenyuk,C,"$92,500",Montreal Canadiens 2012-2013 Salary Cap ,"$925,000 ","$633,963"
+350,"$850,000 ",26,"$556,098",1.28,-,David Desharnais,C,-,Montreal Canadiens 2012-2013 Salary Cap ,"$850,000 ","$556,098"
+351,"$850,000 ",24,"$526,829",1.28,-,Yannick Weber,D,-,Montreal Canadiens 2012-2013 Salary Cap ,"$850,000 ","$526,829"
+352,"$700,000 ",36,"$409,756",1.05,-,Jeff Halpern,C,-,Montreal Canadiens 2012-2013 Salary Cap ,"$700,000 ",-
+353,"$687,500 ",24,"$402,439",1.03,-,Ryan White,C,-,Montreal Canadiens 2012-2013 Salary Cap ,"$687,500 ","$402,439"
+354,"$685,000 ",20,"$403,902",1.03,"$210,000",Brendan Gallagher,RW,"$90,000",Montreal Canadiens 2012-2013 Salary Cap ,"$685,000 ","$703,902"
+355,"$616,667 ",27,"$380,488",0.93,-,Davis Drewiske,D,-,Montreal Canadiens 2012-2013 Salary Cap ,"$616,667 ",-
+356,"$575,000 ",25,"$336,585",0.86,-,Mike Blunden,RW,-,Montreal Canadiens 2012-2013 Salary Cap ,"$575,000 ",-
+357,"$6,666,667 ",29,"$6,439,024",10.29,-,Ilya Kovalchuk,LW,-,New Jersey Devils 2012-2013 Salary Cap ,"$6,666,667 ",-
+358,"$6,000,000 ",36,"$2,926,829",9.27,-,Patrik Elias,C,-,New Jersey Devils 2012-2013 Salary Cap ,"$6,000,000 ","$2,926,829"
+359,"$4,500,000 ",40,"$2,634,146",6.95,-,Martin Brodeur,G,-,New Jersey Devils 2012-2013 Salary Cap ,"$4,500,000 ",-
+360,"$4,250,000 ",30,"$2,487,805",6.56,-,Anton Volchenkov,D,-,New Jersey Devils 2012-2013 Salary Cap ,"$4,250,000 ",-
+361,"$4,000,000 ",35,"$2,341,463",6.18,-,Marek Zidlicky,D,-,New Jersey Devils 2012-2013 Salary Cap ,"$4,000,000 ","$2,341,463"
+362,"$3,887,500 ",27,"$2,809,756",6.00,-,Travis Zajac,C,-,New Jersey Devils 2012-2013 Salary Cap ,"$3,887,500 ","$2,809,756"
+363,"$3,400,000 ",34,"$1,990,244",5.25,-,Dainius Zubrus,RW,-,New Jersey Devils 2012-2013 Salary Cap ,"$3,400,000 ","$1,990,244"
+364,"$3,375,000 ",33,"$2,048,780",5.21,-,Henrik Tallinder,D,-,New Jersey Devils 2012-2013 Salary Cap ,"$3,375,000 ",-
+365,"$3,166,666 ",36,"$2,500,000",4.89,-,Bryce Salvador,D,"$500,000",New Jersey Devils 2012-2013 Salary Cap ,"$3,166,666 ","$3,000,000"
+366,"$3,000,000 ",29,"$1,609,756",4.63,-,Andy Greene,D,-,New Jersey Devils 2012-2013 Salary Cap ,"$3,000,000 ","$1,609,756"
+367,"$2,666,667 ",28,"$1,756,098",4.12,-,David Clarkson,RW,-,New Jersey Devils 2012-2013 Salary Cap ,"$2,666,667 ","$1,756,098"
+368,"$2,600,000 ",38,"$1,082,927",4.01,-,Steve Sullivan,LW,-,New Jersey Devils 2012-2013 Salary Cap ,"$2,600,000 ",-
+369,"$1,650,000 ",0,"$1,053,659",2.55,-,Matt D'Agostini,RW,-,New Jersey Devils 2012-2013 Salary Cap ,"$1,650,000 ",-
+370,"$1,400,000 ",0,"$819,512",2.16,-,Johan Hedberg,G,-,New Jersey Devils 2012-2013 Salary Cap ,"$1,400,000 ",-
+371,"$1,300,000 ",25,"$702,439",2.01,-,Mark Fayne,D,-,New Jersey Devils 2012-2013 Salary Cap ,"$1,300,000 ","$702,439"
+372,"$925,000 ",19,"$541,463",1.43,-,Adam Larsson,D,"$92,500",New Jersey Devils 2012-2013 Salary Cap ,"$925,000 ","$633,963"
+373,"$900,000 ",21,"$526,829",1.39,-,Jacob Josefson,C,"$90,000",New Jersey Devils 2012-2013 Salary Cap ,"$900,000 ","$616,829"
+374,"$875,000 ",0,"$512,195",1.35,-,Mattias Tedenby,LW,"$87,500",New Jersey Devils 2012-2013 Salary Cap ,"$875,000 ",-
+375,"$816,666 ",22,"$575,000",1.26,-,Andrei Loktionov,C,-,New Jersey Devils 2012-2013 Salary Cap ,"$816,666 ",-
+376,"$775,000 ",27,"$453,659",1.20,-,Steve Bernier,RW,-,New Jersey Devils 2012-2013 Salary Cap ,"$775,000 ","$453,659"
+377,"$775,000 ",29,"$439,024",1.20,-,Ryan Carter,LW,-,New Jersey Devils 2012-2013 Salary Cap ,"$775,000 ","$439,024"
+378,"$700,000 ",24,"$348,293",1.08,-,Harri Pesonen,LW,"$70,000",New Jersey Devils 2012-2013 Salary Cap ,"$700,000 ",-
+379,"$700,000 ",24,"$326,524",1.08,-,Mike Sislo,RW,"$70,000",New Jersey Devils 2012-2013 Salary Cap ,"$700,000 ",-
+380,"$600,000 ",33,"$329,268",0.93,-,Tom Kostopoulos,RW,-,New Jersey Devils 2012-2013 Salary Cap ,"$600,000 ",-
+381,"$575,000 ",22,"$525,000",0.89,"$262,500",Adam Henrique,C,-,New Jersey Devils 2012-2013 Salary Cap ,"$575,000 ","$525,000"
+382,"$562,500 ",28,"$307,317",0.87,-,Stephen Gionta,C,-,New Jersey Devils 2012-2013 Salary Cap ,"$562,500 ","$307,317"
+383,"$536,667 ",22,"$545,000",0.83,-,Harry Young,D,"$20,000",New Jersey Devils 2012-2013 Salary Cap ,"$536,667 ",-
+384,"$525,000 ",29,"$307,317",0.81,-,Peter Harrold,D,-,New Jersey Devils 2012-2013 Salary Cap ,"$525,000 ","$307,317"
+385,"$5,600,000 ",36,"$1,756,098",9.39,-,Lubomir Visnovsky,D,-,New York Islanders 2012-2013 Salary Cap ,"$5,600,000 ","$1,756,098"
+386,"$5,500,000 ",22,"$2,341,463",9.22,-,John Tavares,C,-,New York Islanders 2012-2013 Salary Cap ,"$5,500,000 ","$2,341,463"
+387,"$5,000,000 ",38,"$1,756,098",8.38,-,Tim Thomas,G,-,New York Islanders 2012-2013 Salary Cap ,"$5,000,000 ",-
+388,"$4,500,000 ",0,"$2,634,146",7.55,-,Rick DiPietro,G,-,New York Islanders 2012-2013 Salary Cap ,"$4,500,000 ",-
+389,"$4,100,000 ",34,"$2,400,000",6.87,-,Mark Streit,D,-,New York Islanders 2012-2013 Salary Cap ,"$4,100,000 ","$2,400,000"
+390,"$3,133,333 ",28,"$1,756,098",5.25,-,Matt Moulson,LW,-,New York Islanders 2012-2013 Salary Cap ,"$3,133,333 ","$1,756,098"
+391,"$3,000,000 ",24,"$1,170,732",5.03,-,Michael Grabner,RW,-,New York Islanders 2012-2013 Salary Cap ,"$3,000,000 ","$1,170,732"
+392,"$2,800,000 ",24,"$1,170,732",4.69,-,Kyle Okposo,RW,-,New York Islanders 2012-2013 Salary Cap ,"$2,800,000 ","$1,170,732"
+393,"$2,750,000 ",37,"$1,609,756",4.61,-,Evgeni Nabokov,G,-,New York Islanders 2012-2013 Salary Cap ,"$2,750,000 ",-
+394,"$2,750,000 ",28,"$1,170,732",4.61,-,Frans Nielsen,C,-,New York Islanders 2012-2013 Salary Cap ,"$2,750,000 ","$1,170,732"
+395,"$1,500,000 ",31,"$878,049",2.52,-,Matt Carkner,D,-,New York Islanders 2012-2013 Salary Cap ,"$1,500,000 ","$878,049"
+396,"$1,350,000 ",0,"$819,512",2.26,-,Marty Reasoner,C,-,New York Islanders 2012-2013 Salary Cap ,"$1,350,000 ",-
+397,"$1,050,000 ",22,"$1,300,000",1.76,-,Josh Bailey,LW,-,New York Islanders 2012-2013 Salary Cap ,"$1,050,000 ","$1,300,000"
+398,"$1,000,000 ",30,"$585,366",1.68,-,Brad Boyes,RW,-,New York Islanders 2012-2013 Salary Cap ,"$1,000,000 ","$585,366"
+399,"$1,000,000 ",23,"$351,220",1.68,-,Matt Martin,LW,-,New York Islanders 2012-2013 Salary Cap ,"$1,000,000 ","$351,220"
+400,"$900,000 ",22,"$810,000",1.51,"$850,000",Anders Lee,C,"$90,000",New York Islanders 2012-2013 Salary Cap ,"$900,000 ","$900,000"
+401,"$900,000 ",20,"$526,829",1.51,"$1,925,000",Brock Nelson,C,"$90,000",New York Islanders 2012-2013 Salary Cap ,"$900,000 ","$616,829"
+402,"$898,889 ",0,"$890,000",1.51,-,Kirill Kabanov,LW,-,New York Islanders 2012-2013 Salary Cap ,"$898,889 ",-
+403,"$891,667 ",23,"$402,439",1.50,-,David Ullstrom,LW,"$87,500",New York Islanders 2012-2013 Salary Cap ,"$891,667 ",-
+404,"$875,000 ",22,"$512,195",1.47,-,Travis Hamonic,D,"$87,500",New York Islanders 2012-2013 Salary Cap ,"$875,000 ","$599,695"
+405,"$875,000 ",22,"$432,164",1.47,-,Aaron Ness,D,"$87,500",New York Islanders 2012-2013 Salary Cap ,"$875,000 ",-
+406,"$793,333 ",21,"$462,439",1.33,"$110,000",Casey Cizikas,C,"$90,000",New York Islanders 2012-2013 Salary Cap ,"$793,333 ","$552,439"
+407,"$725,000 ",35,"$397,865",1.22,-,Mark Eaton,D,-,New York Islanders 2012-2013 Salary Cap ,"$725,000 ",-
+408,"$700,000 ",28,"$409,756",1.17,-,Colin McDonald,RW,-,New York Islanders 2012-2013 Salary Cap ,"$700,000 ","$409,756"
+409,"$650,000 ",0,"$380,488",1.09,-,Keith Aucoin,C,-,New York Islanders 2012-2013 Salary Cap ,"$650,000 ",-
+410,"$610,000 ",23,"$357,073",1.02,-,Brett Gallant,LW,"$10,000",New York Islanders 2012-2013 Salary Cap ,"$610,000 ",-
+411,"$605,000 ",24,"$354,146",1.01,-,Brian Strait,D,-,New York Islanders 2012-2013 Salary Cap ,"$605,000 ","$354,146"
+412,"$600,000 ",24,"$600,000",1.01,-,Jesse Joensuu,LW,-,New York Islanders 2012-2013 Salary Cap ,"$600,000 ",-
+413,"$550,000 ",26,"$336,585",0.92,-,Andrew MacDonald,D,-,New York Islanders 2012-2013 Salary Cap ,"$550,000 ","$336,585"
+414,"$540,000 ",36,"$316,098",0.91,-,Eric Boulton,RW,-,New York Islanders 2012-2013 Salary Cap ,"$540,000 ","$316,098"
+415,"$537,500 ",25,"$307,317",0.90,-,Joe Finley,D,-,New York Islanders 2012-2013 Salary Cap ,"$537,500 ",-
+416,- ,18,-,0.00,-,Griffin Reinhart,D,"$92,500",New York Islanders 2012-2013 Salary Cap ,- ,"$92,500"
+417,- ,19,-,0.00,-,Ryan Strome,C,"$92,500",New York Islanders 2012-2013 Salary Cap ,- ,"$162,500"
+418,"$7,800,000 ",28,"$4,448,780",10.73,-,Rick Nash,LW,-,New York Rangers 2012-2013 Salary Cap ,"$7,800,000 ","$4,448,780"
+419,"$6,875,000 ",30,"$4,024,390",9.45,-,Henrik Lundqvist,G,-,New York Rangers 2012-2013 Salary Cap ,"$6,875,000 ","$4,024,390"
+420,"$6,666,667 ",32,"$4,000,000",9.17,-,Brad Richards,C,"$8,000,000",New York Rangers 2012-2013 Salary Cap ,"$6,666,667 ","$12,000,000"
+421,"$4,275,000 ",27,"$3,000,000",5.88,-,Ryan Callahan,RW,"$1,000,000",New York Rangers 2012-2013 Salary Cap ,"$4,275,000 ","$4,000,000"
+422,"$3,975,000 ",25,"$2,209,756",5.47,-,Marc Staal,D,-,New York Rangers 2012-2013 Salary Cap ,"$3,975,000 ","$2,209,756"
+423,"$3,625,000 ",30,"$2,341,463",4.98,-,Ryane Clowe,LW,-,New York Rangers 2012-2013 Salary Cap ,"$3,625,000 ","$2,341,463"
+424,"$3,500,000 ",38,"$2,048,780",4.81,-,Roman Hamrlik,D,-,New York Rangers 2012-2013 Salary Cap ,"$3,500,000 ",-
+425,"$3,325,000 ",28,"$1,990,244",4.57,-,Dan Girardi,D,-,New York Rangers 2012-2013 Salary Cap ,"$3,325,000 ","$1,990,244"
+426,"$3,200,000 ",25,"$1,931,707",4.40,-,Derick Brassard,C,-,New York Rangers 2012-2013 Salary Cap ,"$3,200,000 ","$1,931,707"
+427,"$2,550,000 ",22,"$1,287,805",3.51,-,Michael Del Zotto,D,-,New York Rangers 2012-2013 Salary Cap ,"$2,550,000 ","$1,287,805"
+428,"$1,700,000 ",26,"$1,400,000",2.34,-,Anton Stralman,D,"$200,000",New York Rangers 2012-2013 Salary Cap ,"$1,700,000 ","$1,600,000"
+429,"$1,700,000 ",27,"$995,122",2.34,-,Brian Boyle,C,-,New York Rangers 2012-2013 Salary Cap ,"$1,700,000 ","$995,122"
+430,"$1,633,333 ",25,"$878,049",2.25,-,Derek Dorsett,RW,"$100,000",New York Rangers 2012-2013 Salary Cap ,"$1,633,333 ","$978,049"
+431,"$1,550,000 ",31,"$907,317",2.13,-,Taylor Pyatt,LW,-,New York Rangers 2012-2013 Salary Cap ,"$1,550,000 ",-
+432,"$1,300,000 ",35,"$760,976",1.79,-,Martin Biron,G,-,New York Rangers 2012-2013 Salary Cap ,"$1,300,000 ",-
+433,"$1,066,667 ",27,"$643,902",1.47,-,Darroll Powe,C,-,New York Rangers 2012-2013 Salary Cap ,"$1,066,667 ",-
+434,"$1,000,000 ",34,"$585,366",1.38,-,Arron Asham,RW,-,New York Rangers 2012-2013 Salary Cap ,"$1,000,000 ",-
+435,"$875,000 ",23,"$512,195",1.20,"$425,000",Ryan McDonagh,D,"$87,500",New York Rangers 2012-2013 Salary Cap ,"$875,000 ","$512,195"
+436,"$820,333 ",22,"$512,195",1.13,-,Derek Stepan,C,"$87,500",New York Rangers 2012-2013 Salary Cap ,"$820,333 ","$599,695"
+437,"$810,000 ",21,"$652,153",1.11,"$125,000",John Moore,D,-,New York Rangers 2012-2013 Salary Cap ,"$810,000 ","$474,146"
+438,"$800,000 ",21,"$810,000",1.10,"$637,500",Chris Kreider,LW,"$90,000",New York Rangers 2012-2013 Salary Cap ,"$800,000 ","$900,000"
+439,"$750,000 ",28,"$439,024",1.03,-,Steve Eminger,D,-,New York Rangers 2012-2013 Salary Cap ,"$750,000 ",-
+440,"$700,000 ",25,"$409,756",0.96,-,Benn Ferriero,LW,-,New York Rangers 2012-2013 Salary Cap ,"$700,000 ",-
+441,"$700,000 ",25,"$384,146",0.96,-,Mats Zuccarello-Aasen,RW,-,New York Rangers 2012-2013 Salary Cap ,"$700,000 ","$384,146"
+442,"$662,500 ",24,"$600,000",0.91,"$187,500",Carl Hagelin,LW,"$87,500",New York Rangers 2012-2013 Salary Cap ,"$662,500 ","$687,500"
+443,"$650,000 ",28,"$380,488",0.89,-,Matt Gilroy,D,-,New York Rangers 2012-2013 Salary Cap ,"$650,000 ",-
+444,"$600,000 ",0,"$351,220",0.83,-,Kris Newbury,C,-,New York Rangers 2012-2013 Salary Cap ,"$600,000 ",-
+445,"$550,000 ",24,"$321,951",0.76,-,Brandon Mashinter,LW,-,New York Rangers 2012-2013 Salary Cap ,"$550,000 ",-
+446,"$550,000 ",29,"$321,951",0.76,-,Brandon Segal,RW,-,New York Rangers 2012-2013 Salary Cap ,"$550,000 ",-
+447,"$7,000,000 ",29,"$4,682,927",13.26,-,Jason Spezza,C,-,Ottawa Senators 2012-2013 Salary Cap ,"$7,000,000 ","$4,682,927"
+448,"$6,500,000 ",22,"$2,804,878",12.31,-,Erik Karlsson,D,"$1,000,000",Ottawa Senators 2012-2013 Salary Cap ,"$6,500,000 ","$3,804,878"
+449,"$5,500,000 ",38,"$3,219,512",10.42,-,Sergei Gonchar,D,-,Ottawa Senators 2012-2013 Salary Cap ,"$5,500,000 ","$3,219,512"
+450,"$4,875,000 ",39,"$585,366",9.23,-,Daniel Alfredsson,RW,-,Ottawa Senators 2012-2013 Salary Cap ,"$4,875,000 ",-
+451,"$4,333,333 ",27,"$2,780,488",8.21,-,Milan Michalek,LW,-,Ottawa Senators 2012-2013 Salary Cap ,"$4,333,333 ","$2,780,488"
+452,"$3,187,500 ",31,"$1,756,098",6.04,-,Craig Anderson,G,-,Ottawa Senators 2012-2013 Salary Cap ,"$3,187,500 ","$1,756,098"
+453,"$3,083,333 ",34,"$1,902,439",5.84,-,Chris Phillips,D,-,Ottawa Senators 2012-2013 Salary Cap ,"$3,083,333 ","$1,902,439"
+454,"$3,000,000 ",27,"$1,609,756",5.68,-,Marc Methot,D,-,Ottawa Senators 2012-2013 Salary Cap ,"$3,000,000 ","$1,609,756"
+455,"$2,000,000 ",25,"$1,170,732",3.79,-,Guillaume Latendresse,RW,-,Ottawa Senators 2012-2013 Salary Cap ,"$2,000,000 ",-
+456,"$2,000,000 ",33,"$1,170,732",3.79,-,Chris Neil,RW,-,Ottawa Senators 2012-2013 Salary Cap ,"$2,000,000 ","$1,170,732"
+457,"$1,400,000 ",23,"$936,585",2.65,-,Kyle Turris,C,-,Ottawa Senators 2012-2013 Salary Cap ,"$1,400,000 ","$936,585"
+458,"$1,295,000 ",21,"$810,000",2.45,"$425,000",Jared Cowen,D,-,Ottawa Senators 2012-2013 Salary Cap ,"$1,295,000 ","$810,000"
+459,"$1,150,000 ",28,"$1,150,000",2.18,-,Mike Lundin,D,-,Ottawa Senators 2012-2013 Salary Cap ,"$1,150,000 ",-
+460,"$925,000 ",22,"$478,537",1.75,-,Cory Conacher,C,"$92,500",Ottawa Senators 2012-2013 Salary Cap ,"$925,000 ",-
+461,"$875,000 ",22,"$512,195",1.66,-,Patrick Wiercioch,D,"$87,500",Ottawa Senators 2012-2013 Salary Cap ,"$875,000 ","$599,695"
+462,"$863,333 ",21,"$810,000",1.64,-,Jakob Silfverberg,RW,"$90,000",Ottawa Senators 2012-2013 Salary Cap ,"$863,333 ","$900,000"
+463,"$816,667 ",26,"$468,293",1.55,-,Colin Greening,C,-,Ottawa Senators 2012-2013 Salary Cap ,"$816,667 ","$468,293"
+464,"$800,000 ",26,"$468,293",1.52,-,Peter Regin,LW,-,Ottawa Senators 2012-2013 Salary Cap ,"$800,000 ","$468,293"
+465,"$700,000 ",24,"$453,659",1.33,-,Zack Smith,C,-,Ottawa Senators 2012-2013 Salary Cap ,"$700,000 ","$453,659"
+466,"$650,000 ",28,"$380,488",1.23,-,Andre Benoit,D,-,Ottawa Senators 2012-2013 Salary Cap ,"$650,000 ","$380,488"
+467,"$625,000 ",26,"$380,488",1.18,-,Erik Condra,LW,-,Ottawa Senators 2012-2013 Salary Cap ,"$625,000 ","$380,488"
+468,"$605,000 ",22,"$580,000",1.15,-,Derek Grant,LW,"$55,000",Ottawa Senators 2012-2013 Salary Cap ,"$605,000 ",-
+469,"$562,500 ",24,"$307,317",1.07,-,Eric Gryba,D,-,Ottawa Senators 2012-2013 Salary Cap ,"$562,500 ","$307,317"
+470,"$8,700,000 ",26,"$5,268,293",11.12,-,Evgeni Malkin,C,-,Pittsburgh Penguins 2012-2013 Salary Cap ,"$8,700,000 ","$5,268,293"
+471,"$8,700,000 ",25,"$4,390,244",11.12,-,Sidney Crosby,C,-,Pittsburgh Penguins 2012-2013 Salary Cap ,"$8,700,000 ","$4,390,244"
+472,"$7,000,000 ",35,"$4,097,561",8.95,-,Jarome Iginla,RW,-,Pittsburgh Penguins 2012-2013 Salary Cap ,"$7,000,000 ","$4,097,561"
+473,"$5,000,000 ",31,"$5,000,000",6.39,-,Paul Martin,D,-,Pittsburgh Penguins 2012-2013 Salary Cap ,"$5,000,000 ","$5,000,000"
+474,"$5,000,000 ",27,"$3,219,512",6.39,-,Marc-Andre Fleury,G,-,Pittsburgh Penguins 2012-2013 Salary Cap ,"$5,000,000 ","$3,219,512"
+475,"$5,000,000 ",25,"$2,926,829",6.39,-,James Neal,LW,-,Pittsburgh Penguins 2012-2013 Salary Cap ,"$5,000,000 ","$2,926,829"
+476,"$4,100,000 ",33,"$2,400,000",5.24,-,Brenden Morrow,LW,-,Pittsburgh Penguins 2012-2013 Salary Cap ,"$4,100,000 ","$2,400,000"
+477,"$3,750,000 ",32,"$2,195,122",4.80,-,Brooks Orpik,D,-,Pittsburgh Penguins 2012-2013 Salary Cap ,"$3,750,000 ","$2,195,122"
+478,"$3,725,000 ",33,"$2,180,488",4.76,-,Chris Kunitz,LW,-,Pittsburgh Penguins 2012-2013 Salary Cap ,"$3,725,000 ","$2,180,488"
+479,"$3,500,000 ",25,"$2,048,780",4.48,-,Kris Letang,D,-,Pittsburgh Penguins 2012-2013 Salary Cap ,"$3,500,000 ","$2,048,780"
+480,"$2,500,000 ",32,"$1,463,415",3.20,-,Douglas Murray,D,-,Pittsburgh Penguins 2012-2013 Salary Cap ,"$2,500,000 ",-
+481,"$2,300,000 ",25,"$1,229,268",2.94,-,Matt Niskanen,D,-,Pittsburgh Penguins 2012-2013 Salary Cap ,"$2,300,000 ","$1,229,268"
+482,"$2,270,000 ",29,"$1,756,098",2.90,-,Jussi Jokinen,LW,-,Pittsburgh Penguins 2012-2013 Salary Cap ,"$2,270,000 ","$1,756,098"
+483,"$2,066,667 ",23,"$1,170,732",2.64,-,Brandon Sutter,C,-,Pittsburgh Penguins 2012-2013 Salary Cap ,"$2,066,667 ","$1,170,732"
+484,"$2,000,000 ",26,"$1,170,732",2.56,-,Tyler Kennedy,C,-,Pittsburgh Penguins 2012-2013 Salary Cap ,"$2,000,000 ","$1,170,732"
+485,"$2,000,000 ",0,"$1,170,732",2.56,-,Tomas Vokoun,G,"$250,000",Pittsburgh Penguins 2012-2013 Salary Cap ,"$2,000,000 ","$1,170,732"
+486,"$1,800,000 ",34,"$731,707",2.30,-,Matt Cooke,LW,-,Pittsburgh Penguins 2012-2013 Salary Cap ,"$1,800,000 ","$731,707"
+487,"$1,536,923 ",23,"$507,621",1.97,-,Eric Hartzell,G,"$92,500",Pittsburgh Penguins 2012-2013 Salary Cap ,"$1,536,923 ",-
+488,"$1,500,000 ",33,"$878,049",1.92,-,Pascal Dupuis,LW,-,Pittsburgh Penguins 2012-2013 Salary Cap ,"$1,500,000 ","$878,049"
+489,"$1,100,000 ",28,"$543,902",1.41,-,Tanner Glass,LW,"$100,000",Pittsburgh Penguins 2012-2013 Salary Cap ,"$1,100,000 ","$643,902"
+490,"$925,000 ",18,-,1.18,-,Olli Maatta,D,"$92,500",Pittsburgh Penguins 2012-2013 Salary Cap ,"$925,000 ","$92,500"
+491,"$840,000 ",21,"$810,000",1.07,-,Simon Despres,D,-,Pittsburgh Penguins 2012-2013 Salary Cap ,"$840,000 ","$493,902"
+492,"$675,000 ",35,"$365,854",0.86,-,Craig Adams,RW,-,Pittsburgh Penguins 2012-2013 Salary Cap ,"$675,000 ","$365,854"
+493,"$575,000 ",24,"$365,854",0.74,-,Dustin Jeffrey,C,-,Pittsburgh Penguins 2012-2013 Salary Cap ,"$575,000 ",-
+494,"$566,667 ",30,"$525,000",0.72,-,Deryk Engelland,D,-,Pittsburgh Penguins 2012-2013 Salary Cap ,"$566,667 ","$525,000"
+495,"$550,000 ",27,"$307,317",0.70,-,Joe Vitale,C,-,Pittsburgh Penguins 2012-2013 Salary Cap ,"$550,000 ","$307,317"
+496,"$525,000 ",23,"$525,000",0.67,-,Robert Bortuzzo,D,-,Pittsburgh Penguins 2012-2013 Salary Cap ,"$525,000 ","$525,000"
+497,"$7,000,000 ",33,"$4,097,561",10.93,-,Joe Thornton,C,"$1,000,000",San Jose Sharks 2012-2013 Salary Cap ,"$7,000,000 ","$5,097,561"
+498,"$6,900,000 ",33,"$4,039,024",10.78,-,Patrick Marleau,LW,"$1,380,000",San Jose Sharks 2012-2013 Salary Cap ,"$6,900,000 ","$5,419,024"
+499,"$6,666,667 ",36,"$3,904,390",10.41,-,Dan Boyle,D,-,San Jose Sharks 2012-2013 Salary Cap ,"$6,666,667 ","$3,904,390"
+500,"$5,760,000 ",27,"$5,760,000",9.00,-,Brent Burns,D,-,San Jose Sharks 2012-2013 Salary Cap ,"$5,760,000 ","$5,760,000"
+501,"$5,000,000 ",31,"$2,926,829",7.81,-,Martin Havlat,LW,-,San Jose Sharks 2012-2013 Salary Cap ,"$5,000,000 ","$2,926,829"
+502,"$4,000,000 ",28,"$2,341,463",6.25,-,Joe Pavelski,LW,-,San Jose Sharks 2012-2013 Salary Cap ,"$4,000,000 ","$2,341,463"
+503,"$3,800,000 ",29,"$2,341,463",5.93,-,Antti Niemi,G,-,San Jose Sharks 2012-2013 Salary Cap ,"$3,800,000 ","$2,341,463"
+504,"$3,600,000 ",32,"$2,107,317",5.62,-,Brad Stuart,D,-,San Jose Sharks 2012-2013 Salary Cap ,"$3,600,000 ","$2,107,317"
+505,"$3,100,000 ",25,"$2,165,854",4.84,-,Marc-Edouard Vlasic,D,-,San Jose Sharks 2012-2013 Salary Cap ,"$3,100,000 ","$2,165,854"
+506,"$2,875,000 ",23,"$1,609,756",4.49,-,Logan Couture,C,-,San Jose Sharks 2012-2013 Salary Cap ,"$2,875,000 ","$1,609,756"
+507,"$1,850,000 ",29,"$1,082,927",2.89,-,Adam Burish,RW,-,San Jose Sharks 2012-2013 Salary Cap ,"$1,850,000 ","$1,082,927"
+508,"$1,750,000 ",30,"$1,024,390",2.73,-,Raffi Torres,LW,-,San Jose Sharks 2012-2013 Salary Cap ,"$1,750,000 ","$1,024,390"
+509,"$1,250,000 ",24,"$1,400,000",1.95,-,Jason Demers,D,-,San Jose Sharks 2012-2013 Salary Cap ,"$1,250,000 ","$1,400,000"
+510,"$1,250,000 ",25,"$585,366",1.95,-,Justin Braun,D,-,San Jose Sharks 2012-2013 Salary Cap ,"$1,250,000 ","$585,366"
+511,"$950,000 ",24,"$556,098",1.48,-,T.J. Galiardi,LW,-,San Jose Sharks 2012-2013 Salary Cap ,"$950,000 ","$556,098"
+512,"$925,000 ",22,"$541,463",1.44,"$250,000",Matt Tennyson,D,"$92,500",San Jose Sharks 2012-2013 Salary Cap ,"$925,000 ","$255,000"
+513,"$925,000 ",23,"$507,621",1.44,-,Troy Grosenick,G,"$92,500",San Jose Sharks 2012-2013 Salary Cap ,"$925,000 ",-
+514,"$825,000 ",24,"$482,927",1.29,-,James Sheppard,C,-,San Jose Sharks 2012-2013 Salary Cap ,"$825,000 ","$482,927"
+515,"$775,000 ",24,"$409,756",1.21,-,Tommy Wingels,RW,-,San Jose Sharks 2012-2013 Salary Cap ,"$775,000 ","$409,756"
+516,"$700,000 ",32,"$392,682",1.09,-,Scott Gomez,C,-,San Jose Sharks 2012-2013 Salary Cap ,"$700,000 ","$392,682"
+517,"$650,000 ",24,"$380,488",1.02,-,Matt Irwin,D,-,San Jose Sharks 2012-2013 Salary Cap ,"$650,000 ","$380,488"
+518,"$640,000 ",26,"$374,634",1.00,-,Andrew Desjardins,C,-,San Jose Sharks 2012-2013 Salary Cap ,"$640,000 ","$374,634"
+519,"$587,500 ",26,"$365,854",0.92,-,Thomas Greiss,G,-,San Jose Sharks 2012-2013 Salary Cap ,"$587,500 ","$365,854"
+520,"$577,500 ",25,"$338,049",0.90,-,Matt Pelech,D,-,San Jose Sharks 2012-2013 Salary Cap ,"$577,500 ",-
+521,"$6,680,000 ",29,"$3,863,415",11.11,-,Jay Bouwmeester,D,-,St Louis Blues 2012-2013 Salary Cap ,"$6,680,000 ","$3,863,415"
+522,"$4,700,000 ",0,"$2,458,537",7.82,-,Andy McDonald,C,-,St Louis Blues 2012-2013 Salary Cap ,"$4,700,000 ",-
+523,"$4,500,000 ",28,"$2,195,122",7.48,-,David Backes,C,-,St Louis Blues 2012-2013 Salary Cap ,"$4,500,000 ","$2,195,122"
+524,"$4,175,000 ",25,"$2,443,902",6.94,-,T.J. Oshie,RW,-,St Louis Blues 2012-2013 Salary Cap ,"$4,175,000 ","$2,443,902"
+525,"$3,812,500 ",24,"$1,756,098",6.34,-,David Perron,LW,-,St Louis Blues 2012-2013 Salary Cap ,"$3,812,500 ","$1,756,098"
+526,"$3,750,000 ",27,"$2,487,805",6.24,-,Jaroslav Halak,G,-,St Louis Blues 2012-2013 Salary Cap ,"$3,750,000 ","$2,487,805"
+527,"$3,362,500 ",28,"$2,087,805",5.59,-,Alexander Steen,LW,-,St Louis Blues 2012-2013 Salary Cap ,"$3,362,500 ","$2,087,805"
+528,"$3,166,667 ",31,"$1,756,098",5.27,-,Barret Jackman,D,-,St Louis Blues 2012-2013 Salary Cap ,"$3,166,667 ","$1,756,098"
+529,"$3,000,000 ",32,"$1,756,098",4.99,-,Jordan Leopold,D,-,St Louis Blues 2012-2013 Salary Cap ,"$3,000,000 ","$1,756,098"
+530,"$3,000,000 ",24,"$1,756,098",4.99,-,Chris Stewart,RW,-,St Louis Blues 2012-2013 Salary Cap ,"$3,000,000 ","$1,756,098"
+531,"$2,750,000 ",26,"$1,434,146",4.57,-,Roman Polak,D,-,St Louis Blues 2012-2013 Salary Cap ,"$2,750,000 ","$1,434,146"
+532,"$2,250,000 ",24,"$1,404,878",3.74,-,Patrik Berglund,C,-,St Louis Blues 2012-2013 Salary Cap ,"$2,250,000 ","$1,404,878"
+533,"$1,800,000 ",27,"$995,122",2.99,-,Brian Elliott,G,-,St Louis Blues 2012-2013 Salary Cap ,"$1,800,000 ","$995,122"
+534,"$1,300,000 ",25,"$760,976",2.16,-,Kris Russell,D,-,St Louis Blues 2012-2013 Salary Cap ,"$1,300,000 ","$760,976"
+535,"$1,300,000 ",25,"$760,976",2.16,-,Vladimir Sobotka,LW,-,St Louis Blues 2012-2013 Salary Cap ,"$1,300,000 ",-
+536,"$900,000 ",20,"$526,829",1.50,"$850,000",Vladimir Tarasenko,RW,"$90,000",St Louis Blues 2012-2013 Salary Cap ,"$900,000 ","$616,829"
+537,"$875,000 ",23,"$512,195",1.46,"$400,000",Ian Cole,D,"$87,500",St Louis Blues 2012-2013 Salary Cap ,"$875,000 ","$599,695"
+538,"$875,000 ",23,"$512,195",1.46,"$450,000",Kevin Shattenkirk,D,"$87,500",St Louis Blues 2012-2013 Salary Cap ,"$875,000 ","$599,695"
+539,"$830,000 ",20,"$526,829",1.38,"$400,000",Jaden Schwartz,LW,"$90,000",St Louis Blues 2012-2013 Salary Cap ,"$830,000 ","$616,829"
+540,"$816,666 ",22,"$787,500",1.36,"$2,350,000",Alex Pietrangelo,D,-,St Louis Blues 2012-2013 Salary Cap ,"$816,666 ","$787,500"
+541,"$816,666 ",22,"$432,164",1.36,-,Evgeny Grachev,C,-,St Louis Blues 2012-2013 Salary Cap ,"$816,666 ",-
+542,"$800,000 ",0,"$680,000",1.33,-,Paul Karpowich,G,"$80,000",St Louis Blues 2012-2013 Salary Cap ,"$800,000 ",-
+543,"$700,000 ",0,"$409,756",1.16,-,Jeff Woywitka,D,-,St Louis Blues 2012-2013 Salary Cap ,"$700,000 ",-
+544,"$700,000 ",0,"$380,488",1.16,-,Scott Nichol,C,-,St Louis Blues 2012-2013 Salary Cap ,"$700,000 ",-
+545,"$600,000 ",0,"$351,220",1.00,-,Andrew Murray,C,-,St Louis Blues 2012-2013 Salary Cap ,"$600,000 ",-
+546,"$600,000 ",25,"$351,220",1.00,-,Ryan Reaves,RW,-,St Louis Blues 2012-2013 Salary Cap ,"$600,000 ","$351,220"
+547,"$575,000 ",25,"$336,585",0.96,-,Taylor Chorney,D,-,St Louis Blues 2012-2013 Salary Cap ,"$575,000 ",-
+548,- ,20,"$525,000",0.00,-,Cody Beach,RW,"$75,000",St Louis Blues 2012-2013 Salary Cap ,- ,"$75,000"
+549,"$7,727,237 ",32,"$2,853,659",12.53,-,Vincent Lecavalier,RW,"$3,000,000",Tampa Bay Lightning 2012-2013 Salary Cap ,"$7,727,237 ","$10,000,000"
+550,"$7,500,000 ",22,"$5,000,000",12.16,-,Steven Stamkos,C,"$3,000,000",Tampa Bay Lightning 2012-2013 Salary Cap ,"$7,500,000 ","$8,000,000"
+551,"$5,625,000 ",37,"$3,500,000",9.12,-,Martin St. Louis,RW,"$2,000,000",Tampa Bay Lightning 2012-2013 Salary Cap ,"$5,625,000 ","$5,500,000"
+552,"$5,500,000 ",28,"$3,219,512",8.92,-,Matt Carle,D,-,Tampa Bay Lightning 2012-2013 Salary Cap ,"$5,500,000 ","$3,219,512"
+553,"$4,500,000 ",32,"$1,756,098",7.30,-,Ryan Malone,LW,-,Tampa Bay Lightning 2012-2013 Salary Cap ,"$4,500,000 ",-
+554,"$4,000,000 ",21,"$1,500,000",6.49,-,Victor Hedman,D,"$1,500,000",Tampa Bay Lightning 2012-2013 Salary Cap ,"$4,000,000 ","$3,000,000"
+555,"$3,875,000 ",33,"$2,341,463",6.28,-,Eric Brewer,D,-,Tampa Bay Lightning 2012-2013 Salary Cap ,"$3,875,000 ","$2,341,463"
+556,"$3,750,000 ",0,"$2,195,122",6.08,-,Sami Salo,D,-,Tampa Bay Lightning 2012-2013 Salary Cap ,"$3,750,000 ",-
+557,"$3,607,143 ",36,"$5,000,000",5.85,-,Mattias Ohlund,D,-,Tampa Bay Lightning 2012-2013 Salary Cap ,"$3,607,143 ","$5,000,000"
+558,"$2,362,500 ",27,"$1,390,244",3.83,-,Teddy Purcell,LW,-,Tampa Bay Lightning 2012-2013 Salary Cap ,"$2,362,500 ","$1,390,244"
+559,"$1,800,000 ",26,"$1,053,659",2.92,-,Benoit Pouliot,LW,-,Tampa Bay Lightning 2012-2013 Salary Cap ,"$1,800,000 ","$1,053,659"
+560,"$1,800,000 ",24,"$819,512",2.92,-,Anders Lindback,G,-,Tampa Bay Lightning 2012-2013 Salary Cap ,"$1,800,000 ",-
+561,"$1,300,000 ",0,"$731,707",2.11,-,Mathieu Garon,G,-,Tampa Bay Lightning 2012-2013 Salary Cap ,"$1,300,000 ",-
+562,"$1,000,000 ",27,"$614,634",1.62,-,Brandon Crombeen,RW,-,Tampa Bay Lightning 2012-2013 Salary Cap ,"$1,000,000 ","$614,634"
+563,"$900,000 ",27,"$684,358",1.46,-,Nate Thompson,C,-,Tampa Bay Lightning 2012-2013 Salary Cap ,"$900,000 ","$684,358"
+564,"$875,000 ",23,"$512,195",1.42,-,Alexander Killorn,C,"$87,500",Tampa Bay Lightning 2012-2013 Salary Cap ,"$875,000 ","$599,695"
+565,"$650,000 ",25,"$380,488",1.05,-,Ben Bishop,G,-,Tampa Bay Lightning 2012-2013 Salary Cap ,"$650,000 ","$380,488"
+566,"$600,000 ",27,"$351,220",0.97,-,Cedrick Desjardins,G,-,Tampa Bay Lightning 2012-2013 Salary Cap ,"$600,000 ",-
+567,"$600,000 ",0,"$351,220",0.97,-,Brendan Mikkelson,D,-,Tampa Bay Lightning 2012-2013 Salary Cap ,"$600,000 ",-
+568,"$600,000 ",25,"$351,220",0.97,-,Tom Pyatt,C,-,Tampa Bay Lightning 2012-2013 Salary Cap ,"$600,000 ",-
+569,"$577,500 ",23,"$338,049",0.94,-,Keith Aulie,D,-,Tampa Bay Lightning 2012-2013 Salary Cap ,"$577,500 ","$338,049"
+570,"$525,000 ",29,"$525,000",0.85,-,Mathieu Roy,D,-,Tampa Bay Lightning 2012-2013 Salary Cap ,"$525,000 ",-
+571,"$525,000 ",26,"$307,317",0.85,-,Pierre-Cedric Labrie,LW,-,Tampa Bay Lightning 2012-2013 Salary Cap ,"$525,000 ",-
+572,"$307,317 ",27,"$307,317",0.50,-,Mike Angelidis,LW,-,Tampa Bay Lightning 2012-2013 Salary Cap ,"$307,317 ","$307,317"
+573,"$6,500,000 ",27,"$3,804,878",10.59,-,Dion Phaneuf,D,-,Toronto Maple Leafs 2012-2013 Salary Cap ,"$6,500,000 ","$3,804,878"
+574,"$5,500,000 ",28,"$3,512,195",8.96,-,Mikhail Grabovski,C,"$1,500,000",Toronto Maple Leafs 2012-2013 Salary Cap ,"$5,500,000 ","$5,012,195"
+575,"$5,400,000 ",24,"$2,985,366",8.80,-,Philip Kessel,RW,-,Toronto Maple Leafs 2012-2013 Salary Cap ,"$5,400,000 ","$2,985,366"
+576,"$4,250,000 ",29,"$2,487,805",6.93,-,Joffrey Lupul,RW,-,Toronto Maple Leafs 2012-2013 Salary Cap ,"$4,250,000 ","$2,487,805"
+577,"$4,250,000 ",23,"$1,463,415",6.93,-,James Van Riemsdyk,LW,-,Toronto Maple Leafs 2012-2013 Salary Cap ,"$4,250,000 ","$1,463,415"
+578,"$3,875,000 ",31,"$3,900,000",6.31,-,John-Michael Liles,D,"$350,000",Toronto Maple Leafs 2012-2013 Salary Cap ,"$3,875,000 ","$4,250,000"
+579,"$3,250,000 ",27,"$1,902,439",5.30,-,Clarke MacArthur,LW,-,Toronto Maple Leafs 2012-2013 Salary Cap ,"$3,250,000 ","$1,902,439"
+580,"$2,800,000 ",26,"$2,600,000",4.56,-,Nikolai Kulemin,LW,-,Toronto Maple Leafs 2012-2013 Salary Cap ,"$2,800,000 ","$2,600,000"
+581,"$1,800,000 ",28,"$1,170,732",2.93,-,Ryan O'Byrne,D,-,Toronto Maple Leafs 2012-2013 Salary Cap ,"$1,800,000 ",-
+582,"$1,800,000 ",24,"$936,585",2.93,-,James Reimer,G,-,Toronto Maple Leafs 2012-2013 Salary Cap ,"$1,800,000 ","$936,585"
+583,"$1,500,000 ",29,"$1,400,000",2.44,-,Jay McClement,C,"$100,000",Toronto Maple Leafs 2012-2013 Salary Cap ,"$1,500,000 ","$1,500,000"
+584,"$1,500,000 ",26,"$819,512",2.44,-,Tyler Bozak,C,-,Toronto Maple Leafs 2012-2013 Salary Cap ,"$1,500,000 ","$819,512"
+585,"$1,325,000 ",25,"$731,707",2.16,-,Carl Gunnarsson,D,-,Toronto Maple Leafs 2012-2013 Salary Cap ,"$1,325,000 ","$731,707"
+586,"$1,200,000 ",25,"$702,439",1.96,-,Cody Franson,D,-,Toronto Maple Leafs 2012-2013 Salary Cap ,"$1,200,000 ","$702,439"
+587,"$1,000,000 ",30,"$585,366",1.63,-,Colton Orr,RW,-,Toronto Maple Leafs 2012-2013 Salary Cap ,"$1,000,000 ","$585,366"
+588,"$925,000 ",24,"$526,829",1.51,-,Matt Frattin,RW,"$50,000",Toronto Maple Leafs 2012-2013 Salary Cap ,"$925,000 ",-
+589,"$900,000 ",29,"$493,902",1.47,-,Drew Macintyre,G,-,Toronto Maple Leafs 2012-2013 Salary Cap ,"$900,000 ",-
+590,"$875,000 ",22,"$787,500",1.43,"$212,500",Jake Gardiner,D,"$87,500",Toronto Maple Leafs 2012-2013 Salary Cap ,"$875,000 ","$875,000"
+591,"$870,000 ",21,"$474,146",1.42,"$850,000",Nazem Kadri,C,-,Toronto Maple Leafs 2012-2013 Salary Cap ,"$870,000 ","$474,146"
+592,"$850,000 ",25,"$497,561",1.39,"$350,000",Leo Komarov,LW,"$85,000",Toronto Maple Leafs 2012-2013 Salary Cap ,"$850,000 ","$582,561"
+593,"$632,500 ",24,"$370,244",1.03,-,Frazer McLaren,LW,-,Toronto Maple Leafs 2012-2013 Salary Cap ,"$632,500 ",-
+594,"$612,500 ",26,"$351,220",1.00,-,Ben Scrivens,G,-,Toronto Maple Leafs 2012-2013 Salary Cap ,"$612,500 ","$351,220"
+595,"$600,000 ",26,"$351,220",0.98,-,Mark Fraser,D,-,Toronto Maple Leafs 2012-2013 Salary Cap ,"$600,000 ","$351,220"
+596,"$600,000 ",27,"$351,220",0.98,-,Ryan Hamilton,LW,-,Toronto Maple Leafs 2012-2013 Salary Cap ,"$600,000 ","$351,220"
+597,"$600,000 ",26,"$351,220",0.98,-,Mike Kostka,D,-,Toronto Maple Leafs 2012-2013 Salary Cap ,"$600,000 ",-
+598,"$600,000 ",25,"$351,220",0.98,-,Jussi Rynnas,G,-,Toronto Maple Leafs 2012-2013 Salary Cap ,"$600,000 ",-
+599,"$9,538,462 ",27,"$5,268,293",14.12,-,Alex Ovechkin,LW,-,Washington Capitals 2012-2013 Salary Cap ,"$9,538,462 ","$5,268,293"
+600,"$6,700,000 ",24,"$6,000,000",9.92,-,Nicklas Backstrom,C,-,Washington Capitals 2012-2013 Salary Cap ,"$6,700,000 ","$6,000,000"
+601,"$6,083,333 ",26,"$3,512,195",9.01,-,Mike Green,D,-,Washington Capitals 2012-2013 Salary Cap ,"$6,083,333 ","$3,512,195"
+602,"$5,000,000 ",32,"$2,926,829",7.40,-,Mike Ribeiro,C,-,Washington Capitals 2012-2013 Salary Cap ,"$5,000,000 ","$2,926,829"
+603,"$4,500,000 ",29,"$4,000,000",6.66,-,Brooks Laich,C,-,Washington Capitals 2012-2013 Salary Cap ,"$4,500,000 ","$4,000,000"
+604,"$4,500,000 ",31,"$3,219,512",6.66,-,Martin Erat,RW,-,Washington Capitals 2012-2013 Salary Cap ,"$4,500,000 ","$3,219,512"
+605,"$3,966,667 ",22,"$2,321,951",5.87,-,John Carlson,D,-,Washington Capitals 2012-2013 Salary Cap ,"$3,966,667 ","$2,321,951"
+606,"$3,000,000 ",31,"$1,756,098",4.44,-,Joel Ward,RW,-,Washington Capitals 2012-2013 Salary Cap ,"$3,000,000 ","$1,756,098"
+607,"$2,750,000 ",26,"$1,756,098",4.07,-,Jeff Schultz,D,-,Washington Capitals 2012-2013 Salary Cap ,"$2,750,000 ","$1,756,098"
+608,"$2,350,000 ",27,"$1,375,610",3.48,-,Troy Brouwer,RW,-,Washington Capitals 2012-2013 Salary Cap ,"$2,350,000 ","$1,375,610"
+609,"$1,750,000 ",33,"$1,053,659",2.59,-,Jason Chimera,LW,"$150,000",Washington Capitals 2012-2013 Salary Cap ,"$1,750,000 ","$1,203,659"
+610,"$1,500,000 ",32,"$878,049",2.22,-,John Erskine,D,-,Washington Capitals 2012-2013 Salary Cap ,"$1,500,000 ","$878,049"
+611,"$1,325,000 ",18,-,1.96,-,Thomas Wilson,RW,"$92,500",Washington Capitals 2012-2013 Salary Cap ,"$1,325,000 ","$92,500"
+612,"$1,285,000 ",24,"$743,415",1.90,-,Karl Alzner,D,-,Washington Capitals 2012-2013 Salary Cap ,"$1,285,000 ","$743,415"
+613,"$1,150,000 ",24,"$673,171",1.70,-,Michal Neuvirth,G,-,Washington Capitals 2012-2013 Salary Cap ,"$1,150,000 ","$673,171"
+614,"$1,050,000 ",24,"$585,366",1.55,-,Mathieu Perreault,C,-,Washington Capitals 2012-2013 Salary Cap ,"$1,050,000 ","$585,366"
+615,"$950,000 ",29,"$556,098",1.41,-,Joey Crabb,RW,-,Washington Capitals 2012-2013 Salary Cap ,"$950,000 ",-
+616,"$900,000 ",26,"$526,829",1.33,-,Jay Beagle,C,-,Washington Capitals 2012-2013 Salary Cap ,"$900,000 ","$526,829"
+617,"$900,000 ",21,"$526,829",1.33,-,Marcus Johansson,C,"$90,000",Washington Capitals 2012-2013 Salary Cap ,"$900,000 ","$616,829"
+618,"$845,833 ",22,"$787,500",1.25,-,John Carlson,D,-,Washington Capitals 2012-2013 Salary Cap ,"$845,833 ","$787,500"
+619,"$825,000 ",31,"$497,561",1.22,-,Matt Hendricks,LW,-,Washington Capitals 2012-2013 Salary Cap ,"$825,000 ","$497,561"
+620,"$816,666 ",0,"$351,220",1.21,-,Tomas Kundratek,D,-,Washington Capitals 2012-2013 Salary Cap ,"$816,666 ",-
+621,"$637,777 ",23,"$351,220",0.94,"$30,000",Braden Holtby,G,-,Washington Capitals 2012-2013 Salary Cap ,"$637,777 ","$351,220"
+622,"$600,000 ",27,"$351,220",0.89,-,Eric Fehr,C,-,Washington Capitals 2012-2013 Salary Cap ,"$600,000 ","$351,220"
+623,"$600,000 ",27,"$351,220",0.89,-,Aaron Volpatti,C,-,Washington Capitals 2012-2013 Salary Cap ,"$600,000 ","$351,220"
+624,"$265,009 ",26,"$288,109",0.39,-,Steven Oleksy,D,-,Washington Capitals 2012-2013 Salary Cap ,"$265,009 ",-
+625,"$5,250,000 ",21,"$1,756,098",9.10,-,Evander Kane,LW,-,Winnipeg Jets 2012-2013 Salary Cap ,"$5,250,000 ","$1,756,098"
+626,"$5,200,000 ",27,"$2,487,805",9.01,-,Dustin Byfuglien,D,-,Winnipeg Jets 2012-2013 Salary Cap ,"$5,200,000 ","$2,487,805"
+627,"$4,500,000 ",33,"$2,634,146",7.80,-,Olli Jokinen,LW,"$250,000",Winnipeg Jets 2012-2013 Salary Cap ,"$4,500,000 ","$2,884,146"
+628,"$4,500,000 ",31,"$1,756,098",7.80,-,Ron Hainsey,D,-,Winnipeg Jets 2012-2013 Salary Cap ,"$4,500,000 ","$1,756,098"
+629,"$4,400,000 ",26,"$3,000,000",7.62,-,Andrew Ladd,LW,"$1,500,000",Winnipeg Jets 2012-2013 Salary Cap ,"$4,400,000 ","$4,500,000"
+630,"$4,062,500 ",32,"$2,780,488",7.04,-,Nik Antropov,RW,-,Winnipeg Jets 2012-2013 Salary Cap ,"$4,062,500 ",-
+631,"$3,900,000 ",25,"$1,902,439",6.76,-,Ondrej Pavelec,G,-,Winnipeg Jets 2012-2013 Salary Cap ,"$3,900,000 ","$1,902,439"
+632,"$3,750,000 ",27,"$2,634,146",6.50,-,Tobias Enstrom,D,-,Winnipeg Jets 2012-2013 Salary Cap ,"$3,750,000 ","$2,634,146"
+633,"$2,550,000 ",26,"$1,551,220",4.42,-,Blake Wheeler,RW,-,Winnipeg Jets 2012-2013 Salary Cap ,"$2,550,000 ","$1,551,220"
+634,"$2,500,000 ",22,"$3,000,000",4.33,-,Zach Bogosian,D,-,Winnipeg Jets 2012-2013 Salary Cap ,"$2,500,000 ","$3,000,000"
+635,"$2,383,333 ",24,"$1,756,098",4.13,-,Bryan Little,C,-,Winnipeg Jets 2012-2013 Salary Cap ,"$2,383,333 ","$1,756,098"
+636,"$1,700,000 ",28,"$995,122",2.95,-,Mark Stuart,D,-,Winnipeg Jets 2012-2013 Salary Cap ,"$1,700,000 ","$995,122"
+637,"$1,600,000 ",29,"$1,500,000",2.77,-,Jim Slater,C,"$100,000",Winnipeg Jets 2012-2013 Salary Cap ,"$1,600,000 ","$1,600,000"
+638,"$1,600,000 ",0,"$936,585",2.77,-,Kyle Wellwood,C,-,Winnipeg Jets 2012-2013 Salary Cap ,"$1,600,000 ",-
+639,"$1,500,000 ",20,"$526,829",2.60,-,Alexander Burmistrov,C,"$90,000",Winnipeg Jets 2012-2013 Salary Cap ,"$1,500,000 ",-
+640,"$1,250,000 ",27,"$819,512",2.17,-,Grant Clitsome,D,-,Winnipeg Jets 2012-2013 Salary Cap ,"$1,250,000 ","$819,512"
+641,"$866,667 ",29,"$497,561",1.50,-,Chris Thorburn,RW,-,Winnipeg Jets 2012-2013 Salary Cap ,"$866,667 ","$497,561"
+642,"$726,000 ",23,"$424,976",1.26,-,Eric Tangradi,RW,-,Winnipeg Jets 2012-2013 Salary Cap ,"$726,000 ",-
+643,"$700,000 ",0,"$409,756",1.21,-,Derek Meech,D,-,Winnipeg Jets 2012-2013 Salary Cap ,"$700,000 ",-
+644,"$687,500 ",24,"$404,725",1.19,"$137,500",Zach Redmond,D,"$87,500",Winnipeg Jets 2012-2013 Salary Cap ,"$687,500 ","$492,225"
+645,"$650,000 ",22,"$380,488",1.13,-,James Wright,C,-,Winnipeg Jets 2012-2013 Salary Cap ,"$650,000 ",-
+646,"$605,000 ",23,"$354,146",1.05,-,Anthony Peluso,RW,-,Winnipeg Jets 2012-2013 Salary Cap ,"$605,000 ","$354,146"
+647,"$601,000 ",27,"$351,805",1.04,-,Al Montoya,G,-,Winnipeg Jets 2012-2013 Salary Cap ,"$601,000 ","$351,805"
+648,"$550,000 ",0,"$301,829",0.95,-,Arturs Kulda,D,-,Winnipeg Jets 2012-2013 Salary Cap ,"$550,000 ",-
+649,"$321,951 ",23,"$321,951",0.56,-,Paul Postma,D,-,Winnipeg Jets 2012-2013 Salary Cap ,"$321,951 ","$321,951"
