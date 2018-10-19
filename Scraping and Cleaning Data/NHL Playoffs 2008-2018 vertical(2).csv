@@ -1,5 +1,5 @@
 ﻿Team,2018_1,2018_2,2018_4,2018_8,2018_16,Year
-Washinton Capitals,TRUE,TRUE,TRUE,TRUE,TRUE,2018
+Washington Capitals,TRUE,TRUE,TRUE,TRUE,TRUE,2018
 Vegas Golden Knights,,TRUE,TRUE,TRUE,TRUE,2018
 Winnipeg Jets Atlanta Thrashers,,,TRUE,TRUE,TRUE,2018
 Tampa Bay Lightning,,,TRUE,TRUE,TRUE,2018
@@ -24,7 +24,7 @@ Calgary Flames,,,,,,2018
 Chicago Blackhawks,,,,,,2018
 Dallas Stars,,,,,,2018
 New York Islanders,,,,,,2018
-Detriot Red Wings,,,,,,2018
+Detroit Red Wings,,,,,,2018
 Florida Panthers,,,,,,2018
 Vancouver Canucks,,,,,,2018
 Arizona Coyotes,,,,,,2018
@@ -54,7 +54,7 @@ Calgary Flames,,,,,TRUE,2017
 Chicago Blackhawks,,,,,TRUE,2017
 Dallas Stars,,,,,,2017
 New York Islanders,,,,,,2017
-Detriot Red Wings,,,,,,2017
+Detroit Red Wings,,,,,,2017
 Florida Panthers,,,,,,2017
 Vancouver Canucks,,,,,,2017
 Arizona Coyotes,,,,,,2017
@@ -84,7 +84,7 @@ Calgary Flames,,,,,,2016
 Chicago Blackhawks,,,,,TRUE,2016
 Dallas Stars,,,,TRUE,TRUE,2016
 New York Islanders,,,,TRUE,TRUE,2016
-Detriot Red Wings,,,,,TRUE,2016
+Detroit Red Wings,,,,,TRUE,2016
 Florida Panthers,,,,,TRUE,2016
 Vancouver Canucks,,,,,,2016
 Arizona Coyotes,,,,,,2016
@@ -114,7 +114,7 @@ Calgary Flames,,,,TRUE,TRUE,2015
 Chicago Blackhawks,TRUE,TRUE,TRUE,TRUE,TRUE,2015
 Dallas Stars,,,,,,2015
 New York Islanders,,,,,TRUE,2015
-Detriot Red Wings,,,,,TRUE,2015
+Detroit Red Wings,,,,,TRUE,2015
 Florida Panthers,,,,,,2015
 Vancouver Canucks,,,,,TRUE,2015
 Arizona Coyotes,,,,,,2015
@@ -144,7 +144,7 @@ Calgary Flames,,,,,,2014
 Chicago Blackhawks,,,TRUE,TRUE,TRUE,2014
 Dallas Stars,,,,,TRUE,2014
 New York Islanders,,,,,,2014
-Detriot Red Wings,,,,,TRUE,2014
+Detroit Red Wings,,,,,TRUE,2014
 Florida Panthers,,,,,,2014
 Vancouver Canucks,,,,,,2014
 Arizona Coyotes,,,,,,2014
@@ -174,7 +174,7 @@ Calgary Flames,,,,,,2013
 Chicago Blackhawks,TRUE,TRUE,TRUE,TRUE,TRUE,2013
 Dallas Stars,,,,,,2013
 New York Islanders,,,,,TRUE,2013
-Detriot Red Wings,,,,TRUE,TRUE,2013
+Detroit Red Wings,,,,TRUE,TRUE,2013
 Florida Panthers,,,,,,2013
 Vancouver Canucks,,,,,TRUE,2013
 Arizona Coyotes,,,,,,2013
@@ -204,7 +204,7 @@ Calgary Flames,,,,,,2012
 Chicago Blackhawks,,,,,TRUE,2012
 Dallas Stars,,,,,,2012
 New York Islanders,,,,,,2012
-Detriot Red Wings,,,,,TRUE,2012
+Detroit Red Wings,,,,,TRUE,2012
 Florida Panthers,,,,,TRUE,2012
 Vancouver Canucks,,,,,TRUE,2012
 Arizona Coyotes,,,TRUE,TRUE,TRUE,2012
@@ -234,7 +234,7 @@ Calgary Flames,,,,,,2011
 Chicago Blackhawks,,,,,TRUE,2011
 Dallas Stars,,,,,,2011
 New York Islanders,,,,,,2011
-Detriot Red Wings,,,,TRUE,TRUE,2011
+Detroit Red Wings,,,,TRUE,TRUE,2011
 Florida Panthers,,,,,,2011
 Vancouver Canucks,,TRUE,TRUE,TRUE,TRUE,2011
 Arizona Coyotes,,,,,TRUE,2011
@@ -264,7 +264,7 @@ Calgary Flames,,,,,,2010
 Chicago Blackhawks,TRUE,TRUE,TRUE,TRUE,TRUE,2010
 Dallas Stars,,,,,,2010
 New York Islanders,,,,,,2010
-Detriot Red Wings,,,,TRUE,TRUE,2010
+Detroit Red Wings,,,,TRUE,TRUE,2010
 Florida Panthers,,,,,,2010
 Vancouver Canucks,,,,TRUE,TRUE,2010
 Arizona Coyotes,,,,,TRUE,2010
@@ -294,7 +294,7 @@ Calgary Flames,,,,,TRUE,2009
 Chicago Blackhawks,,,TRUE,TRUE,TRUE,2009
 Dallas Stars,,,,,,2009
 New York Islanders,,,,,,2009
-Detriot Red Wings,,TRUE,TRUE,TRUE,TRUE,2009
+Detroit Red Wings,,TRUE,TRUE,TRUE,TRUE,2009
 Florida Panthers,,,,,,2009
 Vancouver Canucks,,,,TRUE,TRUE,2009
 Arizona Coyotes,,,,,,2009
@@ -324,39 +324,9 @@ Calgary Flames,,,,,TRUE,2008
 Chicago Blackhawks,,,,,,2008
 Dallas Stars,,,TRUE,TRUE,TRUE,2008
 New York Islanders,,,,,,2008
-Detriot Red Wings,TRUE,TRUE,TRUE,TRUE,TRUE,2008
+Detroit Red Wings,TRUE,TRUE,TRUE,TRUE,TRUE,2008
 Florida Panthers,,,,,,2008
 Vancouver Canucks,,,,,,2008
 Arizona Coyotes,,,,,,2008
 Buffalo Sabres,,,,,,2008
 Carolina Hurricanes,,,,,,2008
-Washington Capitals,,,,,,2007
-Winnipeg Jets Atlanta Thrashers,,,,,TRUE,2007
-Tampa Bay Lightning,,,,,TRUE,2007
-Nashville Predators,,,,,TRUE,2007
-San Jose Sharks,,,,TRUE,TRUE,2007
-Boston Bruins,,,,,,2007
-Pittsburgh Penguins,,,,,TRUE,2007
-Philadelphia Flyers,,,,,,2007
-Toronto Maple Leafs,,,,,,2007
-Columbus Blue Jackets,,,,,,2007
-New Jersey Devis,,,,TRUE,TRUE,2007
-Anaheim Ducks,TRUE,TRUE,TRUE,TRUE,TRUE,2007
-Minnesota Wild,,,,,TRUE,2007
-Los Angeles Kings,,,,,,2007
-Colorado Avalanche,,,,,,2007
-Ottawa Senators,,TRUE,TRUE,TRUE,TRUE,2007
-St. Louis Blues,,,,,,2007
-Edmonton Oilers,,,,,,2007
-New York Rangers,,,,TRUE,TRUE,2007
-Montreal Canadians,,,,,,2007
-Calgary Flames,,,,,TRUE,2007
-Chicago Blackhawks,,,,,,2007
-Dallas Stars,,,,,TRUE,2007
-New York Islanders,,,,,TRUE,2007
-Detriot Red Wings,,,TRUE,TRUE,TRUE,2007
-Florida Panthers,,,,,,2007
-Vancouver Canucks,,,,TRUE,TRUE,2007
-Arizona Coyotes,,,,,,2007
-Buffalo Sabres,,,TRUE,TRUE,TRUE,2007
-Carolina Hurricanes,,,,,,2007
