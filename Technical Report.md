@@ -60,7 +60,9 @@ Going into this project I was looking for a way to quantify a teams depth. From 
 This function takes in a dataframe of all skaters (excluding goaltenders) in a given year. The function returns a balanced scoring dataframe for that given year. Balanced scoring is calculated by taking the average of points scored for all players in that year. Then the standard deviation for points scored in that year is calculated and added to the mean. This finds all of the players who scored a number of points that is one standard deviation above the mean for that year. Essentially, these are a teams top scorers. Next, this calculates what percentage of players on a given team are a part of the 'top scorers' class. This percentage is found by dividing the number of top scorers on a given team by 18 (18 is the number of skaters that dress in a given game). Finally, the function returns a dataframe which includes the team, the balanced scoring calculation, and the year as columns. Let's take a look at the relationships:
 
  *(fig. 3)*
- ![Balanced Scoring 2018](/Users/christophermanley/Data_Science_Projects/Predicting-NHL-Team-Success/Visuals/Balanced Scoring in 2018.png)
+ 
+ ![Balanced Scoring 2018](https://github.com/cmanley10/Predicting-NHL-Team-Success/blob/master/Visuals/Balanced%20Scoring%20in%202018.png)
+ 
  *Playoff teams in red*
 
  So, as we can see, in 2018 there is definitely a higher concentration of playoff teams who have balanced scoring. However, within those playoff teams, having more balanced scoring is not necessarily indicative of going further in the playoffs.
