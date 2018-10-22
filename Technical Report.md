@@ -31,7 +31,7 @@ Using this rank column I was able to begin to find correlations between team sta
  Plus Minus is an individual statistic that measure the goal differential while that player is on the ice. If your team scores while you are on the ice, your plus/minus increases by 1, and decreases by 1 if your team is scored against while you are on the ice. *Average Plus Minus* is the mean of every individual's plus minus on a given team. This is closely related to a team's goal differential.
 
   *(fig. 1)*
-![Average Plus Minus](/Users/christophermanley/Data_Science_Projects/Predicting-NHL-Team-Success/Visuals/Average Plus Minus Relative to Team Rank.png)
+![Average Plus Minus](/Data/Average Plus Minus Relative to Team Rank.png)
 *Champions are shown in orange*
 
   ---
