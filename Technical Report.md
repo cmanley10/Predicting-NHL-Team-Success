@@ -43,7 +43,9 @@ Using this rank column I was able to begin to find correlations between team sta
 - Corsi is an individual player stat that calculates shots on goal + shots that are blocked + shot attempts that miss the goal. The stat is calculated as CF, or Corsi For and CA, or Corsi Against. A Corsi percentage is calculated for each player by taking CF/(CF + CA). A Corsi For Percentage over %50, means that the team was controlling the puck more often than not when that particular player is on the ice. To turn this into a team statistic I have taken the mean of the Corsi For Percentage for each player on a given team in a given year. The idea is we get a clearer view of the team's overall puck posession in that season.
 
 *(fig. 2)*
-![Average Corsi For Percentage](/Users/christophermanley/Data_Science_Projects/Predicting-NHL-Team-Success/Visuals/Corsi Percentage Relative to Team Rank.png)
+
+![Average Corsi For Percentage](https://github.com/cmanley10/Predicting-NHL-Team-Success/blob/master/Visuals/Corsi%20Percentage%20Relative%20to%20Team%20Rank.png)
+
 *Champions are shown in orange*
 
 Many of the statistics I looked at have a strong correlation to 'rank', but not necessarily to the Stanley Cup Champion. This can be seen very clearly in **figure 1 - Average Plus Minus.**
