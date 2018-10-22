@@ -10,16 +10,16 @@ Pittsburgh Penguins,2018,8
 Philadelphia Flyers,2018,9
 Toronto Maple Leafs,2018,10
 Columbus Blue Jackets,2018,11
-New Jersey Devis,2018,12
+New Jersey Devils,2018,12
 Anaheim Ducks,2018,13
 Minnesota Wild,2018,14
 Los Angeles Kings,2018,15
 Colorado Avalanche,2018,16
 Ottawa Senators,2018,17
-St. Louis Blues,2018,18
+St Louis Blues,2018,18
 Edmonton Oilers,2018,19
 New York Rangers,2018,20
-Montreal Canadians,2018,21
+Montreal Canadiens,2018,21
 Calgary Flames,2018,22
 Chicago Blackhawks,2018,23
 Dallas Stars,2018,24
@@ -37,11 +37,11 @@ Ottawa Senators,2017,4
 Washington Capitals,2017,5
 Edmonton Oilers,2017,6
 New York Rangers,2017,7
-St. Louis Blues,2017,8
+St Louis Blues,2017,8
 Chicago Blackhawks,2017,9
 Columbus Blue Jackets,2017,10
 Minnesota Wild,2017,11
-Montreal Canadians,2017,12
+Montreal Canadiens,2017,12
 San Jose Sharks,2017,13
 Toronto Maple Leafs,2017,14
 Boston Bruins,2017,15
@@ -57,12 +57,12 @@ Dallas Stars,2017,24
 Detroit Red Wings,2017,25
 Buffalo Sabres,2017,26
 Arizona Coyotes,2017,27
-New Jersey Devis,2017,28
+New Jersey Devils,2017,28
 Vancouver Canucks,2017,29
 Colorado Avalanche,2017,30
 Pittsburgh Penguins,2016,1
 San Jose Sharks,2016,2
-St. Louis Blues,2016,3
+St Louis Blues,2016,3
 Tampa Bay Lightning,2016,4
 Washington Capitals,2016,5
 Dallas Stars,2016,6
@@ -79,8 +79,8 @@ Minnesota Wild,2016,16
 Boston Bruins,2016,17
 Carolina Hurricanes,2016,18
 Ottawa Senators,2016,19
-New Jersey Devis,2016,20
-Montreal Canadians,2016,21
+New Jersey Devils,2016,20
+Montreal Canadiens,2016,21
 Colorado Avalanche,2016,22
 Buffalo Sabres,2016,23
 Arizona Coyotes,2016,24
@@ -94,11 +94,11 @@ Chicago Blackhawks,2015,1
 Tampa Bay Lightning,2015,2
 New York Rangers,2015,3
 Anaheim Ducks,2015,4
-Montreal Canadians,2015,5
+Montreal Canadiens,2015,5
 Washington Capitals,2015,6
 Minnesota Wild,2015,7
 Calgary Flames,2015,8
-St. Louis Blues,2015,9
+St Louis Blues,2015,9
 Nashville Predators,2015,10
 Vancouver Canucks,2015,11
 New York Islanders,2015,12
@@ -114,7 +114,7 @@ Colorado Avalanche,2015,21
 San Jose Sharks,2015,22
 Columbus Blue Jackets,2015,23
 Philadelphia Flyers,2015,24
-New Jersey Devis,2015,25
+New Jersey Devils,2015,25
 Carolina Hurricanes,2015,26
 Toronto Maple Leafs,2015,27
 Edmonton Oilers,2015,28
@@ -123,14 +123,14 @@ Buffalo Sabres,2015,30
 Los Angeles Kings,2014,1
 New York Rangers,2014,2
 Chicago Blackhawks,2014,3
-Montreal Canadians,2014,4
+Montreal Canadiens,2014,4
 Boston Bruins,2014,5
 Anaheim Ducks,2014,6
 Pittsburgh Penguins,2014,7
 Minnesota Wild,2014,8
 Colorado Avalanche,2014,9
 San Jose Sharks,2014,10
-St. Louis Blues,2014,11
+St Louis Blues,2014,11
 Tampa Bay Lightning,2014,12
 Philadelphia Flyers,2014,13
 Detroit Red Wings,2014,14
@@ -139,7 +139,7 @@ Dallas Stars,2014,16
 Washington Capitals,2014,17
 Phoenix Coyotes,2014,18
 Nashville Predators,2014,19
-New Jersey Devis,2014,20
+New Jersey Devils,2014,20
 Ottawa Senators,2014,21
 Winnipeg Jets,2014,22
 Toronto Maple Leafs,2014,23
@@ -159,8 +159,8 @@ Ottawa Senators,2013,6
 Detroit Red Wings,2013,7
 New York Rangers,2013,8
 Anaheim Ducks,2013,9
-Montreal Canadians,2013,10
-St. Louis Blues,2013,11
+Montreal Canadiens,2013,10
+St Louis Blues,2013,11
 Vancouver Canucks,2013,12
 Toronto Maple Leafs,2013,13
 Washington Capitals,2013,14
@@ -171,7 +171,7 @@ Phoenix Coyotes,2013,18
 Winnipeg Jets,2013,19
 Philadelphia Flyers,2013,20
 Buffalo Sabres,2013,21
-New Jersey Devis,2013,22
+New Jersey Devils,2013,22
 Dallas Stars,2013,23
 Edmonton Oilers,2013,24
 Calgary Flames,2013,25
@@ -181,10 +181,10 @@ Tampa Bay Lightning,2013,28
 Colorado Avalanche,2013,29
 Florida Panthers,2013,30
 Los Angeles Kings,2012,1
-New Jersey Devis,2012,2
+New Jersey Devils,2012,2
 New York Rangers,2012,3
 Phoenix Coyotes,2012,4
-St. Louis Blues,2012,5
+St Louis Blues,2012,5
 Nashville Predators,2012,6
 Philadelphia Flyers,2012,7
 Washington Capitals,2012,8
@@ -207,7 +207,7 @@ Minnesota Wild,2012,24
 Anaheim Ducks,2012,25
 Toronto Maple Leafs,2012,26
 New York Islanders,2012,27
-Montreal Canadians,2012,28
+Montreal Canadiens,2012,28
 Edmonton Oilers,2012,29
 Columbus Blue Jackets,2012,30
 Boston Bruins,2011,1
@@ -223,16 +223,16 @@ Phoenix Coyotes,2011,10
 Anaheim Ducks,2011,11
 Los Angeles Kings,2011,12
 Chicago Blackhawks,2011,13
-Montreal Canadians,2011,14
+Montreal Canadiens,2011,14
 Buffalo Sabres,2011,15
 Dallas Stars,2011,16
 Calgary Flames,2011,17
 New York Rangers,2011,18
 Carolina Hurricanes,2011,19
-St. Louis Blues,2011,20
+St Louis Blues,2011,20
 Minnesota Wild,2011,21
 Toronto Maple Leafs,2011,22
-New Jersey Devis,2011,23
+New Jersey Devils,2011,23
 Columbus Blue Jackets,2011,24
 Atlanta Thrashers,2011,25
 Ottawa Senators,2011,26
@@ -243,21 +243,21 @@ Edmonton Oilers,2011,30
 Chicago Blackhawks,2010,1
 Philadelphia Flyers,2010,2
 San Jose Sharks,2010,3
-Montreal Canadians,2010,4
+Montreal Canadiens,2010,4
 Vancouver Canucks,2010,5
 Detroit Red Wings,2010,6
 Pittsburgh Penguins,2010,7
 Boston Bruins,2010,8
 Washington Capitals,2010,9
 Phoenix Coyotes,2010,10
-New Jersey Devis,2010,11
+New Jersey Devils,2010,11
 Los Angeles Kings,2010,12
 Nashville Predators,2010,13
 Buffalo Sabres,2010,14
 Colorado Avalanche,2010,15
 Ottawa Senators,2010,16
 Calgary Flames,2010,17
-St. Louis Blues,2010,18
+St Louis Blues,2010,18
 Anaheim Ducks,2010,19
 Dallas Stars,2010,20
 New York Rangers,2010,21
@@ -279,13 +279,13 @@ Washington Capitals,2009,6
 Vancouver Canucks,2009,7
 Anaheim Ducks,2009,8
 San Jose Sharks,2009,9
-New Jersey Devis,2009,10
+New Jersey Devils,2009,10
 Philadelphia Flyers,2009,11
 Calgary Flames,2009,12
 New York Rangers,2009,13
-Montreal Canadians,2009,14
+Montreal Canadiens,2009,14
 Columbus Blue Jackets,2009,15
-St. Louis Blues,2009,16
+St Louis Blues,2009,16
 Florida Panthers,2009,17
 Buffalo Sabres,2009,18
 Minnesota Wild,2009,19
@@ -305,11 +305,11 @@ Pittsburgh Penguins,2008,2
 Dallas Stars,2008,3
 Philadelphia Flyers,2008,4
 San Jose Sharks,2008,5
-Montreal Canadians,2008,6
+Montreal Canadiens,2008,6
 New York Rangers,2008,7
 Colorado Avalanche,2008,8
 Anaheim Ducks,2008,9
-New Jersey Devis,2008,10
+New Jersey Devils,2008,10
 Minnesota Wild,2008,11
 Ottawa Senators,2008,12
 Boston Bruins,2008,13
@@ -325,7 +325,7 @@ Florida Panthers,2008,22
 Phoenix Coyotes,2008,23
 Toronto Maple Leafs,2008,24
 Columbus Blue Jackets,2008,25
-St. Louis Blues,2008,26
+St Louis Blues,2008,26
 New York Islanders,2008,27
 Atlanta Thrashers,2008,28
 Los Angeles Kings,2008,29
