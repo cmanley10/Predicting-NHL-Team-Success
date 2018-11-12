@@ -57,17 +57,17 @@ Going into this project I was looking for a way to quantify a teams depth. From 
 
 **The Balanced Scoring Function:**
 
-This function takes in a dataframe of all skaters (excluding goaltenders) in a given year. The function returns a balanced scoring dataframe for that given year. Balanced scoring is calculated by taking the average of points scored for all players in that year. Then the standard deviation for points scored in that year is calculated and added to the mean. This finds all of the players who scored a number of points that is one standard deviation above the mean for that year. Essentially, these are a teams top scorers. Next, this calculates what percentage of players on a given team are a part of the 'top scorers' class. This percentage is found by dividing the number of top scorers on a given team by 18 (18 is the number of skaters that dress in a given game). Finally, the function returns a dataframe which includes the team, the balanced scoring calculation, and the year as columns. Let's take a look at the relationships:
+This function takes in a dataframe of all skaters (excluding goaltenders) in a given year. The function returns a balanced scoring dataframe for that given year. Balanced scoring is calculated by taking the average of points scored for all players in that year. Then the standard deviation for points scored in that year is calculated and added to the mean. This finds all of the players who scored a number of points that is one standard deviation above the mean for that year. Essentially, these are a teams top scorers. Next, this calculates what percentage of players on a given team are a part of the 'top scorers' class. This percentage is found by dividing the number of top scorers on a given team by 18 (18 is the number of skaters that dress in a given game). Finally, the function returns a dataframe which includes the team, the balanced scoring calculation, and the year as columns. Let's take a look a closer look:
 
  *(fig. 3)*
 
- ![Balanced Scoring 2018](https://github.com/cmanley10/Predicting-NHL-Team-Success/blob/master/Visuals/Balanced%20Scoring%20in%202018.png)
-
- *Playoff teams in red*
+ ![Balanced Scoring Function Code Snippet](https://github.com/cmanley10/Predicting-NHL-Team-Success/blob/master/Visuals/Balanced%20Scoring%20Function.png)
 
 *(fig. 4)*
 
-![Balanced Scoring Function Code Snippet]()
+![Balanced Scoring 2018](https://github.com/cmanley10/Predicting-NHL-Team-Success/blob/master/Visuals/Balanced%20Scoring%20in%202018.png)
+
+*Playoff teams in red*
 
  So, as we can see, in 2018 there is definitely a higher concentration of playoff teams who have balanced scoring. However, within those playoff teams, having more balanced scoring is not necessarily indicative of going further in the playoffs.
 
@@ -87,21 +87,25 @@ The Multiclass Logistic Regression will allow me to predict every teams final se
   ---
 
 ## Results
-As I suspected, my model did not end up being very accurate. However, it actually did better than I thought when considering how little data it had to work with.
+As I suspected, the overall accuracy score is not very high. However, the model actually did better than I thought when considering how little data it had to work with.
 
-**Accuracy Score on test data** - .12
+**Accuracy Score on test data** - .18
 
-While that score sounds awful, consider that the model has to make 30 predictions for every year. Furthermore, the teams are so tightly packed both in standings and team statistics. This is the true problem with predicting outcomes in sports. Let's take a look at an image of what my predictions look like:
+While the score is very low, consider that the model has to make 30 predictions for every year. Furthermore, the teams are so tightly packed both in standings and team statistics. Let's take a look at an image of what my predictions look like:
 
-*(fig. 4)*
-![Predictions](/Users/christophermanley/Data_Science_Projects/Predicting-NHL-Team-Success/Visuals/Predicted Ranks and Probabilities.png)
+*(fig. 5)*
+
+![2016 Predictions](https://github.com/cmanley10/Predicting-NHL-Team-Success/blob/master/Visuals/2016%20Predicted%20Ranks%20and%20Probabilities.png)
 
 So, as we can see, while the model does not do a great job of predicting the exact spot where a team will finish, it doesn't do a bad job of getting close. In this particular year it even accurately predicted the two finalists, Pittsburgh and San Jose. Although, it did not accurately predict the winner.
 
   ---
 
 ## Future Considerations
-This was a fun project, and one I would consider building on. Given more time there are 2 major areas where I would like to focus.
- - Feature Engineering: I would like to spend more time digging in and creating my own statistics. The process for finding stats that correlated highly with cup champions was very difficult and largely a matter of trial and error.
+This was a fun project, and one I would consider building on. Having gone through the process of collecting this data and making predictions I can answer the initial question posed at the beginning of this project. Given regular season statistics, it is very difficult to build a classification model to predict postseason outcomes with high accuracy. Here is what I would do differently:
 
-- Model Interpretation: While I gained a pretty good understanding of specific statistics that make a team good, I would like to dig further into interpreting the model coefficients.
+- Model Selection:
+I now believe that a classification model may not be the best way to attempt to solve this problem. Because the model has to make so many predictions with so little data, it is very hesitant to make predictions that a team will be very highly ranked because there are so few examples of that in the data. This essentially boils down to a kind of unbalanced class problem. Additionally, the model as it is currently constructed, has no real understanding of 'other' teams, ie: head-to-head matchups.
+
+- Next Idea:
+What I would like to try next is to focus on the handful of statistics that are predictive of a single team beating another team in a given game. I need to focus more on specific match-ups rather than overall team statistics for the year. If I can assign a probability of Team A beating Team B in a playoff series, I can do that for all of the first round matchups. Given those probabilities I can find the conditional probabilities for a given team against all other teams they may face.  
