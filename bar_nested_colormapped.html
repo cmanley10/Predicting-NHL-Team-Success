@@ -1,0 +1,60 @@
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Bokeh Plot</title>
+        
+<link rel="stylesheet" href="https://cdn.pydata.org/bokeh/release/bokeh-0.12.16.min.css" type="text/css" />
+        
+<script type="text/javascript" src="https://cdn.pydata.org/bokeh/release/bokeh-0.12.16.min.js"></script>
+<script type="text/javascript">
+    Bokeh.set_log_level("info");
+</script>
+    </head>
+    <body>
+        
+        <div class="bk-root">
+            <div class="bk-plotdiv" id="c0e6cf0f-186e-443b-94dc-2708475669e3"></div>
+        </div>
+        
+        <script type="application/json" id="b305da5e-84a5-4630-9239-4c2718b8e8fb">
+          {"9ecd9519-52b3-45c6-b15b-8c779cc08db1":{"roots":{"references":[{"attributes":{"formatter":{"id":"77fee603-8bf6-4212-8633-b5cb8e3e49de","type":"CategoricalTickFormatter"},"major_label_orientation":1,"plot":{"id":"7487bd83-8d44-46de-968f-5307e2ddcf48","subtype":"Figure","type":"Plot"},"ticker":{"id":"7ef80ba0-f41a-40af-ab5b-12980660e679","type":"CategoricalTicker"}},"id":"76371f11-2a52-4dd6-883f-2dfc02a6e41a","type":"CategoricalAxis"},{"attributes":{"end":2,"factors":["2015","2016","2017"],"palette":["#c9d9d3","#718dbf","#e84d60"],"start":1},"id":"5de1e0db-5ff8-42d3-a728-69ec61d80f47","type":"CategoricalColorMapper"},{"attributes":{},"id":"7ef80ba0-f41a-40af-ab5b-12980660e679","type":"CategoricalTicker"},{"attributes":{"below":[{"id":"76371f11-2a52-4dd6-883f-2dfc02a6e41a","type":"CategoricalAxis"}],"left":[{"id":"6e94997b-c2ba-4340-8547-b0985f67d44b","type":"LinearAxis"}],"plot_height":350,"renderers":[{"id":"76371f11-2a52-4dd6-883f-2dfc02a6e41a","type":"CategoricalAxis"},{"id":"d8eb1eea-940a-4f49-95e0-c9241fcea2f5","type":"Grid"},{"id":"6e94997b-c2ba-4340-8547-b0985f67d44b","type":"LinearAxis"},{"id":"9f31fdbd-89ea-4287-8cc1-2ae05144ee3e","type":"Grid"},{"id":"9eb62008-edd1-488c-ad57-18af0f432b05","type":"GlyphRenderer"}],"title":{"id":"188a35ef-6076-4437-a19d-461707f4cee2","type":"Title"},"toolbar":{"id":"40a5e257-177d-4d89-ac21-8b2183cd3af9","type":"Toolbar"},"toolbar_location":null,"x_range":{"id":"ae96d566-e4af-4ce8-bcdd-4a612b692eef","type":"FactorRange"},"x_scale":{"id":"65a700cb-6da0-4e09-9101-eef8b401b478","type":"CategoricalScale"},"y_range":{"id":"9f302b88-a564-4d85-9456-ff4dcceecd9b","type":"DataRange1d"},"y_scale":{"id":"8f40409f-ae68-4a80-89a7-bdf68055453c","type":"LinearScale"}},"id":"7487bd83-8d44-46de-968f-5307e2ddcf48","subtype":"Figure","type":"Plot"},{"attributes":{"grid_line_color":{"value":null},"plot":{"id":"7487bd83-8d44-46de-968f-5307e2ddcf48","subtype":"Figure","type":"Plot"},"ticker":{"id":"7ef80ba0-f41a-40af-ab5b-12980660e679","type":"CategoricalTicker"}},"id":"d8eb1eea-940a-4f49-95e0-c9241fcea2f5","type":"Grid"},{"attributes":{"source":{"id":"119f6e2e-af44-4c1b-b762-19fa19d36b5a","type":"ColumnDataSource"}},"id":"30648b9d-e2c4-403c-969f-0d0c71fdf50a","type":"CDSView"},{"attributes":{"fill_color":{"field":"x","transform":{"id":"5de1e0db-5ff8-42d3-a728-69ec61d80f47","type":"CategoricalColorMapper"}},"line_color":{"value":"white"},"top":{"field":"counts"},"width":{"value":0.9},"x":{"field":"x"}},"id":"c3bc967a-1025-448d-b820-27931e7d9c1a","type":"VBar"},{"attributes":{"fill_alpha":{"value":0.1},"fill_color":{"value":"#1f77b4"},"line_alpha":{"value":0.1},"line_color":{"value":"#1f77b4"},"top":{"field":"counts"},"width":{"value":0.9},"x":{"field":"x"}},"id":"c1e7ec78-6f15-46d8-879f-ce21d052ad25","type":"VBar"},{"attributes":{"callback":null,"data":{"counts":[2,5,3,1,3,2,4,3,4,3,2,4,2,4,5,4,6,3],"x":[["Apples","2015"],["Apples","2016"],["Apples","2017"],["Pears","2015"],["Pears","2016"],["Pears","2017"],["Nectarines","2015"],["Nectarines","2016"],["Nectarines","2017"],["Plums","2015"],["Plums","2016"],["Plums","2017"],["Grapes","2015"],["Grapes","2016"],["Grapes","2017"],["Strawberries","2015"],["Strawberries","2016"],["Strawberries","2017"]]},"selected":{"id":"df59e8ae-b92f-417a-afa2-d1b9d5eaaf00","type":"Selection"},"selection_policy":{"id":"f57e8c86-fd2d-46d3-9033-4ad7fd8b2a87","type":"UnionRenderers"}},"id":"119f6e2e-af44-4c1b-b762-19fa19d36b5a","type":"ColumnDataSource"},{"attributes":{},"id":"7d9160d0-e2a8-486b-9a6b-d39005435a95","type":"BasicTicker"},{"attributes":{"active_drag":"auto","active_inspect":"auto","active_scroll":"auto","active_tap":"auto"},"id":"40a5e257-177d-4d89-ac21-8b2183cd3af9","type":"Toolbar"},{"attributes":{"dimension":1,"plot":{"id":"7487bd83-8d44-46de-968f-5307e2ddcf48","subtype":"Figure","type":"Plot"},"ticker":{"id":"7d9160d0-e2a8-486b-9a6b-d39005435a95","type":"BasicTicker"}},"id":"9f31fdbd-89ea-4287-8cc1-2ae05144ee3e","type":"Grid"},{"attributes":{"data_source":{"id":"119f6e2e-af44-4c1b-b762-19fa19d36b5a","type":"ColumnDataSource"},"glyph":{"id":"c3bc967a-1025-448d-b820-27931e7d9c1a","type":"VBar"},"hover_glyph":null,"muted_glyph":null,"nonselection_glyph":{"id":"c1e7ec78-6f15-46d8-879f-ce21d052ad25","type":"VBar"},"selection_glyph":null,"view":{"id":"30648b9d-e2c4-403c-969f-0d0c71fdf50a","type":"CDSView"}},"id":"9eb62008-edd1-488c-ad57-18af0f432b05","type":"GlyphRenderer"},{"attributes":{},"id":"f57e8c86-fd2d-46d3-9033-4ad7fd8b2a87","type":"UnionRenderers"},{"attributes":{},"id":"8f40409f-ae68-4a80-89a7-bdf68055453c","type":"LinearScale"},{"attributes":{},"id":"65a700cb-6da0-4e09-9101-eef8b401b478","type":"CategoricalScale"},{"attributes":{"formatter":{"id":"ec67f239-5dd0-40f6-a715-089a053c6c80","type":"BasicTickFormatter"},"plot":{"id":"7487bd83-8d44-46de-968f-5307e2ddcf48","subtype":"Figure","type":"Plot"},"ticker":{"id":"7d9160d0-e2a8-486b-9a6b-d39005435a95","type":"BasicTicker"}},"id":"6e94997b-c2ba-4340-8547-b0985f67d44b","type":"LinearAxis"},{"attributes":{},"id":"df59e8ae-b92f-417a-afa2-d1b9d5eaaf00","type":"Selection"},{"attributes":{"callback":null,"factors":[["Apples","2015"],["Apples","2016"],["Apples","2017"],["Pears","2015"],["Pears","2016"],["Pears","2017"],["Nectarines","2015"],["Nectarines","2016"],["Nectarines","2017"],["Plums","2015"],["Plums","2016"],["Plums","2017"],["Grapes","2015"],["Grapes","2016"],["Grapes","2017"],["Strawberries","2015"],["Strawberries","2016"],["Strawberries","2017"]],"range_padding":0.1},"id":"ae96d566-e4af-4ce8-bcdd-4a612b692eef","type":"FactorRange"},{"attributes":{},"id":"77fee603-8bf6-4212-8633-b5cb8e3e49de","type":"CategoricalTickFormatter"},{"attributes":{"callback":null,"start":0},"id":"9f302b88-a564-4d85-9456-ff4dcceecd9b","type":"DataRange1d"},{"attributes":{},"id":"ec67f239-5dd0-40f6-a715-089a053c6c80","type":"BasicTickFormatter"},{"attributes":{"plot":null,"text":"Fruit Counts by Year"},"id":"188a35ef-6076-4437-a19d-461707f4cee2","type":"Title"}],"root_ids":["7487bd83-8d44-46de-968f-5307e2ddcf48"]},"title":"Bokeh Application","version":"0.12.16"}}
+        </script>
+        <script type="text/javascript">
+          (function() {
+            var fn = function() {
+              Bokeh.safely(function() {
+                (function(root) {
+                  function embed_document(root) {
+                    
+                  var docs_json = document.getElementById('b305da5e-84a5-4630-9239-4c2718b8e8fb').textContent;
+                  var render_items = [{"docid":"9ecd9519-52b3-45c6-b15b-8c779cc08db1","elementid":"c0e6cf0f-186e-443b-94dc-2708475669e3","modelid":"7487bd83-8d44-46de-968f-5307e2ddcf48"}];
+                  root.Bokeh.embed.embed_items(docs_json, render_items);
+                
+                  }
+                  if (root.Bokeh !== undefined) {
+                    embed_document(root);
+                  } else {
+                    var attempts = 0;
+                    var timer = setInterval(function(root) {
+                      if (root.Bokeh !== undefined) {
+                        embed_document(root);
+                        clearInterval(timer);
+                      }
+                      attempts++;
+                      if (attempts > 100) {
+                        console.log("Bokeh: ERROR: Unable to run BokehJS code because BokehJS library is missing")
+                        clearInterval(timer);
+                      }
+                    }, 10, root)
+                  }
+                })(window);
+              });
+            };
+            if (document.readyState != "loading") fn();
+            else document.addEventListener("DOMContentLoaded", fn);
+          })();
+        </script>
+    </body>
+</html>

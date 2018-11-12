@@ -31,7 +31,7 @@ Using this rank column I was able to begin to find correlations between team sta
  Plus Minus is an individual statistic that measure the goal differential while that player is on the ice. If your team scores while you are on the ice, your plus/minus increases by 1, and decreases by 1 if your team is scored against while you are on the ice. *Average Plus Minus* is the mean of every individual's plus minus on a given team. This is closely related to a team's goal differential.
 
   *(fig. 1)*
-  
+
 ![Average Plus Minus](https://github.com/cmanley10/Predicting-NHL-Team-Success/blob/master/Visuals/Average%20Plus%20Minus%20Relative%20to%20Team%20Rank.png)
 
 *Champions are shown in orange*
@@ -40,7 +40,7 @@ Using this rank column I was able to begin to find correlations between team sta
 
 **Average Corsi For Percentage**
 
-- Corsi is an individual player stat that calculates shots on goal + shots that are blocked + shot attempts that miss the goal. The stat is calculated as CF, or Corsi For and CA, or Corsi Against. A Corsi percentage is calculated for each player by taking CF/(CF + CA). A Corsi For Percentage over %50, means that the team was controlling the puck more often than not when that particular player is on the ice. To turn this into a team statistic I have taken the mean of the Corsi For Percentage for each player on a given team in a given year. The idea is we get a clearer view of the team's overall puck posession in that season.
+- Corsi is an individual player stat that calculates shots on goal + shots that are blocked + shot attempts that miss the goal. The stat is calculated as CF, or Corsi For and CA, or Corsi Against. A Corsi percentage is calculated for each player by taking CF/(CF + CA). A Corsi For Percentage over %50, means that the team was controlling the puck more often than not when that particular player is on the ice. To turn this into a team statistic I have taken the mean of the Corsi For Percentage for each player on a given team in a given year. The idea is we get a clearer view of the team's overall puck possession in that season.
 
 *(fig. 2)*
 
@@ -60,10 +60,14 @@ Going into this project I was looking for a way to quantify a teams depth. From 
 This function takes in a dataframe of all skaters (excluding goaltenders) in a given year. The function returns a balanced scoring dataframe for that given year. Balanced scoring is calculated by taking the average of points scored for all players in that year. Then the standard deviation for points scored in that year is calculated and added to the mean. This finds all of the players who scored a number of points that is one standard deviation above the mean for that year. Essentially, these are a teams top scorers. Next, this calculates what percentage of players on a given team are a part of the 'top scorers' class. This percentage is found by dividing the number of top scorers on a given team by 18 (18 is the number of skaters that dress in a given game). Finally, the function returns a dataframe which includes the team, the balanced scoring calculation, and the year as columns. Let's take a look at the relationships:
 
  *(fig. 3)*
- 
+
  ![Balanced Scoring 2018](https://github.com/cmanley10/Predicting-NHL-Team-Success/blob/master/Visuals/Balanced%20Scoring%20in%202018.png)
- 
+
  *Playoff teams in red*
+
+*(fig. 4)*
+
+![Balanced Scoring Function Code Snippet]()
 
  So, as we can see, in 2018 there is definitely a higher concentration of playoff teams who have balanced scoring. However, within those playoff teams, having more balanced scoring is not necessarily indicative of going further in the playoffs.
 
@@ -99,5 +103,5 @@ So, as we can see, while the model does not do a great job of predicting the exa
 ## Future Considerations
 This was a fun project, and one I would consider building on. Given more time there are 2 major areas where I would like to focus.
  - Feature Engineering: I would like to spend more time digging in and creating my own statistics. The process for finding stats that correlated highly with cup champions was very difficult and largely a matter of trial and error.
- 
+
 - Model Interpretation: While I gained a pretty good understanding of specific statistics that make a team good, I would like to dig further into interpreting the model coefficients.
